@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="ja"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="ja"> <!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} &ndash; {% endif %}{{ site.title }}</title>
+    <meta name="author" content="{{ site.author }}">
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="/css/normalize.css" />
+    <link rel="stylesheet" href="/css/foundation.min.css" />
+</head>
+
+<body>
+    <header>
+        <nav class="top-bar">
+            <div class="row">
+                <div class="small-10 small-centered columns">
+                    <ul class="title-area">
+                        <li class="name"><h1><a href="/">{{ site.title }}</a></h1></li>
+                    </ul>
+                    <section class="top-bar-section">
+                        <ul class="left">
+                            <li class="divider"></li>
+                            <li><a href="/program.html">プログラム</a></li>
+                            <li><a href="/sponsors.html">スポンサー</a></li>
+                        </ul>
+                    </section>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="row">
+        <div id="container" class="small-10 small-centered columns">
+            {{ content }}
+        </div>
+    </div>
+</body>
+</html>
