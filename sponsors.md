@@ -13,11 +13,11 @@ title: スポンサー
 
 資格、特典       |                            |
 ---------------- | -------------------------- |
-金額             | 5万円から（要相談）        |
+金額             | 3万円から（要相談）        |
 セッション発表枠 | 1つ確保                    |
 その他           | 公式サイトにバナー広告掲載 |
 
-イベントスポンサーにご興味のがある団体様は、是非[お問い合わせ](https://docs.google.com/forms/d/1MGJ4bVv8hpyXeLjvcGzZDpl838ZGHPA_plLqX_BJSbA/viewform)下さい。
+イベントスポンサーにご興味のある団体様は、是非[お問い合わせ](https://docs.google.com/forms/d/1MGJ4bVv8hpyXeLjvcGzZDpl838ZGHPA_plLqX_BJSbA/viewform)下さい。
 
 
 ### メディアスポンサー
