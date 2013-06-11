@@ -30,6 +30,7 @@ layout: layout
 ---------- | ------------------------------------------------------------------
 実行委員長 | 西島 幸一郎 [@k_nishijima](https://twitter.com/k_nishijima)
 副委員長   | 小橋川 匡 [@kosaru](https://twitter.com/kosaru)
+副委員長   | 平良 知広 [@Tomohiro](https://twitter.com/Tomohiro)
 
 
 ### 協力ユーザグループ
