@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: top
 ---
 
 
@@ -43,7 +43,7 @@ JAWS-UG沖縄             | http://jaws-ug.jp/bc/okinawa/
 JPUG沖縄支部            | http://www.postgresql.jp/branch/okinawa/                                 
 Okinawa.rb              | http://qwik.jp/okinawarb/                                                
 日本Androidの会沖縄支部 | https://groups.google.com/forum/?fromgroups#!forum/android-group-okinawa 
-yomitan.pm              | http://yomitanpm.org/                                                    
+Yomitan.pm              | http://yomitanpm.org/                                                    
 
 
 参加したいぜ！という沖縄県内のユーザグループの代表の方、是非[ご連絡](https://docs.google.com/forms/d/1MGJ4bVv8hpyXeLjvcGzZDpl838ZGHPA_plLqX_BJSbA/viewform)下さい！

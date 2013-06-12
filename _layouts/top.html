@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="ja"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="ja"> <!--<![endif]-->
+
+<head>
+    <meta charset="utf-8">
+    <title>{% if page.title %}{{ page.title }} &ndash; {% endif %}{{ site.title }}</title>
+    <meta name="author" content="{{ site.author }}">
+    <meta name="description" content="{{ site.description }}">
+    <link rel="stylesheet" href="css/normalize.css" />
+    <link rel="stylesheet" href="css/foundation.min.css" />
+    <script>
+      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+      ga('create', 'UA-41571260-1', 'hackers-champloo.org');
+      ga('send', 'pageview');
+    </script>
+</head>
+
+<body>
+    <header>
+        <nav class="top-bar">
+            <div class="row">
+                <div class="small-10 small-centered columns">
+                    <ul class="title-area">
+                        <li class="name"><h1><a href="/">{{ site.title }}</a></h1></li>
+                    </ul>
+                    <section class="top-bar-section">
+                        <ul class="left">
+                            <li class="divider"></li>
+                            <li><a href="program.html">プログラム</a></li>
+                            <li><a href="sponsors.html">スポンサー</a></li>
+                        </ul>
+                    </section>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <div class="row">
+        <div id="container" class="large-8 columns">
+            <!--
+            <div id="container" class="small-10 small-centered columns">
+                -->
+            {{ content }}
+        </div>
+
+        <div class="large-4 columns">
+            <h4>Sponsors</h4>
+            <p><a href="http://www.iret.co.jp/"><img src="http://cdn.aws-plus.com/images/logo.gif"></a></p>
+            <p><a href="http://www.serverworks.co.jp"><img src="http://www.serverworks.co.jp/wp-content/themes/wag/img/common/logo.gif"></a></p>
+            <p><a href="http://www.symbigun.com/"><img src="http://www.symbigun.com/img/logo.png"></a></p>
+            <p><a href="http://www.summer-time-studio.com/"><img src="http://www.summer-time-studio.com/images/top/logo.png"></a></p>
+        </div>
+
+    </div>
+
+    <hr />
+
+    <div class="row">
+        <footer class="right">
+        <p>&copy; 2013 {{ site.author }}</p>
+        </footer>
+    </div>
+</body>
+</html>
