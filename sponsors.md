@@ -33,9 +33,26 @@ title: スポンサー
 -----
 
 ### イベントスポンサー 一覧（先着順）
-                                                                            | 社名
---------------------------------------------------------------------------- | -------------------------------------------------------
-![](http://cdn.aws-plus.com/images/logo.gif)                                | アイレット株式会社 http://www.iret.co.jp/
-![](http://www.serverworks.co.jp/wp-content/themes/wag/img/common/logo.gif) | 株式会社サーバーワークス http://www.serverworks.co.jp
-![](http://www.symbigun.com/img/logo.png) | 株式会社ディーワークス http://www.symbigun.com/
-![](http://www.summer-time-studio.com/images/top/logo.png) | 株式会社SummerTimeStudio http://www.summer-time-studio.com/
+![](http://cdn.aws-plus.com/images/logo.gif) アイレット株式会社 http://www.iret.co.jp/
+
+cloudpackでは、アクセス負荷が高いサイト、一定期間だけアクセスが跳ね上がるサイトなどに最適なアマゾンクラウドの利用をサポートします。サーバの構築・管理・保守、24時間の監視、バックアップ（2世代分）に、クラウド利用料金を含むパッケージをご用意し、アクセスの多いサイトでも高速かつ安定したコンテンツ配信をご提供します。
+
+-----
+
+![](http://www.serverworks.co.jp/wp-content/themes/wag/img/common/logo.gif) 株式会社サーバーワークス http://www.serverworks.co.jp
+
+2008年からAWSに特化したインテグレーションサービスを提供している当社は、「エンタープライズAWS」をご紹介します。ガバナンス、セキュリティ、インシュアランスという強い経営に欠かせないＩＴ環境を実現してみませんか。
+
+-----
+
+![](http://www.symbigun.com/img/logo.png) 株式会社ディーワークス http://www.symbigun.com/
+
+AWSテクノロジーパートナーでもある当社がお届けする、スマートフォンアプリのユーザー利用状況分析サービス“Symbigun（シンビガン）”は、専門的知識がない方でも無料から簡単に、アプリの分析ができるサービスです。iOSアプリ、Androidアプリを起動したユーザーの端末、メーカーやOSのバージョンなどを、ユニークユーザー数を軸に解析し、直観的でわかりやすいグラフで表示します。
+
+-----
+
+![](img/logo_SummerTimeStudio.png) 株式会社SummerTimeStudio http://www.summer-time-studio.com/
+
+サマータイムスタジオは、ゲーム開発の民主化を掲げるゲームエンジン「Unity」を全作品に採用し、家庭用ゲームメーカー出身のクリエイターを中心として、家庭用ゲーム開発で培った技術や経験を「Unity」に融合させ、高いゲームクオリティと表現力を実現しました。さらに、独自の手法によりゲーム開発の効率化を追求し、これまでに、自社タイトル及び他者受託タイトルにて、約20タイトルの開発実績を持っています。
+2013年には、沖縄県内の新オフィスへ移転し、コワーキングカフェやコーヒーショップを併設する開発スタジオを開設しており、今後もスマートフォン向けに、シンプルなゲーム性に高い表現を盛り込んだゲームを日本とアメリカを中心に、世界各国のユーザーへ向け、開発・提供してまいります。
+
