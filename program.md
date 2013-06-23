@@ -16,7 +16,7 @@ title: プログラム
 ------------------------------------------------------ | -------------------------
 [丸山 不二夫](https://twitter.com/maruyama097)         | 日本Androidの会
 [小飼 弾](http://blog.livedoor.jp/dankogai/)           | yomitan.pm 
-日本PostgreSQLユーザ会(調整中）                        | 日本PostgreSQLユーザ会
+[日本PostgreSQLユーザ会](http://www.postgresql.jp/) 理事長 永安 悟史                | 日本PostgreSQLユーザ会
 AWSテクニカルエバンジェリスト [堀内 康弘](https://twitter.com/horiuchi) | JAWS-UG
 株式会社サーバーワークス 代表取締役 [大石 良](https://twitter.com/ooishi) | JAWS-UG
 アイレット株式会社 cloudpackエバンジェリスト [後藤 和貴](https://twitter.com/kaz_goto) | JAWS-UG
