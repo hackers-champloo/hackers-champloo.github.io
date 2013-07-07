@@ -21,7 +21,7 @@ AWSテクニカルエバンジェリスト [堀内 康弘](https://twitter.com/h
 株式会社サーバーワークス 代表取締役 [大石 良](https://twitter.com/ooishi) | JAWS-UG
 アイレット株式会社 cloudpackエバンジェリスト [後藤 和貴](https://twitter.com/kaz_goto) | JAWS-UG
 アイレット株式会社 cloudpackエバンジェリスト [吉田 真吾](https://twitter.com/yoshidashingo) | JAWS-UG
-[きしだなおき](http://d.hatena.ne.jp/nowokay)          | 日本Javaユーザーグループ
+Javaコミュ＠九州 [きしだなおき](http://d.hatena.ne.jp/nowokay) | 日本Javaユーザーグループ
 Android女子部 [矢野りん](https://twitter.com/yanorin)          | Android女子部
 
 
