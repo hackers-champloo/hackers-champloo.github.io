@@ -15,12 +15,18 @@ layout: top
 ### 開催概要
 
 前夜祭：2013年8月23日夜〜（会場：北谷[クリエイターズレジデンス](http://summer-time-studio.com/CreatorsResidence/index.html)）
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/4875" target="_blank" class="css3button">前夜祭申込！</a></p>
 
 カンファレンス：2013年8月24日 10:00〜（会場：琉球大学工学部1号館321&322教室）
 参加費：無料
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/4876" target="_blank" class="css3button">カンファレンス申込！</a></p>
 
 ビーチパーティ：2013年8月24日 16:00〜（会場未定）
 参加費：実費（3千円程度）
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/4877" target="_blank" class="css3button">ビーチパーティー申込！</a></p>
+
+そして謎の...[?](http://hackers-champloo.doorkeeper.jp/events/4878)
+
 
 ### 運営
 
@@ -32,6 +38,7 @@ layout: top
 実行委員長 | 西島 幸一郎 [@k_nishijima](https://twitter.com/k_nishijima)
 副委員長   | 小橋川 匡 [@kosaru](https://twitter.com/kosaru)
 副委員長   | 平良 知広 [@Tomohiro](https://twitter.com/Tomohiro)
+会計担当   | [Java Kuche](http://www.java-kuche.org/)
 
 
 ### 協力ユーザグループ
