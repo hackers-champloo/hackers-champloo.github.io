@@ -56,7 +56,7 @@ Android女子部 [矢野りん](https://twitter.com/yanorin)          | Android�
 14:35-   | 15 | <img width="100" src="img/nishijima.png"> JAWS-UG沖縄 [西島 幸一郎](https://twitter.com/k_nishijima) | 調整中 | 調整中
 14:50    | 10 | 休憩
 15:00-   | 45 | <img width="100" src="img/nagayasu.png"> [日本PostgreSQLユーザ会](http://www.postgresql.jp/) 理事長 永安 悟史 | 調整中 | 調整中
-15:45-   | 45 | <img width="100" src="img/yano.png"> [矢野りん](https://twitter.com/yanorin) meets 沖縄開発系女子 | 調整中 | 調整中
+15:45-   | 45 | <img width="100" src="img/yano.png"> [矢野りん](https://twitter.com/yanorin) | meets 沖縄IT系女子 | 調整中
 16:30-   | 10 | <img width="100" src="img/yonesu.jpg"> JAWS-UG沖縄 [米須 渉](https://twitter.com/asumaslv) | クロージング
 
 
