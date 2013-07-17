@@ -14,6 +14,8 @@ layout: top
 
 ### 開催概要
 
+（下記に青いボタンが見えない方は、[こちら](http://hackers-champloo.doorkeeper.jp/)からお申し込み下さい。）
+
 前夜祭：2013年8月23日夜〜（会場：北谷[クリエイターズレジデンス](http://summer-time-studio.com/CreatorsResidence/index.html)）
 <p><a href="http://hackers-champloo.doorkeeper.jp/events/4875" target="_blank" class="css3button">前夜祭申込！</a></p>
 
