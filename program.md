@@ -31,7 +31,7 @@ Android女子部 [矢野りん](https://twitter.com/yanorin)          | Android�
 * 場所: 北谷[クリエイターズレジデンス](http://summer-time-studio.com/CreatorsResidence/index.html)
 * 参加費:500円
 
-<p><a href="http://hackers-champloo.doorkeeper.jp/events/4875" target="_blank" class="css3button">前夜祭申込！</a></p>
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/4875" target="_blank"><img src="img/bluebtn1.png"></a></p>
 
 
 ### カンファレンス
@@ -40,7 +40,7 @@ Android女子部 [矢野りん](https://twitter.com/yanorin)          | Android�
 * 場所: 琉球大学工学部1号館321&322教室
 * 参加費: 無料
 
-<p><a href="http://hackers-champloo.doorkeeper.jp/events/4876" target="_blank" class="css3button">カンファレンス申込！</a></p>
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/4876"><img src="img/bluebtn2.png"></a></p>
 
 
 ### ビーチパーティ
@@ -49,4 +49,4 @@ Android女子部 [矢野りん](https://twitter.com/yanorin)          | Android�
 * 場所: 調整中
 * 参加費: 実費（3千円程度）
 
-<p><a href="http://hackers-champloo.doorkeeper.jp/events/4877" target="_blank" class="css3button">ビーチパーティー申込！</a></p>
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/4877" target="_blank"><img src="img/bluebtn3.png"></a></p>

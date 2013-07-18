@@ -14,18 +14,16 @@ layout: top
 
 ### 開催概要
 
-（下記に青いボタンが見えない方は、[こちら](http://hackers-champloo.doorkeeper.jp/)からお申し込み下さい。）
-
 前夜祭：2013年8月23日夜〜（会場：北谷[クリエイターズレジデンス](http://summer-time-studio.com/CreatorsResidence/index.html)）
-<p><a href="http://hackers-champloo.doorkeeper.jp/events/4875" target="_blank" class="css3button">前夜祭申込！</a></p>
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/4875" target="_blank"><img src="img/bluebtn1.png"></a></p>
 
 カンファレンス：2013年8月24日 10:00〜（会場：琉球大学工学部1号館321&322教室）
 参加費：無料
-<p><a href="http://hackers-champloo.doorkeeper.jp/events/4876" target="_blank" class="css3button">カンファレンス申込！</a></p>
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/4876"><img src="img/bluebtn2.png"></a></p>
 
 ビーチパーティ：2013年8月24日 17:00〜（会場未定）
 参加費：実費（3千円程度）
-<p><a href="http://hackers-champloo.doorkeeper.jp/events/4877" target="_blank" class="css3button">ビーチパーティー申込！</a></p>
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/4877" target="_blank"><img src="img/bluebtn3.png"></a></p>
 
 そして謎の...[?](http://hackers-champloo.doorkeeper.jp/events/4878)
 
