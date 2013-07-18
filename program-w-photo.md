@@ -118,19 +118,19 @@ Android女子部 [矢野りん](https://twitter.com/yanorin)          | Android�
 	</tr>
 	<tr>
 	  <td>14:45-</td>
-	  <td>15</td>
+	  <td>20</td>
 	  <td><img width="100" src="img/yoshida.png"></td>
 	  <td nowrap>アイレット株式会社<br>cloudpackエバンジェリスト<br><a href="https://twitter.com/yoshidashingo">吉田 真吾</a></td>
 	  <td>調整中</td>
 	  <td>調整中</td>
 	</tr>
 	<tr>
-	  <td>15:00-</td>
+	  <td>15:05-</td>
 	  <td>10</td>
 	  <td colspan="4">休憩</td>
 	</tr>
 	<tr>
-	  <td>15:10-</td>
+	  <td>15:15-</td>
 	  <td>40</td>
 	  <td><img width="100" src="img/nagayasu.png"></td>
 	  <td nowrap><a href="http://www.postgresql.jp/">日本PostgreSQLユーザ会</a><br>理事長 永安 悟史</td>
@@ -138,15 +138,15 @@ Android女子部 [矢野りん](https://twitter.com/yanorin)          | Android�
 	  <td>調整中</td>
 	</tr>
 	<tr>
-	  <td>15:40-</td>
+	  <td>15:55-</td>
 	  <td>40</td>
 	  <td><img width="100" src="img/yano.png"></td>
 	  <td><a href="https://twitter.com/yanorin">矢野りん</a></td>
-	  <td nowrap>meets 沖縄IT系女子</td>
-	  <td>調整中</td>
+	  <td nowrap>meets OKINAWA GIRL's lab</td>
+	  <td>女性がIT業界で働くにあたってのメリットとデメリット<br>県内女性コミュニティの活性化について</td>
 	</tr>
 	<tr>
-	  <td>16:20-</td>
+	  <td>16:35-</td>
 	  <td>10</td>
 	  <td><img width="100" src="img/yonesu.jpg"></td>
 	  <td> JAWS-UG沖縄<br><a href="https://twitter.com/asumaslv">米須 渉</a></td>
