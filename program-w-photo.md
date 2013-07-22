@@ -82,7 +82,7 @@ Android女子部 [矢野りん](https://twitter.com/yanorin)          | Android�
 	<tr>
 	  <td>11:00-</td>
 	  <td>55</td>
-	  <td><img width="100" src="img/maruyama.jpg"></td>
+	  <td><img width="100" src="img/maruyama_tw.jpg"></td>
 	  <td><a href="https://twitter.com/maruyama097">丸山 不二夫</a></td>
 	  <td>Packaged Web Appについて - AndroidとChromeの統合</td>
 	  <td>現在、アプリ開発のスタイルに大きな変化が起きようとしています。HTML, CSS, JavaScriptといったWebの標準技術をクライアント側のアプリに応用しようと言う流れが大きくなっています。そうしたクライアント・サイドのWebアプリは、現在、Packaged Web Appというスタイルでまとめられています。講演では、Packaged Web Appの代表的な取り組みとして、Google Chromeのアプローチを紹介し、Googleのこうした動きが、AndroidへのPackaged Web Appの導入を大きな目標としているという予想を述べたいと思います。</td>
