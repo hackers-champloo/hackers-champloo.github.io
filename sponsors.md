@@ -58,4 +58,12 @@ AWSテクノロジーパートナーでもある当社がお届けする、ス�
 
 -----
 
+![](img/jaws-ug_okinawa2_250x99.png) JAWS-UG沖縄 http://jaws-ug.jp/bc/okinawa/
+
+-----
+
 ![](img/OCC_logo.gif) 株式会社OCC http://www.occ.co.jp/
+
+-----
+
+![](img/geekhouse-okinawa_niri.png) ギークハウス沖縄 http://text.geeoki.com/
