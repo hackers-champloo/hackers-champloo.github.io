@@ -22,12 +22,13 @@ layout: top
 
 ### [カンファレンス](program.html)：2013年8月24日 10:00〜
 
-（会場：琉球大学工学部1号館321&322教室）
+（会場：琉球大学工学部1号館322教室）
 参加費：無料
 <p><a href="http://hackers-champloo.doorkeeper.jp/events/4876"><img src="img/bluebtn2.png"></a></p>
 
 ### ビーチパーティ：2013年8月24日 17:00〜
-（会場未定）
+
+（会場：宜野湾トロピカルビーチ）
 参加費：実費（3千円程度）
 <p><a href="http://hackers-champloo.doorkeeper.jp/events/4877" target="_blank"><img src="img/bluebtn3.png"></a></p>
 

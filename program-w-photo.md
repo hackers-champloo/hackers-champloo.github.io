@@ -97,8 +97,8 @@ Android女子部 [矢野りん](https://twitter.com/yanorin)          | Android�
 	  <td>45</td>
 	  <td><img width="100" src="img/kogai.jpg"></td>
 	  <td><a href="http://blog.livedoor.jp/dankogai/">小飼 弾</a></td>
-	  <td>調整中</td>
-	  <td>調整中</td>
+	  <td>There's more than one way to think about it</td>
+	  <td>TMTOWTDI=「やり方は一つじゃない」。これがPerlのモットーですが、それをやる前には、どうそれをやるか考えねばなりません。本セッションでは多用な考え方を受け入れるために電脳言語はどうしてきたかを見て行きます</td>
 	</tr>
 	<tr>
 	  <td>13:45-</td>
@@ -161,8 +161,8 @@ Android女子部 [矢野りん](https://twitter.com/yanorin)          | Android�
 
 ### ビーチパーティ
 
-* 日時: 2013年8月24日 17:00〜（会場未定）
-* 場所: 調整中
+* 日時: 2013年8月24日 17:00〜
+* 場所: 宜野湾トロピカルビーチ
 * 参加費: 実費（3千円程度）
 
 <p><a href="http://hackers-champloo.doorkeeper.jp/events/4877" target="_blank"><img src="img/bluebtn3.png"></a></p>
