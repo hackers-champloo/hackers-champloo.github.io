@@ -79,8 +79,7 @@ title: プログラム
 	<tr>
 	  <td>13:00-</td>
 	  <td>45</td>
-	  <td><img src="img/ico_nowpriting1_1.gif">
-		  <!-- <img width="100" src="img/kogai.jpg"> --></td>
+	  <td><img width="100" src="img/kogai.jpg"></td>
 	  <td><a href="http://blog.livedoor.jp/dankogai/">小飼 弾</a></td>
 	  <td>There's more than one way to think about it</td>
 	  <td>TMTOWTDI=「やり方は一つじゃない」。これがPerlのモットーですが、それをやる前には、どうそれをやるか考えねばなりません。本セッションでは多用な考え方を受け入れるために電脳言語はどうしてきたかを見て行きます</td>
