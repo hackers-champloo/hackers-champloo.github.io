@@ -3,34 +3,35 @@ layout: top
 ---
 
 
-![ハッカーズチャンプルー](img/HClogo_1.jpg)
+![ハッカーズチャンプルー](img/logo_sitetop.png)
 
+### ハッカーズチャンプルーとは？
+
+ハッカーズチャンプルーは、[沖縄県内のIT系ユーザグループ](about.html)が合同で企画する夏祭りです。全国各地からゲストをお招きし、ハッカー/エンジニア/エバンジェリスト同士が各専門分野を超えて相互交流しようという企画です。
+
+---
+
+## イベント案内
 
 ![ゴーヤチャンプルー](http://24.media.tumblr.com/3ec02686878dc4db22f8c1f898e55579/tumblr_mnp33h8cpY1sti13go1_500.jpg)
 
-## 開催概要
-
-ハッカーズチャンプルーは、沖縄県内のIT系ユーザグループが合同で企画する夏祭りです。全国各地からゲストをお招きし、ハッカー/エンジニア/エバンジェリスト同士が各専門分野を超えて相互交流しようという企画です。
-
-
-## 開催日時
 
 ### 前夜祭：2013年8月23日夜〜
 
 （会場：北谷[クリエイターズレジデンス](http://summer-time-studio.com/CreatorsResidence/index.html)）
-<p><a href="http://hackers-champloo.doorkeeper.jp/events/4875" target="_blank"><img src="img/bluebtn1.png"></a></p>
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/4875" class="medium button" target="_blank">前夜祭申し込み！</a></p>
 
 ### [カンファレンス](program.html)：2013年8月24日 10:00〜
 
 （会場：琉球大学工学部1号館322教室）
 参加費：無料
-<p><a href="http://hackers-champloo.doorkeeper.jp/events/4876"><img src="img/bluebtn2.png"></a></p>
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/4876" class="medium button" target="_blank">カンファレンス申し込み！</a></p>
 
 ### ビーチパーティ：2013年8月24日 17:00〜
 
 （会場：宜野湾トロピカルビーチ）
 参加費：実費（3千円程度）
-<p><a href="http://hackers-champloo.doorkeeper.jp/events/4877" target="_blank"><img src="img/bluebtn3.png"></a></p>
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/4877" class="medium button" target="_blank">ビーティパーティ申し込み！</a></p>
 
 そして謎の...[?](http://hackers-champloo.doorkeeper.jp/events/4878)
 
