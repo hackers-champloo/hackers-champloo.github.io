@@ -67,3 +67,8 @@ AWSテクノロジーパートナーでもある当社がお届けする、ス�
 -----
 
 ![](img/geekhouse-okinawa_niri.png) ギークハウス沖縄 http://text.geeoki.com/
+
+
+-----
+
+![](img/CodeIQ_logo.png) CodeIQ https://codeiq.jp/
