@@ -24,6 +24,8 @@ title: プログラム
 * 日時: 2013年8月24日 10:00-
 * 場所: 琉球大学工学部1号館322教室
 * 参加費: 無料
+* カンファレンス会場でドリンクが貰える！ [挑戦者求む！【言語不問】沖縄でアレ食べたい by CodeIQ運営事務](https://codeiq.jp/ace/hackers_champloo2013/q428)
+
 
 <p><a href="http://hackers-champloo.doorkeeper.jp/events/4876" class="medium button" target="_blank">カンファレンス申し込み！</a></p>
 
