@@ -28,7 +28,7 @@ layout: top
 
 <p><a href="http://hackers-champloo.doorkeeper.jp/events/4876" class="medium button" target="_blank">カンファレンス申し込み！</a></p>
 
-### カンファレンス会場でドリンクが貰える！
+#### カンファレンス会場でドリンクやお菓子などが貰える！
 
 <p><a href="https://codeiq.jp/ace/hackers_champloo2013/q428" class="medium button" target="_blank">挑戦者求む！【言語不問】沖縄でアレ食べたい by CodeIQ運営事務局</a></p>
 
