@@ -99,14 +99,14 @@ title: プログラム
       <td>45</td>
       <td><img width="100" src="img/ooishi.jpg"></td>
       <td>株式会社サーバーワークス<br>代表取締役 <a href="https://twitter.com/ooishi">大石 良</a></td>
-      <td>調整中</td>
+      <td>ウチナンチューがAWSを使うべき3つの理由</td>
       <td>調整中</td>
     </tr>
     <tr>
       <td>14:45-</td>
       <td>20</td>
-      <td><img width="100" src="img/yoshida.png"></td>
-      <td nowrap>アイレット株式会社<br>cloudpackエバンジェリスト<br><a href="https://twitter.com/yoshidashingo">吉田 真吾</a></td>
+      <td><img width="100" src="img/kaz_goto.jpg"></td>
+      <td nowrap>アイレット株式会社<br>cloudpackエバンジェリスト<br><a href="https://twitter.com/kaz_goto">後藤 和貴</a></td>
       <td>一撃 CloudFormation から学ぶAWS利用上のTips詰め合わせ</td>
       <td>CloudFormationの活用（TOYOTA様ディザスタリカバリ要件などの大規模事例）から見るAWSでのTipsの詰め合わせ</td>
     </tr>
