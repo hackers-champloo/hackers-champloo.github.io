@@ -79,6 +79,15 @@ title: プログラム
       <td colspan="4">お昼休憩</td>
     </tr>
     <tr>
+      <td>12:40-</td>
+      <td>10</td>
+      <td><img width="100" src="img/onishi.jpg"></td>
+      <td>CodeIQ <a href="https://twitter.com/kenchan0130_aki">大西 正恭</a></td>
+      <td>[ランチセッション]<br>CodeIQって何？</td>
+      <td>沖縄でアレ食べたいけど出力できた？</td>
+	  </td>
+    </tr>
+    <tr>
       <td>13:00-</td>
       <td>45</td>
       <td><img width="100" src="img/kogai.jpg"></td>
