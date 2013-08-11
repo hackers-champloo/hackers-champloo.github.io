@@ -10,11 +10,12 @@ title: プログラム
 調整中の事項につきましては詳細が決定次第更新致します。
 
 
-### 前夜祭
+### [前夜祭](eveprogram.html) *詳細決定しました！
 
 * 日時: 2013年8月23日 19:00-
 * 場所: 北谷[クリエイターズレジデンス](http://summer-time-studio.com/CreatorsResidence/index.html)
 * 参加費:500円
+* フリードリンク＆ピザ提供の予定です！
 
 <p><a href="http://hackers-champloo.doorkeeper.jp/events/4875" class="medium button" target="_blank">前夜祭申し込み！</a></p>
 
