@@ -36,7 +36,9 @@ title: 前夜祭プログラム
 |    | 10 | OKINAWA GIRL's lab |
 | 20:30頃-   | 10 | @mgwsuzuki |
 |    | 10 | @Tomohiro |
+|    | 10 | @adokoy0001 |
+|    | 10 | @masakyst (yomitan.pm) |
 |    | 10 | @mugijiru |
-| 21:00頃   | - | @k_nishijima クロージング |
+| 21:30頃   | - | @k_nishijima クロージング |
 
 
