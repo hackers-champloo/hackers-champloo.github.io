@@ -33,8 +33,8 @@ layout: top
 <p><a href="https://codeiq.jp/ace/hackers_champloo2013/q428" class="medium button" target="_blank">挑戦者求む！【言語不問】沖縄でアレ食べたい by CodeIQ運営事務局</a></p>
 
 ### USTでも配信しております
-
-http://www.ustream.tv/channel/hackers-champloo2013?utm_campaign=ustre-am&utm_source=15608401&utm_medium=social
+http://ustre.am/13usp
+http://ustre.am/13usp
 
 ### ビーチパーティ：2013年8月24日 17:00〜
 
