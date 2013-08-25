@@ -11,39 +11,19 @@ layout: top
 
 ---
 
-## イベント案内
+### ハッカーズチャンプルー2013は
+### 全日程を終了しました！
 
-![ゴーヤチャンプルー](http://24.media.tumblr.com/3ec02686878dc4db22f8c1f898e55579/tumblr_mnp33h8cpY1sti13go1_500.jpg)
-
-
-### [前夜祭](eveprogram.html)：2013年8月23日夜〜
-
-（会場：北谷[クリエイターズレジデンス](http://summer-time-studio.com/CreatorsResidence/index.html)）
-<p><a href="http://hackers-champloo.doorkeeper.jp/events/4875" class="medium button" target="_blank">前夜祭申し込み！</a></p>
-
-### [カンファレンス](program.html)：2013年8月24日 10:00〜
-
-（会場：琉球大学工学部1号館322教室）
-参加費：無料
-
-<p><a href="http://hackers-champloo.doorkeeper.jp/events/4876" class="medium button" target="_blank">カンファレンス申し込み！</a></p>
-
-#### カンファレンス会場でドリンクやお菓子などが貰える！
-
-<p><a href="https://codeiq.jp/ace/hackers_champloo2013/q428" class="medium button" target="_blank">挑戦者求む！【言語不問】沖縄でアレ食べたい by CodeIQ運営事務局</a></p>
-
-### USTでも配信しております
+ustreamによる録画はこちらになります。
 
 http://ustre.am/13usp
 
+ご参加いただいた皆様、来沖してくださったゲストの皆様、ボランティアスタッフとして動いてくれた皆様、ありがとうございました。
 
-### ビーチパーティ：2013年8月24日 17:00〜
+また来年出会えることを願ってます！
 
-（会場：宜野湾トロピカルビーチ）
-参加費：実費（3千円程度）
-<p><a href="http://hackers-champloo.doorkeeper.jp/events/4877" class="medium button" target="_blank">ビーティパーティ申し込み！</a></p>
+![ゴーヤチャンプルー](http://24.media.tumblr.com/3ec02686878dc4db22f8c1f898e55579/tumblr_mnp33h8cpY1sti13go1_500.jpg)
 
-そして謎の...[?](http://hackers-champloo.doorkeeper.jp/events/4878)
 
 
 ## ゲスト（先着順）
