@@ -1,8 +1,7 @@
 ---
-layout: layout
+layout: 2013layout
 title: 前夜祭プログラム
 ---
-
 
 前夜祭プログラム
 --------------------------------------------------------------------------------
@@ -20,7 +19,7 @@ title: 前夜祭プログラム
 
 <p><a href="http://hackers-champloo.doorkeeper.jp/events/4875" class="medium button" target="_blank">前夜祭申し込み！</a></p>
 
-![ピザ！](img/pizza.jpg "ピザ！")
+![ピザ！](/img/pizza.jpg "ピザ！")
 
 
 ### プログラム詳細

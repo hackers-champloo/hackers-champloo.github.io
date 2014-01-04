@@ -1,5 +1,5 @@
 ---
-layout: layout
+layout: 2013layout
 title: スポンサー
 ---
 
@@ -51,27 +51,27 @@ AWSテクノロジーパートナーでもある当社がお届けする、ス�
 
 -----
 
-![](img/logo_SummerTimeStudio.png) 株式会社SummerTimeStudio http://www.summer-time-studio.com/
+![](/img/logo_SummerTimeStudio.png) 株式会社SummerTimeStudio http://www.summer-time-studio.com/
 
 サマータイムスタジオは、ゲーム開発の民主化を掲げるゲームエンジン「Unity」を全作品に採用し、家庭用ゲームメーカー出身のクリエイターを中心として、家庭用ゲーム開発で培った技術や経験を「Unity」に融合させ、高いゲームクオリティと表現力を実現しました。さらに、独自の手法によりゲーム開発の効率化を追求し、これまでに、自社タイトル及び他者受託タイトルにて、約20タイトルの開発実績を持っています。
 2013年には、沖縄県内の新オフィスへ移転し、コワーキングカフェやコーヒーショップを併設する開発スタジオを開設しており、今後もスマートフォン向けに、シンプルなゲーム性に高い表現を盛り込んだゲームを日本とアメリカを中心に、世界各国のユーザーへ向け、開発・提供してまいります。
 
 -----
 
-![](img/jaws-ug_okinawa2_250x99.png) JAWS-UG沖縄 http://jaws-ug.jp/bc/okinawa/
+![](/img/jaws-ug_okinawa2_250x99.png) JAWS-UG沖縄 http://jaws-ug.jp/bc/okinawa/
 
 -----
 
-![](img/OCC_logo.gif) 株式会社OCC http://www.occ.co.jp/
+![](/img/OCC_logo.gif) 株式会社OCC http://www.occ.co.jp/
 
 -----
 
-![](img/geekhouse-okinawa_niri.png) ギークハウス沖縄 http://text.geeoki.com/
+![](/img/geekhouse-okinawa_niri.png) ギークハウス沖縄 http://text.geeoki.com/
 
 
 -----
 
-![](img/CodeIQ_logo.png) CodeIQ https://codeiq.jp/
+![](/img/CodeIQ_logo.png) CodeIQ https://codeiq.jp/
 
 CodeIQ（コードアイキュー）」は、第一線で活躍するITエンジニアが出題した問題に一般ユーザーが無料で“挑戦”し、そのアンサーに対して出題エンジニアから評価フィードバックをもらえるサービスです。
 
@@ -81,14 +81,14 @@ CodeIQ（コードアイキュー）」は、第一線で活躍するITエンジ
 
 -----
 
-![](img/hitachi.gif)  http://www.ohns.co.jp
+![](/img/hitachi.gif)  http://www.ohns.co.jp
 
 -----
 
-![](img/Lexues.png) 株式会社レキサス http://lexues.co.jp
+![](/img/Lexues.png) 株式会社レキサス http://lexues.co.jp
 
 株式会社レキサスは、企画、開発、運営、インフラ全てに精通した沖縄発のIT企業です。常に最新のトレンドをキャッチアップしつつ、オリジナル商品にこだわった製品・サービスを展開しております。そのためサービスの企画から、開発、デザイン、そしてその後の運営に至るまで、ワンストップでサポートいたします。
 
 -----
 
-![](img/qualysite.png) クオリサイトテクノロジーズ株式会社 http://www.qualysite.co.jp
+![](/img/qualysite.png) クオリサイトテクノロジーズ株式会社 http://www.qualysite.co.jp
