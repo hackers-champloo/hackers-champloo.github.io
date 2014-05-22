@@ -12,9 +12,11 @@ title: プログラム
 
 ### 今年も前夜祭やります！
 
-* 日時: 2014年7月11日（金） 19:00頃〜
+* 日時: 2014年7月11日（金） 19:00〜
 
 （詳細調整中）
+
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/11743" class="medium button" target="_blank">前夜祭申し込み！</a></p>
 
 
 ### カンファレンス
@@ -24,12 +26,14 @@ title: プログラム
 
 （詳細調整中）
 
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/11744" class="medium button" target="_blank">カンファレンス申し込み！</a></p>
+
 
 ### 予定ゲスト
 
 <img width="100" src="https://pbs.twimg.com/profile_images/378800000408766517/24f18a307fddbe5e5a15bea82df7eb06.jpeg">
 
-[@naoya_ito](https://twitter.com/naoya_ito)氏
+[伊藤 直也](https://twitter.com/naoya_ito)氏
 
 <img width="100" src="http://cgworld.jp/images/feature/report/1204_adskunity/mu_a04.jpg">
 
@@ -49,5 +53,6 @@ title: プログラム
 
 * 日時: 2014年7月12日（土） 17:00〜
 * 場所: 宜野湾トロピカルビーチ（予定）
-* 参加費: 実費（3千円程度）
+* 参加費: 実費（2-3千円程度）
 
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/11745" class="medium button" target="_blank">ビーティパーティ申し込み！</a></p>

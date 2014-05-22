@@ -16,13 +16,21 @@ layout: top
 ![ゴーヤチャンプルー](http://24.media.tumblr.com/3ec02686878dc4db22f8c1f898e55579/tumblr_mnp33h8cpY1sti13go1_500.jpg)
 
 今年も前夜祭、カンファレンス、ビーチパーティを企画しております。
-お申し込みフォームの準備ができるまでしばらくお待ち下さい。
+各イベントは個別にお申込が必要となりますのでご注意ください。
 
-### イベント日時
+## イベント日時
 
-* 前夜祭：2014年7月11日（金） 19:00頃〜
-* カンファレンス：2014年7月12日（土） 10:00〜
-* ビーチパーティ：2014年7月12日（土） 17:00〜
+### 前夜祭：2014年7月11日（金） 19:00〜
+
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/11743" class="medium button" target="_blank">前夜祭申し込み！</a></p>
+
+### カンファレンス：2014年7月12日（土） 10:00〜
+
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/11744" class="medium button" target="_blank">カンファレンス申し込み！</a></p>
+
+### ビーチパーティ：2014年7月12日（土） 17:00〜
+
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/11745" class="medium button" target="_blank">ビーティパーティ申し込み！</a></p>
 
 
 ## ボランディアスタッフ募集のお知らせ
