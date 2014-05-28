@@ -45,6 +45,10 @@ title: スポンサー
 
 -----
 
+### セッションスポンサー 一覧（先着順）
+
+![](/img/sou_logo.jpg) 日本仮想化技術株式会社 http://enterprisecloud.jp
+
 ### イベントスポンサー 一覧（先着順）
 
 ![](/img/jaws-ug_okinawa2_250x99.png) JAWS-UG沖縄 http://jaws-ug.jp/bc/okinawa/
