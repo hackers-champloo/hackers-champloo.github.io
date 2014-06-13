@@ -30,9 +30,9 @@ layout: top
 <p><a href="http://hackers-champloo.doorkeeper.jp/events/11745" class="medium button" target="_blank">ビーティパーティ申し込み！</a></p>
 
 
-## ボランディアスタッフ募集のお知らせ
+## ボランティアスタッフ募集のお知らせ
 
-ハッカーズチャンプルーはボランディアに支えられ運営されています。あなたのご協力が、イベントを成功させる力となります。
+ハッカーズチャンプルーはボランティアに支えられ運営されています。あなたのご協力が、イベントを成功させる力となります。
 興味を持たれた方は、実行委員会に是非ご参加ください！お近くの実行委員会のメンバーに直接問い合わせるか、[こちらから](https://docs.google.com/forms/d/1MGJ4bVv8hpyXeLjvcGzZDpl838ZGHPA_plLqX_BJSbA/viewform)ご連絡ください。
 
 **仕事内容例**
