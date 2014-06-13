@@ -40,11 +40,6 @@ title: プログラム
 株式会社マトリックス コンテンツ事業部デザイン開発課主任 高崎 奈美 氏
 
 
-<img width="100" src="https://pbs.twimg.com/profile_images/3243428148/db6773a5851143ac2481133353a5a1f7.png">
-
-日本オラクルシニアJavaエバンジェリスト
-[寺田 佳央](https://twitter.com/yoshioterada)氏
-
 （その他ゲスト調整中！）
 
 
@@ -52,7 +47,7 @@ title: プログラム
 ### ビーチパーティ
 
 * 日時: 2014年7月12日（土） 17:00〜
-* 場所: 宜野湾トロピカルビーチ（予定）
+* 場所: 北谷サンセットビーチ
 * 参加費: 実費（2-3千円程度）
 
 <p><a href="http://hackers-champloo.doorkeeper.jp/events/11745" class="medium button" target="_blank">ビーティパーティ申し込み！</a></p>
