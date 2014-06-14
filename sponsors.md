@@ -68,4 +68,8 @@ title: スポンサー
 インターネット業界を舞台にした大冒険。
 それが私たちの日常です。
 
+
+![](/img/Lexues.png) 株式会社レキサス http://lexues.co.jp
+
+
 ![](/img/jaws-ug_okinawa2_250x99.png) JAWS-UG沖縄 http://jaws-ug.jp/bc/okinawa/
