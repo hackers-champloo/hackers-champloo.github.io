@@ -3,7 +3,7 @@ layout: top
 ---
 
 
-![ハッカーズチャンプルー](img/A4_4c_OSC2014_01A_615.jpg)
+![ハッカーズチャンプルー](img/logo_sitetop.png)
 
 ### ハッカーズチャンプルーとは？
 
@@ -12,6 +12,8 @@ layout: top
 ---
 
 ## イベント概要（詳細調整中です）
+
+![ゴーヤチャンプルー](http://24.media.tumblr.com/3ec02686878dc4db22f8c1f898e55579/tumblr_mnp33h8cpY1sti13go1_500.jpg)
 
 
 今年も前夜祭、カンファレンス、ビーチパーティを企画しております。
@@ -22,6 +24,8 @@ layout: top
 <p><a href="http://hackers-champloo.doorkeeper.jp/events/11743" class="medium button" target="_blank">前夜祭申し込み！</a></p>
 
 ### カンファレンス：2014年7月12日（土） 10:00〜
+
+[プログラム詳細](program.html)はこちら
 
 <p><a href="http://hackers-champloo.doorkeeper.jp/events/11744" class="medium button" target="_blank">カンファレンス申し込み！</a></p>
 

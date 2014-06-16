@@ -24,23 +24,84 @@ title: プログラム
 * 日時: 2014年7月12日（土） 10:00〜
 * 参加費: 無料
 
-（詳細調整中）
-
 <p><a href="http://hackers-champloo.doorkeeper.jp/events/11744" class="medium button" target="_blank">カンファレンス申し込み！</a></p>
 
 
-### 予定ゲスト
+### プログラム詳細
 
-<img width="100" src="https://pbs.twimg.com/profile_images/378800000408766517/24f18a307fddbe5e5a15bea82df7eb06.jpeg">
+（詳細調整中です）
 
-[伊藤 直也](https://twitter.com/naoya_ito)氏
+<table><thead>
+    <tr>
+      <th nowrap>開始時刻</th>
+      <th>時間</th>
+      <th>-</th>
+      <th>登壇者</th>
+      <th>トラックタイトル</th>
+      <th>概要</th>
+    </tr>
+  </thead><tbody>
+    <tr>
+      <td>10:30-</td>
+      <td>5</td>
+      <td width="100">-</td>
+      <td>-</td>
+      <td>オープニング</td>
+      <td>ゲストのご紹介</td>
+    </tr>
+    <tr>
+      <td>10:35-</td>
+      <td>45</td>
+      <td><img width="100" src="/img/miyahara_thumb.jpg"></td>
+      <td>日本仮想化技術株式会社<br>代表取締役社長兼CEO<br>(Chief Enkai Officer)<br><a href="https://twitter.com/tmiyahar">宮原 徹</a></td>
+      <td>OpenStackでオレオレクラウド環境を構築しよう！（仮）</td>
+      <td>OpenStackを使うと、自分だけのオレオレクラウド環境を構築することができます。
+インストール方法が難しそう、と敬遠していたあなたのために、絶対にインストールできる方法をお教えします。</td>
+    </tr>
+    <tr>
+      <td>11:20-</td>
+      <td>45</td>
+      <td colspan="4">調整中</td>
+    </tr>
+    <tr>
+      <td>12:05</td>
+      <td>55</td>
+      <td colspan="4">お昼休憩</td>
+    </tr>
+    <tr>
+      <td>13:00-</td>
+      <td>50</td>
+      <td><img width="100" src="/img/profile_hanada.jpg"></td>
+      <td>メトロシステムズ<br><a href="https://twitter.com/s87">花田 茂</a></td>
+      <td>調整中</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>14:00-</td>
+      <td>50</td>
+      <td><img width="100" src="/img/profile_ito.png"></td>
+      <td>KAIZEN platform Inc.<br>技術顧問<br><a href="https://twitter.com/naoya_ito">伊藤 直也</a></td>
+      <td>調整中</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15:00-</td>
+      <td>50</td>
+      <td><img width="100" src="/img/profile_takasaki.jpg"></td>
+      <td nowrap>株式会社マトリックス<br>コンテンツ事業部<br>デザイン開発課主任<br>高崎 奈美</a></td>
+      <td>調整中</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>15:55-</td>
+      <td>10</td>
+      <td><img width="100" src="/img/yonesu.jpg"></td>
+      <td> JAWS-UG沖縄<br><a href="https://twitter.com/asumaslv">米須 渉</a></td>
+      <td>クロージング</td>
+      <td></td>
+    </tr>
+</tbody></table>
 
-<img width="100" src="http://cgworld.jp/images/feature/report/1204_adskunity/mu_a04.jpg">
-
-株式会社マトリックス コンテンツ事業部デザイン開発課主任 高崎 奈美 氏
-
-
-（その他ゲスト調整中！）
 
 
 
@@ -48,6 +109,6 @@ title: プログラム
 
 * 日時: 2014年7月12日（土） 17:00〜
 * 場所: 北谷サンセットビーチ
-* 参加費: 実費（2-3千円程度）
+* 参加費: 実費（3千円程度）
 
 <p><a href="http://hackers-champloo.doorkeeper.jp/events/11745" class="medium button" target="_blank">ビーティパーティ申し込み！</a></p>
