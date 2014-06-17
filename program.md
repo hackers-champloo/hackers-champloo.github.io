@@ -42,21 +42,29 @@ title: プログラム
     </tr>
   </thead><tbody>
     <tr>
-      <td>10:30-</td>
+      <td>10:00-</td>
       <td>5</td>
       <td width="100">-</td>
       <td>-</td>
-      <td>オープニング</td>
+      <td nowrap>オープニング</td>
       <td>ゲストのご紹介</td>
     </tr>
     <tr>
-      <td>10:35-</td>
-      <td>45</td>
+      <td>10:05-</td>
+      <td>40</td>
       <td><img width="100" src="/img/miyahara_thumb.jpg"></td>
       <td>日本仮想化技術株式会社<br>代表取締役社長兼CEO<br>(Chief Enkai Officer)<br><a href="https://twitter.com/tmiyahar">宮原 徹</a></td>
-      <td>OpenStackでオレオレクラウド環境を構築しよう！（仮）</td>
+      <td>OpenStackでオレオレクラウド環境を構築しよう！</td>
       <td>OpenStackを使うと、自分だけのオレオレクラウド環境を構築することができます。
 インストール方法が難しそう、と敬遠していたあなたのために、絶対にインストールできる方法をお教えします。</td>
+    </tr>
+    <tr>
+      <td>10:45-</td>
+      <td>40</td>
+      <td><img width="100" src="/img/profile_nishioka.jpg"></td>
+      <td>一般社団法人<br>ウェブ解析士協会<br>西岡 大輔</td>
+      <td>調整中</td>
+      <td></td>
     </tr>
     <tr>
       <td>11:20-</td>
@@ -77,7 +85,7 @@ title: プログラム
       <td><img width="100" src="/img/profile_hanada.jpg"></td>
       <td>メトロシステムズ<br><a href="https://twitter.com/s87">花田 茂</a></td>
       <td>調整中</td>
-      <td></td>
+      <td>PostgreSQLの本体開発に関する事や、Addon開発の話（仮）</td>
     </tr>
     <tr>
       <td>14:00-</td>
