@@ -49,6 +49,8 @@ title: スポンサー
 
 ![](/img/sou_logo.jpg) 日本仮想化技術株式会社 http://enterprisecloud.jp
 
+![](/img/waca-logo.png) 一般社団法人ウェブ解析士協会 http://www.web-mining.jp/
+
 ### イベントスポンサー 一覧（先着順）
 
 ![](img/logo_SummerTimeStudio.png) 株式会社SummerTimeStudio http://www.summer-time-studio.com/
@@ -70,7 +72,5 @@ title: スポンサー
 
 
 ![](/img/Lexues.png) 株式会社レキサス http://lexues.co.jp/
-
-![](/img/waca-logo.png) 一般社団法人ウェブ解析士協会 http://www.web-mining.jp/
 
 ![](/img/jaws-ug_okinawa2_250x99.png) JAWS-UG沖縄 http://jaws-ug.jp/bc/okinawa/
