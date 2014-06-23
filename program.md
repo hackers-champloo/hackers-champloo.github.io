@@ -83,9 +83,9 @@ title: プログラム
       <td>13:00-</td>
       <td>50</td>
       <td><img width="100" src="/img/profile_hanada.jpg"></td>
-      <td>メトロシステムズ<br><a href="https://twitter.com/s87">花田 茂</a></td>
-      <td>調整中</td>
-      <td>PostgreSQLの本体開発に関する事や、Addon開発の話（仮）</td>
+      <td nowrap>株式会社メトロシステムズ<br><a href="https://twitter.com/s87">花田 茂</a></td>
+      <td>PostgreSQL 開発ことはじめ</td>
+      <td>(おそらく聴衆に多いと思われる)Web系開発者の観点からPostgreSQLのハッキング(コードを書くことで使いたいように変える)についてお伝えできればと思っています。</td>
     </tr>
     <tr>
       <td>14:00-</td>
