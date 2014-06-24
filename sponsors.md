@@ -51,6 +51,18 @@ title: スポンサー
 
 ![](/img/waca-logo.png) 一般社団法人ウェブ解析士協会 http://www.web-mining.jp/
 
+
+-----
+
+### メディアスポンサー 一覧（先着順）
+
+![](/img/logo_TI-DA.png) 株式会社てぃーだスクエア http://blog.ti-da.net/
+
+てぃーだスクエアはてぃーだブログをはじめとし、斬新性と信頼感を基に、企業様とお客様の関係づくりに貢献すると共に、情報発信者のビジネスの活性化を地域密着モデルを通して貢献して行きます。
+
+
+-----
+
 ### イベントスポンサー 一覧（先着順）
 
 ![](img/logo_SummerTimeStudio.png) 株式会社SummerTimeStudio http://www.summer-time-studio.com/
