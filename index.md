@@ -19,9 +19,9 @@ layout: top
 今年も前夜祭、カンファレンス、ビーチパーティを企画しております。
 各イベントは個別にお申込が必要となりますのでご注意ください。
 
-### 前夜祭：2014年7月11日（金） 19:00〜
+### 前夜祭：2014年7月11日（金） 19:30〜
 
-<p><a href="http://hackers-champloo.doorkeeper.jp/events/11743" class="medium button" target="_blank">前夜祭申し込み！</a></p>
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/11743" class="medium button" target="_blank">前夜祭詳細 / 申し込み！</a></p>
 
 ### カンファレンス：2014年7月12日（土） 10:00〜
 

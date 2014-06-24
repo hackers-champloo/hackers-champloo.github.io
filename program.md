@@ -12,11 +12,9 @@ title: プログラム
 
 ### 今年も前夜祭やります！
 
-* 日時: 2014年7月11日（金） 19:00〜
+* 日時: 2014年7月11日（金） 19:30〜
 
-（詳細調整中）
-
-<p><a href="http://hackers-champloo.doorkeeper.jp/events/11743" class="medium button" target="_blank">前夜祭申し込み！</a></p>
+<p><a href="http://hackers-champloo.doorkeeper.jp/events/11743" class="medium button" target="_blank">詳細 / 前夜祭申し込み！</a></p>
 
 
 ### カンファレンス
