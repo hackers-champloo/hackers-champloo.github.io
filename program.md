@@ -79,23 +79,48 @@ title: プログラム
     </tr>
     <tr>
       <td>13:00-</td>
-      <td>50</td>
+      <td>45</td>
       <td><img width="100" src="/img/profile_hanada.jpg"></td>
       <td nowrap>株式会社メトロシステムズ<br><a href="https://twitter.com/s87">花田 茂</a></td>
       <td>PostgreSQL 開発ことはじめ</td>
       <td>(おそらく聴衆に多いと思われる)Web系開発者の観点からPostgreSQLのハッキング(コードを書くことで使いたいように変える)についてお伝えできればと思っています。</td>
     </tr>
     <tr>
-      <td>14:00-</td>
-      <td>50</td>
+      <td>13:45-</td>
+      <td>45</td>
       <td><img width="100" src="/img/profile_ito.png"></td>
       <td>KAIZEN platform Inc.<br>技術顧問<br><a href="https://twitter.com/naoya_ito">伊藤 直也</a></td>
       <td>調整中</td>
       <td></td>
     </tr>
+
     <tr>
-      <td>15:00-</td>
-      <td>50</td>
+      <td>14:30-</td>
+      <td>10</td>
+      <td colspan="4">coffee break</td>
+    </tr>
+
+	<tr>
+      <td>14:40-</td>
+      <td>35</td>
+      <td colspan="4">スポンサーセッション（調整中）</td>
+    </tr>
+	
+	<tr>
+      <td>15:15-</td>
+      <td>45</td>
+      <td><img width="100" src="/img/profile_sato.jpg"></td>
+      <td nowrap>Microsoft Corporation<br />
+	  Microsoft Azure Technologist<br />
+	  <a href="http://satonaoki.wordpress.com/">佐藤 直生</a>
+	  </td>
+      <td>初めてのMicrosoft Azure</td>
+      <td>調整中</td>
+    </tr>
+	
+	<tr>
+      <td>16:00-</td>
+      <td>45</td>
       <td><img width="100" src="/img/profile_takasaki.jpg"></td>
       <td nowrap>株式会社マトリックス<br>プロジェクト管理課<br>ディレクター<br>髙﨑 奈美</a></td>
       <td>ものづくりを長く続ける為に</td>
@@ -106,8 +131,8 @@ title: プログラム
 </td>
     </tr>
     <tr>
-      <td>15:55-</td>
-      <td>10</td>
+      <td>16:45-</td>
+      <td>5</td>
       <td><img width="100" src="/img/yonesu.jpg"></td>
       <td> JAWS-UG沖縄<br><a href="https://twitter.com/asumaslv">米須 渉</a></td>
       <td>クロージング</td>
