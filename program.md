@@ -105,7 +105,10 @@ title: プログラム
 	<tr>
       <td>14:40-</td>
       <td>35</td>
-      <td colspan="4">スポンサーセッション（調整中）</td>
+      <td><img width="100" src="/img/profile_tuboi.jpg"></td>
+      <td><a href="http://www.ibs.inte.co.jp/">株式会社インテリジェンスビジネスソリューションズ</a><br>執行役員<br>坪井 眞剛</td>
+      <td>調整中</td>
+      <td></td>
     </tr>
 	
 	<tr>

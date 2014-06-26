@@ -51,6 +51,8 @@ title: スポンサー
 
 ![](/img/waca-logo.png) 一般社団法人ウェブ解析士協会 http://www.web-mining.jp/
 
+![](/img/logo_ibs.png) 株式会社インテリジェンスビジネスソリューションズ http://www.ibs.inte.co.jp/
+
 
 -----
 
