@@ -49,7 +49,11 @@ title: スポンサー
 
 ![](/img/sou_logo.jpg) 日本仮想化技術株式会社 http://enterprisecloud.jp
 
+-----
+
 ![](/img/waca-logo.png) 一般社団法人ウェブ解析士協会 http://www.web-mining.jp/
+
+-----
 
 ![](/img/logo_ibs.png) 株式会社インテリジェンスビジネスソリューションズ http://www.ibs.inte.co.jp/
 
@@ -71,6 +75,7 @@ title: スポンサー
 サマータイムスタジオは、ゲーム開発の民主化を掲げるゲームエンジン「Unity」を全作品に採用し、家庭用ゲームメーカー出身のクリエイターを中心として、家庭用ゲーム開発で培った技術や経験を「Unity」に融合させ、高いゲームクオリティと表現力を実現しました。さらに、独自の手法によりゲーム開発の効率化を追求し、これまでに、自社タイトル及び他者受託タイトルにて、30タイトル以上の開発実績を持っています。
 今後もスマートフォン向けに、シンプルなゲーム性に高い表現を盛り込んだゲームを日本とアメリカを中心に、世界各国のユーザーへ向け、開発・提供してまいります。
 
+-----
 
 ![](img/logo_ryukyuInteractive.png) 琉球インタラクティブ株式会社 http://www.ryukyu-i.co.jp/
 
@@ -83,7 +88,14 @@ title: スポンサー
 インターネット業界を舞台にした大冒険。
 それが私たちの日常です。
 
+-----
 
 ![](/img/Lexues.png) 株式会社レキサス http://lexues.co.jp/
+
+-----
+
+![](/img/OCC_logo.gif) 株式会社OCC http://www.occ.co.jp/
+
+-----
 
 ![](/img/jaws-ug_okinawa2_250x99.png) JAWS-UG沖縄 http://jaws-ug.jp/bc/okinawa/
