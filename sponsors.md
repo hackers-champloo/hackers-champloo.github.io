@@ -98,4 +98,8 @@ title: スポンサー
 
 -----
 
+![](/img/logo_SYON.png) サイオンコミュニケーションズ株式会社 http://www.syon.co.jp/shingeki/
+
+-----
+
 ![](/img/jaws-ug_okinawa2_250x99.png) JAWS-UG沖縄 http://jaws-ug.jp/bc/okinawa/
