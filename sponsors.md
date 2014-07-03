@@ -92,6 +92,8 @@ title: スポンサー
 
 ![](/img/Lexues.png) 株式会社レキサス http://lexues.co.jp/
 
+サービスの企画、UX・UIデザイン、開発からクラウド基盤の設計・運用まで、各分野のプロフェッショナルたちがアイディアと実現力で勝負しています。
+
 -----
 
 ![](/img/OCC_logo.gif) 株式会社OCC http://www.occ.co.jp/
