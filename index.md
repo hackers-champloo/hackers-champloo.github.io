@@ -6,7 +6,17 @@ layout: top
 ![ハッカーズチャンプルー](img/logo_sitetop.png)
 
 
-### お知らせ：[台風8号に関するハッカーズチャンプルー2014の対応につきまして](/2014/announce0709.html)
+### お知らせ
+
+* [台風8号に関するハッカーズチャンプルー2014の対応につきまして](/2014/announce0709.html)
+
+### SNS / UStream情報
+
+* Twitterハッシュタグ [#hcmpl](https://twitter.com/search?f=realtime&q=%23hcmpl&src=typd)
+* UStreamチャンネル http://ustre.am/1fvYY
+* [Facebookページ](https://www.facebook.com/hackerschamploo) （どなたでもご覧いただけます。）
+* [Facebookグループ](https://www.facebook.com/groups/hackerschamploo/) （Facebookアカウントをお持ちの方は、どなたでもご参加頂くことが出来ます。）
+
 ---
 
 ### ハッカーズチャンプルーとは？
