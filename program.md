@@ -92,7 +92,7 @@ title: プログラム
       <td>45</td>
       <td><img width="100" src="/img/profile_ito.png"></td>
       <td>KAIZEN platform Inc.<br>技術顧問<br><a href="https://twitter.com/naoya_ito">伊藤 直也</a></td>
-      <td>調整中</td>
+      <td>Webサービス開発トレンドの変遷と現在</td>
       <td></td>
     </tr>
 
