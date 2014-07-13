@@ -52,7 +52,7 @@ title: プログラム
       <td>40</td>
       <td><img width="100" src="/img/miyahara_thumb.jpg"></td>
       <td>日本仮想化技術株式会社<br>代表取締役社長兼CEO<br>(Chief Enkai Officer)<br><a href="https://twitter.com/tmiyahar">宮原 徹</a></td>
-      <td>OpenStackでオレオレクラウド環境を構築しよう！</td>
+      <td><a href="https://dl.dropboxusercontent.com/u/1495051/140712StartOpenStack.pdf">OpenStackでオレオレクラウド環境を構築しよう！</a></td>
       <td>OpenStackを使うと、自分だけのオレオレクラウド環境を構築することができます。
 インストール方法が難しそう、と敬遠していたあなたのために、絶対にインストールできる方法をお教えします。</td>
     </tr>
@@ -71,7 +71,7 @@ title: プログラム
       <td>45</td>
       <td><img width="100" src="/img/profile_ozaki.jpg"></td>
       <td nowrap>株式会社リクルート<br>コミュニケーションズ<br>ICTソリューション局<br>アドテクノロジー開発部<br><a href="http://tjo.hatenablog.com/">尾崎 隆</a></td>
-      <td>データ分析というお仕事のこれまでとこれから</td>
+      <td><a href="http://www.slideshare.net/takashijozaki1/hcmpl140712-tjo">データ分析というお仕事のこれまでとこれから</a></td>
       <td>「データサイエンティストは21世紀で最もセクシーな職業」とハーバード・ビジネス・レビュー誌が取り上げてバズワードと化して以来、良くも悪くもビジネスの世界で注目を集め続ける「データ分析」というお仕事。そのブームの盛衰を振り返りながら、これまでデータ分析には何が求められてきて、これからどのような方向に向かっていくかについてお話します。</td>
     </tr>
     <tr>
@@ -84,7 +84,7 @@ title: プログラム
       <td>45</td>
       <td><img width="100" src="/img/profile_hanada.jpg"></td>
       <td nowrap>株式会社メトロシステムズ<br><a href="https://twitter.com/s87">花田 茂</a></td>
-      <td>PostgreSQL 開発ことはじめ</td>
+      <td><a href="http://www.slideshare.net/babystarmonja/postgresqlhackers-champloo-2014">PostgreSQL 開発ことはじめ</a></td>
       <td>(おそらく聴衆に多いと思われる)Web系開発者の観点からPostgreSQLのハッキング(コードを書くことで使いたいように変える)についてお伝えできればと思っています。</td>
     </tr>
     <tr>
@@ -92,7 +92,7 @@ title: プログラム
       <td>45</td>
       <td><img width="100" src="/img/profile_ito.png"></td>
       <td>KAIZEN platform Inc.<br>技術顧問<br><a href="https://twitter.com/naoya_ito">伊藤 直也</a></td>
-      <td>Webサービス開発トレンドの変遷と現在</td>
+      <td><a href="https://speakerdeck.com/naoya/websabisukai-fa-falsebian-qian-toxian-zai">Webサービス開発トレンドの変遷と現在</a></td>
       <td></td>
     </tr>
 
@@ -123,8 +123,8 @@ title: プログラム
 	  Microsoft Azure Technologist<br />
 	  <a href="http://satonaoki.wordpress.com/">佐藤 直生</a>
 	  </td>
-      <td>初めてのMicrosoft Azure</td>
-      <td>調整中</td>
+      <td><a href="http://satonaoki.wordpress.com/2014/07/12/hcmpl/">初めてのMicrosoft Azure</a></td>
+      <td></td>
     </tr>
 	
 	<tr>
