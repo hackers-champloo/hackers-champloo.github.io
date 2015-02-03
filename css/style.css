@@ -28,3 +28,15 @@ a.css3button {
 		0px -1px 0px rgba(000,000,000,0.7),
 		0px 1px 0px rgba(255,255,255,0.3);
 }
+
+.hero{
+	background: url("/img/2015/mb01.jpg");
+	background-size: cover;
+	box-shadow: inset 0px 0px 0 2000px rgba(0,0,0,0.15);
+	height: 480px;
+}
+
+.hero-text {
+	color: #fff;
+}
+
