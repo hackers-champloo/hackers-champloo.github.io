@@ -70,14 +70,14 @@ title: スポンサー
 
 ### イベントスポンサー 一覧（先着順）
 
-![](img/logo_SummerTimeStudio.png) 株式会社SummerTimeStudio http://www.summer-time-studio.com/
+![](/img/logo_SummerTimeStudio.png) 株式会社SummerTimeStudio http://www.summer-time-studio.com/
 
 サマータイムスタジオは、ゲーム開発の民主化を掲げるゲームエンジン「Unity」を全作品に採用し、家庭用ゲームメーカー出身のクリエイターを中心として、家庭用ゲーム開発で培った技術や経験を「Unity」に融合させ、高いゲームクオリティと表現力を実現しました。さらに、独自の手法によりゲーム開発の効率化を追求し、これまでに、自社タイトル及び他者受託タイトルにて、30タイトル以上の開発実績を持っています。
 今後もスマートフォン向けに、シンプルなゲーム性に高い表現を盛り込んだゲームを日本とアメリカを中心に、世界各国のユーザーへ向け、開発・提供してまいります。
 
 -----
 
-![](img/logo_ryukyuInteractive.png) 琉球インタラクティブ株式会社 http://www.ryukyu-i.co.jp/
+![](/img/logo_ryukyuInteractive.png) 琉球インタラクティブ株式会社 http://www.ryukyu-i.co.jp/
 
 
 琉球インタラクティブは沖縄発のインターネットベンチャーです。
