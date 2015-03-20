@@ -29,7 +29,7 @@ title: ハッカーズチャンプルー実行委員会について
 
 ユーザグループ          | 公式サイト                                                              
 ----------------------- | -------------------------------------------------------------------------
-Java Kuche              | http://www.java-kuche.org/
+Java Kuche              | http://java-kuche.org/
 JAWS-UG沖縄             | http://jaws-ug.jp/bc/okinawa/                                            
 JPUG沖縄支部            | http://www.postgresql.jp/branch/okinawa/                                 
 Okinawa.rb              | http://qwik.jp/okinawarb/                                                
