@@ -77,7 +77,5 @@ title: スポンサー
 
 ![](/img/2015/GitHub_Logo.png) 　GitHub, Inc. https://www.github.com
 
-GitHub is the best place to build software together. Over 8 million people use GitHub to share code and build amazing things with friends, co-workers, classmates, and complete strangers.
-With the collaborative features of GitHub.com, our desktop and mobile apps, and GitHub Enterprise, it has never been easier for individuals and teams to write better code, faster.
+GitHubは共同でソフトウェアを開発するためのベストな方法です。会社用のアプリ、お気に入りのオープンソースライブラリ、あるいは週末のサイドプロジェクトなどのためにも、GitHubはコラボレーションやコードシェアリングをしやすくするツールを提供することでベターな共同作業を促進します。たとえば自分の外出中に起きたことを確認したり、厄介なコードについてヘルプを求めたり、あらゆるデバイスからプロジェクトを管理したり、プロジェクトに参加したすることができるほか、最大の特長として、既存のお気に入りツールのすべてを引き続き使用することができます。今日からさっそくコード作成のコラボレーションを始めましょう。オープンソースのプロジェクトホスティングサービスは無料です！
 
-Originally founded by Tom Preston-Werner, Chris Wanstrath, and PJ Hyett to simplify sharing code, GitHub has grown into the largest code host in the world.
