@@ -26,7 +26,7 @@ http://togetter.com/li/554587
 
 また来年出会えることを願ってます！
 
-![ゴーヤチャンプルー](http://24.media.tumblr.com/3ec02686878dc4db22f8c1f898e55579/tumblr_mnp33h8cpY1sti13go1_500.jpg)
+![ゴーヤチャンプルー](/img/2013/goya.jpg)
 
 
 
