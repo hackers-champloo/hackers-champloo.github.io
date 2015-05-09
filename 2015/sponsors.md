@@ -55,7 +55,7 @@ title: スポンサー
 
 ### 飲食（お弁当）スポンサー 一覧（先着順）
 
-![](/img/2015/esa_logo.png) esa LCC https://esa.io/
+![](/img/2015/esa_logo.png) esa LLC https://esa.io/
 
 esa.io は楽しく情報を育てることのできるドキュメント共有サービスです。
 
