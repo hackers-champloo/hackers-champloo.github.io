@@ -44,3 +44,14 @@ a.css3button {
 	color: #eee;
 }
 
+#entry-limit-top {
+	color:#FF9900;
+	font-weight:bold;
+	margin:-10px 0 0 40px;
+}
+#entry-limit-camp {
+	color:#FF9900;
+	font-weight:bold;
+	margin:-10px 0 10px 10px;
+}
+
