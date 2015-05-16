@@ -44,4 +44,4 @@ Call for speakers
 * 実行委員会にて選考させて頂き、応募者に直接ご連絡の上、当ホームページにて発表させていただきます。
 
 
-<p><a href="http://goo.gl/forms/VqU2CeAFpI" class="medium button" target="_blank">登壇お申し込みはこちら！</a></p>
+<b>たくさんのご応募ありがとうございました！</b>
