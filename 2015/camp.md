@@ -7,7 +7,10 @@ title: 開発合宿詳細
 ##開発合宿詳細
 
 
-<p id="entry-limit-camp">開発合宿の申し込み締め切りは 5/22（金）です。お早めに！</p>
+<p id="entry-limit-camp">
+開発合宿の申し込みは 5/22（金）にて締め切らせて頂いております。<br>
+参加を希望の方はご自分でホテル宿泊を手配するか、<a href="https://docs.google.com/forms/d/1MGJ4bVv8hpyXeLjvcGzZDpl838ZGHPA_plLqX_BJSbA/viewform">こちら</a>から実行委員会にご相談ください。<br>
+</p>
 
 
 ![ビーチ](/img/2015/10380093_833368010035660_8287129429356879107_o.jpg)
@@ -77,7 +80,4 @@ title: 開発合宿詳細
 * 合宿会場までの移動手段はタクシー、レンタカーなど各種あります。  
   (実行委員会による送迎も場合によっては対応可能ですのでご相談下さい。
 * 家族同伴での宿泊、オーシャンビュー・個室希望等の対応については、個別手配をお願い致します。
-
-
-<p><a href="http://goo.gl/forms/tMVst3vGy9" class="medium button" target="_blank">開発合宿お申し込みはこちら！</a></p>
 
