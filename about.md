@@ -15,6 +15,7 @@ title: ハッカーズチャンプルー実行委員会について
 
 ### [会則](constitution.html)
 
+### [行動規範](policy.html)
 
 ### 役員
 
