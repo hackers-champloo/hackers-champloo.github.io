@@ -20,7 +20,16 @@ layout: 2015top
 
 ## [開発合宿詳細はこちら](/2015/camp.html)
 
+開発合宿期間中の、ナイトイベント詳細が決定しました。
+
+* [初日のウェルカム・パーティー](https://hackers-champloo.doorkeeper.jp/events/26881)
+* [最終日のフェアウェル・パーティー](https://hackers-champloo.doorkeeper.jp/events/26882)
+
+合宿参加者以外の方で、合宿参加者の皆様と交流したい、という方はぜひお申込みください！
+
 ## [カンファレンス詳細はこちら](/2015/program.html)
+
+* 6月20日締め切り！ [ライトニングトークのお申し込みはこちら](https://hackers-champloo.doorkeeper.jp/events/26169)
 
 ## [イベントスポンサーを募集します](/2015/sponsors.html)
 
