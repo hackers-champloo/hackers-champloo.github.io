@@ -29,8 +29,6 @@ layout: 2015top
 
 ## [カンファレンス詳細はこちら](/2015/program.html)
 
-* 6月20日締め切り！ [ライトニングトークのお申し込みはこちら](https://hackers-champloo.doorkeeper.jp/events/26169)
-
 ## [イベントスポンサーを募集します](/2015/sponsors.html)
 
 ---
