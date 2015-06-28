@@ -5,6 +5,24 @@ layout: 2015top
 
 ![ハッカーズチャンプルー](/img/logo_sitetop.png)
 
+### ハッカーズチャンプルー2015は
+### 全日程を終了しました！
+
+
+ご参加いただいた皆様、来沖してくださったゲストの皆様、ボランティアスタッフとして動いてくれた皆様、ありがとうございました。
+
+また来年出会えることを願ってます！
+
+### 各種SNS情報
+
+* Twitterハッシュタグのまとめ http://togetter.com/li/840194
+* Twitterハッシュタグ [#hcmpl](https://twitter.com/search?q=%23hcmpl&src=typd&vertical=default&f=tweets)
+* [Facebookページ](https://www.facebook.com/hackerschamploo) （どなたでもご覧いただけます。）
+* 写真やセッション資料を共有している[Facebookグループ](https://www.facebook.com/groups/hackerschamploo/) （Facebookアカウントをお持ちの方は、どなたでもご参加頂くことが出来ます。）
+
+---
+
+
 
 ### ハッカーズチャンプルー2015は
 ### 開発合宿＋カンファレンス！
@@ -27,9 +45,9 @@ layout: 2015top
 
 合宿参加者以外の方で、合宿参加者の皆様と交流したい、という方はぜひお申込みください！
 
-## [カンファレンス詳細はこちら](/2015/program.html)
+## [イベントプログラム](/2015/program.html)
 
-## [イベントスポンサーを募集します](/2015/sponsors.html)
+## [イベントスポンサー一覧](/2015/sponsors.html)
 
 ---
 

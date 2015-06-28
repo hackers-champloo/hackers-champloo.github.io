@@ -21,7 +21,9 @@ title: イベントプログラム
 * 参加費: 無料
 
 
+<!--
 <p><a href="https://hackers-champloo.doorkeeper.jp/events/26165" class="medium button" target="_blank">カンファレンス申し込み！</a></p>
+-->
 
 ### カンファレンスプログラム
 
@@ -174,5 +176,6 @@ title: イベントプログラム
 * 会場: 宜野湾トロピカルビーチ
 * 参加費: 実費（3千円程度）
 
+<!--
 <p><a href="https://hackers-champloo.doorkeeper.jp/events/26166" class="medium button" target="_blank">ビーチパーティ申し込み！</a></p>
-
+-->
