@@ -22,8 +22,8 @@ title: ハッカーズチャンプルー実行委員会について
 役割       | 担当者
 ---------- | ------------------------------------------------------------------
 実行委員長 | 西島 幸一郎 [@k_nishijima](https://twitter.com/k_nishijima)
-副委員長   | 小橋川 匡 [@kosaru](https://twitter.com/kosaru)
 副委員長   | 平良 知広 [@Tomohiro](https://twitter.com/Tomohiro)
+副委員長   | 玉城 辰朗 [@kimihito_](https://twitter.com/kimihito_)
 
 
 ### 協力ユーザグループ
