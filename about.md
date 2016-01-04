@@ -9,8 +9,9 @@ title: ハッカーズチャンプルー実行委員会について
 
 ### 過去の開催実績
 
-* [2013年](/2013/)
+* [2015年](/2015/)
 * [2014年](/2014/)
+* [2013年](/2013/)
 
 
 ### [会則](constitution.html)
@@ -22,8 +23,8 @@ title: ハッカーズチャンプルー実行委員会について
 役割       | 担当者
 ---------- | ------------------------------------------------------------------
 実行委員長 | 西島 幸一郎 [@k_nishijima](https://twitter.com/k_nishijima)
-副委員長   | 小橋川 匡 [@kosaru](https://twitter.com/kosaru)
 副委員長   | 平良 知広 [@Tomohiro](https://twitter.com/Tomohiro)
+副委員長   | 玉城 辰朗 [@kimihito_](https://twitter.com/kimihito_)
 
 
 ### 協力ユーザグループ
