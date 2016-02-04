@@ -1,4 +1,8 @@
+# Bundler
 .bundle
 vendor
-_site
 Gemfile.lock
+
+# Jekyll
+_site
+.jekyll-metadata
