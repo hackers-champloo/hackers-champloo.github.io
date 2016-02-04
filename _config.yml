@@ -4,7 +4,4 @@ author: ハッカーズチャンプルー実行委員会
 description: ハッカーズチャンプルー公式サイト
 
 # Jekyll settings
-markdown: redcarpet
-redcarpet:
-  extensions: ['tables', 'autolink', 'no_intra_emphasis']
-exclude: ['vendor', 'Gemfile', 'Gemfile.lock']
+exclude: ['LICENSE', 'CNAME', 'README.md', 'vendor', 'Gemfile', 'Gemfile.lock']
