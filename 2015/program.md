@@ -167,7 +167,8 @@ title: イベントプログラム
 	    クロージング　米須 渉（JAWS-UG沖縄）
 	  </td>
     </tr>
-  </table>
+  </tbody>
+</table>
 
 
 ### ビーチパーティ
