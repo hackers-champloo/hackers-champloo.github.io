@@ -22,28 +22,24 @@
 </head>
 
 <body>
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/ja_JP/sdk.js#xfbml=1&appId=898106080215816&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
     <header>
-        <nav class="top-bar" style="margin-bottom: 0">
+        <nav class="top-bar">
             <div class="row">
                 <div class="small-10 small-centered columns">
                     <ul class="title-area">
-                        <li class="name"><h1><a href="/">{{ site.title }}</a></h1></li>
-
+                        <li class="name"><h1><a href="/2016/">{{ site.title }}</a></h1></li>
                     </ul>
                     <section class="top-bar-section">
                         <ul class="left">
                             <li class="divider"></li>
-                            <li><a href="/policy.html">行動規範</a></li>
+                          <!--
+                            <li><a href="/2015/camp.html">開発合宿</a></li>
+                            <li><a href="/2015/program.html">プログラム</a></li>
+                            <li><a href="/2015/faq.html">FAQ</a></li>
                             <li><a href="https://suzuri.jp/hackerschamploo">公式グッツストア</a></li>
+                            <li><a href="/2015/call4speakers.html">スピーカー募集</a></li>
+                            -->
+                            <li><a href="/2016/sponsors.html">スポンサー募集</a></li>
                             <li><a href="https://docs.google.com/forms/d/1MGJ4bVv8hpyXeLjvcGzZDpl838ZGHPA_plLqX_BJSbA/viewform">お問い合わせ</a></li>
                         </ul>
                     </section>
@@ -52,50 +48,18 @@
         </nav>
     </header>
 
-<div class="hero">
-  <div class="row">
-    <div class="large-12 columns intro-text">
-      <img src="/img/logo_sitetop.png"/>
-      <h4 class="hero-text">ハッカーズチャンプルー公式サイトへようこそ！</h4>
-    </div>
-  </div>
-
-
-  <div class="row">
-    <div class="large-9 columns">
-        <h4>開催実績</h4>
-        <div class="large-4 columns hero-text">
-            <a href="/2016/">2016</a> New!
-            <a href="/2016/"><img src="/img/hclogo_box140.png" border="0"></a>
-        </div>
-        <div class="large-4 columns hero-text">
-            <a href="/2015/">2015</a>
-            <a href="/2015/"><img src="/img/2015/groupphoto.jpg" border="0"></a>
+    <div class="row">
+        <div id="container" class="small-12 small-centered columns">
+            {{ content }}
         </div>
     </div>
-  </div>
-  <div class="row">
-    <div class="large-9 columns">
-        <div class="large-4 columns hero-text">
-            <a href="/2014/">2014</a>
-            <a href="/2014/"><img src="/img/2014/10494940_657470154336439_1886959937682962608_o.jpg"></a>
-        </div>
-        <div class="large-4 columns hero-text">
-            <a href="/2013/">2013</a>
-            <a href="/2013/"><img src="/img/2013/20130829010153.jpg"></a>
-        </div>
-    </div>
-  </div>
 
     <hr />
+
     <div class="row">
         <footer class="right">
-        <p class="hero-text"><a href="/about.html">&copy; {{ site.author }}</a></p>
+	        <p>&copy; <a href="/about.html">{{ site.author }} <img src="/img/hclogo_box1.png" width="61" height="61" border="0"></a></p>
         </footer>
     </div>
-
-</div>
-
-
 </body>
 </html>
