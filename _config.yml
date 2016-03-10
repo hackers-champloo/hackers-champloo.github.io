@@ -5,3 +5,9 @@ description: ハッカーズチャンプルー公式サイト
 
 # Jekyll settings
 exclude: ['LICENSE', 'CNAME', 'README.md', 'vendor', 'Gemfile', 'Gemfile.lock']
+
+# Plugins
+#   Adding Jekyll plugins to a GitHub Pages site - User Documentation
+#   https://help.github.com/articles/adding-jekyll-plugins-to-a-github-pages-site/
+gems:
+  - jekyll-sitemap
