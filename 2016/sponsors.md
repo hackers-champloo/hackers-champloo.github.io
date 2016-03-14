@@ -57,7 +57,7 @@ title: スポンサー
 
 ### イベントスポンサー 一覧（先着順）
 
-![](/img/2016/minotake_web300px.gif) 株式会社ミノタケ http://mntk.info/
+![](/img/2016/minotake_web300px.gif) 株式会社ミノタケ [http://mntk.info/](http://mntk.info/)
 
 株式会社ミノタケは、「ラクな未来をつくる」をミッションに未来をつくるいろんな人たちの手伝いをする会社です。
 Ruby on Railsをメインに新規事業、スタートアップへの開発の手伝いをしています。
@@ -65,7 +65,7 @@ Ruby on Railsをメインに新規事業、スタートアップへの開発の�
 沖縄での開発合宿がうまくいきますよう微力ながらご協力させていただきます。
 
 -----
-![](/img/2016/R3_logo_200x217.png) アールスリーインスティテュート https://www.r3it.com/
+![](/img/2016/R3_logo_200x217.png) アールスリーインスティテュート [https://www.r3it.com/](https://www.r3it.com/)
 
 アールスリーインスティテュートは、AWSパートナー・kintoneパートナーとして全国で活動しています。
 「ハイスピードSI」を提唱し、お客様が今必要なシステムを今お届けするべく日々システム開発を行っています。
@@ -76,14 +76,14 @@ Ruby on Railsをメインに新規事業、スタートアップへの開発の�
 
 -----
 
-![](/img/2016/ryukyuinteractive_01.png) 琉球インタラクティブ株式会社 http://www.ryukyu-i.co.jp/
+![](/img/2016/ryukyuinteractive_01.png) 琉球インタラクティブ株式会社 [http://www.ryukyu-i.co.jp/](http://www.ryukyu-i.co.jp/)
 
 
 琉球インタラクティブは、沖縄発のインターネットベンチャー企業です。「日本を代表するインターネット企業になる」をビジョンに掲げ、マーケティング、ク リエイティブ、テクノロジーの3つの強みを活かすことで、インターネットサービス事業や次世代人材育成事業をはじめ、積極的に新規事業を創造し、 幅広い分野で事業展開を行っています。
 
 -----
 
-![](/img/2016/amimoto_brand_logo_w250.png) AMIMOTO http://ja.amimoto-ami.com/
+![](/img/2016/amimoto_brand_logo_w250.png) AMIMOTO [https://ja.amimoto-ami.com/](https://ja.amimoto-ami.com/)
 
 網元AMIとは？
 
