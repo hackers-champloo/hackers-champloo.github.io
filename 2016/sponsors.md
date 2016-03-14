@@ -84,3 +84,32 @@ Ruby on Railsをメインに新規事業、スタートアップへの開発の�
 それが私たちの日常です。
 
 -----
+
+![](/img/2016/amimoto_brand_logo_w250.png) AMIMOTO http://ja.amimoto-ami.com/
+
+網元AMIとは？
+
+網元AMIを利用すれば、誰もが簡単に高性能なWordPress専用のホスティング環境を構築可能です。
+網元AMIはAWS (Amazon Web Services)にWordPressを動作させるための環境（Linux,Nginx,PHP,MySQL)をワンクリックで構築可能です。
+これらは全てWordPressに最適化/チューニングされた状態で提供されますので起動後すぐにWordPressを利用することが出来ます。
+
+レンタルサーバ感覚で、WordPressをクラウドで運用したい！そんな、希望を叶えました。
+それが“網元AMI”です。
+
+Visit AMIMOTO to learn more
+
+[http://ja.amimoto-ami.com/](http://ja.amimoto-ami.com/)
+
+Top WordPress Hosting Choice of the Most Trusted Brands
+
+AMIMOTO delivers High Performance WordPress Cloud Hosting on Amazon Web Services. Completely integrated and pre-configured, AMIMOTO is a virtual app software which is a fusion of HHVM and NGINX Reverse Proxy Cache.
+
+* High Performance. AMIMOTO runs on NINJA speed for its performance tuning, NGINX and HHVM.
+* Fast. With HTTP/2 protocol, speed and efficiency are significantly improved for its low-latency content transport across the web.
+* Easy. For users of all tech levels and WordPress developer-friendly.
+* Highly Scalable. AMIMOTO is easy to scale up and down to meet high traffic demands.
+
+Visit AMIMOTO to learn more
+
+[http://amimoto-ami.com/](http://amimoto-ami.com/)
+
