@@ -3,7 +3,7 @@ layout: 2013top
 ---
 
 
-![ハッカーズチャンプルー](/img/logo_sitetop.png)
+![ハッカーズチャンプルー](/img/logo/banner.png)
 
 ### ハッカーズチャンプルーとは？
 

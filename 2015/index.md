@@ -3,7 +3,7 @@ layout: 2015top
 ---
 
 
-![ハッカーズチャンプルー](/img/logo_sitetop.png)
+![ハッカーズチャンプルー](/img/logo/banner.png)
 
 ### ハッカーズチャンプルー2015は
 
