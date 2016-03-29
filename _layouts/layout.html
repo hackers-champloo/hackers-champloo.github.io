@@ -22,28 +22,8 @@
 </head>
 
 <body>
-    <header>
-        <nav class="top-bar">
-            <div class="row">
-                <div class="small-10 small-centered columns">
-                    <ul class="title-area">
-                        <li class="name"><h1><a href="/">{{ site.title }}</a></h1></li>
-                    </ul>
-                    <section class="top-bar-section">
-                        <ul class="left">
-                            <li class="divider"></li>
-                            <li><a href="/2013/">2013</a></li>
-                            <li><a href="/2014/">2014</a></li>
-                            <li><a href="/2015/">2015</a></li>
-                            <li><a href="/policy.html">行動規範</a></li>
-                            <li><a href="https://suzuri.jp/hackerschamploo">公式グッズストア</a></li>
-							<li><a href="https://docs.google.com/forms/d/1MGJ4bVv8hpyXeLjvcGzZDpl838ZGHPA_plLqX_BJSbA/viewform">お問い合わせ</a></li>
-                        </ul>
-                    </section>
-                </div>
-            </div>
-        </nav>
-    </header>
+    {% include nav.html %}
+    {% include header.html %}
 
     <div class="row">
         <div id="container" class="small-12 small-centered columns">
@@ -51,12 +31,6 @@
         </div>
     </div>
 
-    <hr />
-
-    <div class="row">
-        <footer class="right">
-	        <p>&copy; <a href="about.html">{{ site.author }} <img src="img/hclogo_box1.png" width="61" height="61" border="0"></a></p>
-        </footer>
-    </div>
+    {% include footer.html %}
 </body>
 </html>

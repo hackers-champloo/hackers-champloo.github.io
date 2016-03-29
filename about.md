@@ -1,18 +1,10 @@
 ---
 layout: layout
 title: ハッカーズチャンプルー実行委員会について
+description: ハッカーズチャンプルー実行委員会は、沖縄県内の既存ITコミュニティ/ユーザグループにより構成されるコミュニティです。ハッカーズチャンプルーのイベント開催のため、2013年5月に設立されました。
 ---
 
-## ハッカーズチャンプルー実行委員会について
-
-ハッカーズチャンプルー実行委員会は、沖縄県内の既存ITコミュニティ/ユーザグループにより構成されるコミュニティです。ハッカーズチャンプルーのイベント開催のため、2013年5月に設立されました。
-
-### 過去の開催実績
-
-* [2015年](/2015/)
-* [2014年](/2014/)
-* [2013年](/2013/)
-
+### [過去の開催実績](events.html)
 
 ### [会則](constitution.html)
 
@@ -29,10 +21,10 @@ title: ハッカーズチャンプルー実行委員会について
 
 ### 協力ユーザグループ
 
-ユーザグループ          | 公式サイト                                                              
------------------------ | -------------------------------------------------------------------------
+ユーザグループ          | 公式サイト
+----------------------- | ------------------------------------------------------
 Java Kuche              | [http://java-kuche.org/](http://java-kuche.org/)
-JAWS-UG沖縄             | [http://jaws-ug.jp/bc/okinawa/](http://jaws-ug.jp/bc/okinawa/)                                    
+JAWS-UG沖縄             | [http://jaws-ug.jp/bc/okinawa/](http://jaws-ug.jp/bc/okinawa/)
 JPUG沖縄支部            | [http://www.postgresql.jp/branch/okinawa/](http://www.postgresql.jp/branch/okinawa/)
 Okinawa.rb              | [http://ruby.okinawa/](http://ruby.okinawa/)
 Yomitan.pm              | [http://yomitanpm.org/](http://yomitanpm.org/)
