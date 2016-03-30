@@ -68,6 +68,14 @@ a.css3button {
     color: #FFFFFF;
 }
 
+/* Sponsor list */
+#sponsors li {
+  border: 1px solid #ddd;
+  background-color: #fff;
+  padding: 10px;
+  margin-bottom: 25px;
+}
+
 #entry-limit-top {
     color:#FF9900;
     font-weight:bold;
