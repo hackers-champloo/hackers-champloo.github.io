@@ -3,6 +3,9 @@ title: Hackers Champloo
 author: ハッカーズチャンプルー実行委員会
 description: ハッカーズチャンプルー公式サイト
 
+google_analytics_tracking_id: UA-41571260-1
+domain: hackers-champloo.org
+
 # Jekyll settings
 exclude: ['LICENSE', 'CNAME', 'README.md', 'vendor', 'Gemfile', 'Gemfile.lock']
 
