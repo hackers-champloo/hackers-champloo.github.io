@@ -1,5 +1,6 @@
 ---
-layout: 2016layout
+home: 2016
+layout: 2016/layout
 title: 開発合宿イベント概要
 ---
 
