@@ -1,5 +1,37 @@
 ---
-layout: 2015top
+layout: camp/top
+sponsors:
+    - name: アールスリーインスティテュート
+      url: https://www.r3it.com/
+      logo: /img/2015/R3_logo_200x217.png
+    - name: 琉球インタラクティブ株式会社
+      url: http://www.ryukyu-i.co.jp/
+      logo: /img/2016/ri-logo.jpg
+    - name: GitHub, Inc.
+      url: https://www.github.com/
+      logo: /img/2015/GitHub_Logo.png
+    - name: 株式会社レキサス
+      url: http://www.lexues.co.jp/
+      logo: /img/2015/Lexues.png
+    - name: esa LLC
+      url: https://esa.io/
+      logo: /img/2015/esa_logo.png
+    - name: 株式会社パム
+      url: http://www.pam-info.co.jp/
+      logo: /img/2015/pam_logo.jpg
+    - name: 株式会社オーシーシー
+      url: http://www.occ.co.jp/
+      logo: /img/2015/occ_logo.png
+    - name: livepass株式会社
+      url: http://www.livepass.jp/
+      logo: /img/2015/livepass_logo.jpg
+supporters:
+    - name: 総務省 沖縄総合通信事務所
+      url: http://www.soumu.go.jp/soutsu/okinawa/
+    - name: 公益社団法人沖縄県情報産業協会
+      url: http://www.iia-okinawa.or.jp/
+    - name: 沖縄県
+      url: http://www.pref.okinawa.jp/
 ---
 
 

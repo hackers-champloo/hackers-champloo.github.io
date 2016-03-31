@@ -1,6 +1,5 @@
 ---
-home: /
-layout: 2016/top
+layout: camp/top
 sponsors:
     - name: 株式会社ミノタケ
       url: http://mntk.info/

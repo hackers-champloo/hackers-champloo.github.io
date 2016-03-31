@@ -51,6 +51,19 @@
             {% endfor %}
             </ul>
         </div>
+
+        {% if page.supporters %}
+        <div id="supporters" class="panel large-4 columns text-center">
+            <h4>後援</h4>
+            <ul class="side-nav">
+            {% for supporter in page.supporters %}
+                <li>
+                    <a href="{{ supporter.url }}" target="_blank">{{ supporter.name }}</a>
+                </li>
+            {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
     </div>
 
     <div class="row">

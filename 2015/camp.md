@@ -1,5 +1,6 @@
 ---
-layout: 2015layout
+home: 2015
+layout: camp/layout
 title: 開発合宿詳細
 ---
 

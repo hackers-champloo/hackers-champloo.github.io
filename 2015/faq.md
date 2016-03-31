@@ -1,9 +1,10 @@
 ---
-layout: 2015layout
-title: よくある質問（FAQ）
+home: 2015
+layout: camp/layout
+title: よくあるご質問（FAQ）
 ---
 
-## よくある質問（FAQ）
+## 目次
 
  * [開発合宿について](#camp)
  * [カンファレンスについて](#conference)
