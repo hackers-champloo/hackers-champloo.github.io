@@ -1,6 +1,7 @@
 ---
-layout: 2016layout
-title: スポンサー
+home: 2016
+layout: 2016/layout
+title: スポンサー募集
 ---
 
 
