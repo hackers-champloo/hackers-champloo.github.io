@@ -16,7 +16,7 @@
   fjs.parentNode.insertBefore(js, fjs);
 }(document, 'script', 'facebook-jssdk'));</script>
 
-    <header>
+    <div class="contain-to-grid fixed">
         <nav class="top-bar">
             <ul class="title-area">
                 <li class="name"><h1><a href="/">{{ site.title }}</a></h1></li>
@@ -30,19 +30,14 @@
                 </ul>
             </section>
         </nav>
-    </header>
+    </div>
 
     <div class="row">
-<!--
-        <div id="container" class="large-10 columns">
-        </div>
--->
-
         <div id="container" class="large-8 columns">
             {{ content }}
         </div>
 
-        <div class="large-4 columns text-center">
+        <div id="sponsors" class="large-4 columns text-center">
             <h4>スポンサー</h4>
             <p><a href="http://enterprisecloud.jp" target="_blank"><img src="/img/sou_logo.jpg" title="日本仮想化技術株式会社"></a></p>
 
