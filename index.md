@@ -1,3 +1,3 @@
 ---
-layout: top
+layout: landing
 ---
