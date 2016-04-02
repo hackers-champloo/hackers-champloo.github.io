@@ -25,8 +25,11 @@ h3 {
 }
 #cover h1 {
     padding-top: 100px;
-    font-size: xx-large;
+    font-size: 300%;
     color: #FFFFFF;
+}
+#cover p {
+    font-size: 150%;
 }
 
 /* Page Header */
