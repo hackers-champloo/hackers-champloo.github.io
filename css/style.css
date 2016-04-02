@@ -22,7 +22,7 @@ h3 {
     background-image: url(/img/2015/10981081_833368103368984_5511218503026796313_o.jpg);
     background-position: center center;
     background-repeat: no-repeat;
-    background-attachment: fixed;
+    background-attachment: scroll;
     background-size: cover;
     background-color: #464646;
     color: #FFFFFF;
