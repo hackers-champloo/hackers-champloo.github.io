@@ -33,12 +33,12 @@ title: プログラム
 | 16:30 - | | 実行委員会 | クロージング| |
 
 
-# 懇親会（予定）
+# 懇親会
 
-- 日時 : 2016年6月25日（土） 17:30〜
+- 日時 : 2016年6月25日（土） 17:30（開場）〜
 
 - 会場 : Line(ライン) [http://r.gnavi.co.jp/3563kh6p0000/](http://r.gnavi.co.jp/3563kh6p0000/)
 
 - 参加費 : 3千円前後（学生割引ありの予定です！）
 
-お申込ページは只今準備中です。
+<p><a href="https://hackers-champloo.doorkeeper.jp/events/42458" class="medium button" target="_blank">懇親会申し込み！</a></p>
