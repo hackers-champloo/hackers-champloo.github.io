@@ -4,24 +4,28 @@ layout: camp/layout
 title: カンファレンスの部 プログラム
 ---
 
-<ul data-orbit>
- <li>
-  <img src="/img/2016/11230100_10153994620175031_1803286837806796002_n.jpg" />
-  <div class="orbit-caption">昨年（ハッカーズチャンプルー2015）の様子</div>
- </li>
- <li>
-  <img src="/img/2016/12985366_1240484445965260_942974817919847175_n.jpg" />
-  <div class="orbit-caption">昨年（ハッカーズチャンプルー2015）の様子</div>
- </li>
- <li>
-  <img src="/img/2016/12963810_1240484379298600_5767021701809636034_n.jpg" />
-  <div class="orbit-caption">昨年（ハッカーズチャンプルー2015）の様子</div>
- </li>
- <li>
-  <img src="/img/2016/12472313_1240484295965275_9209790285296878256_n.jpg" />
-  <div class="orbit-caption">昨年（ハッカーズチャンプルー2015）の様子</div>
- </li>
-</ul>
+<div class="row">
+  <div class="large-10 large-centered columns">
+    <ul data-orbit>
+      <li>
+        <img src="/img/2016/11230100_10153994620175031_1803286837806796002_n.jpg" />
+        <div class="orbit-caption">昨年（ハッカーズチャンプルー2015）の様子</div>
+      </li>
+      <li>
+        <img src="/img/2016/12985366_1240484445965260_942974817919847175_n.jpg" />
+        <div class="orbit-caption">昨年（ハッカーズチャンプルー2015）の様子</div>
+      </li>
+      <li>
+        <img src="/img/2016/12963810_1240484379298600_5767021701809636034_n.jpg" />
+        <div class="orbit-caption">昨年（ハッカーズチャンプルー2015）の様子</div>
+      </li>
+      <li>
+        <img src="/img/2016/12472313_1240484295965275_9209790285296878256_n.jpg" />
+        <div class="orbit-caption">昨年（ハッカーズチャンプルー2015）の様子</div>
+      </li>
+    </ul>
+  </div>
+</div>
 
 
 # 開催日時
