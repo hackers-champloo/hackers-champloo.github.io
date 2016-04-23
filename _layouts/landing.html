@@ -54,13 +54,13 @@
 
     <div class="container row">
         <div class="large-10 large-centered text-center columns">
-            <h2>スポンサー</h2>
+            <h2>コミュニティ支援</h2>
         </div>
         <div class="large-10 large-centered text-center columns">
-            {% for sponsor in page.sponsors %}
+            {% for supporter in page.supporters %}
                 <div>
-                    <a href="{{ sponsor.url }}" target="_blank">
-                        <img src="{{ sponsor.logo }}" title="{{ sponsor.name }}">
+                    <a href="{{ supporter.url }}" target="_blank">
+                        <img src="{{ supporter.logo }}" title="{{ supporter.name }}">
                     </a>
                 </div>
             {% endfor %}
