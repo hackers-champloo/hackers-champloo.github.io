@@ -52,6 +52,21 @@
         </div>
     </div>
 
+    <div class="container row">
+        <div class="large-10 large-centered text-center columns">
+            <h2>スポンサー</h2>
+        </div>
+        <div class="large-10 large-centered text-center columns">
+            {% for sponsor in page.sponsors %}
+                <div>
+                    <a href="{{ sponsor.url }}" target="_blank">
+                        <img src="{{ sponsor.logo }}" title="{{ sponsor.name }}">
+                    </a>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
     {% include footer.html %}
 </body>
 </html>
