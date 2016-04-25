@@ -139,7 +139,11 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr class="track-break">
         <th>15:10 - 15:30 (20分)</th>
-        <td><p class="track-title">コーヒータイム</p></td>
+        <td>
+          <p class="track-title">コーヒータイム</p>
+          <p class="track-speaker"><a href="http://kumejima-coffee.com/" target="_blank">久米島珈琲</a>の無料コーヒーサービス提供します！<br />
+          登壇者や運営スタッフとゆっくり交流できるチャンスです！</p>
+        </td>
       </tr>
       <tr>
         <th>15:30 - 16:10 (40分)</th>
