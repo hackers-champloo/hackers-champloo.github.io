@@ -147,7 +147,15 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr>
         <th>15:30 - 16:10 (40分)</th>
-        <td><p class="track-title">セッション4 (調整中)</p></td>
+        <td>
+          <p class="track-title">PostgreSQL 9.6がやってくる！(仮)</p>
+          <p class="track-speaker">
+            <p><a href="https://twitter.com/nuko_yokohama" target="_blank">ぬこ@横浜</a> / 日本PostgreSQLユーザ会</p>
+            <a href="https://twitter.com/nuko_yokohama" target="_blank">
+                <img class="speaker-photo" src="/img/2016/speakers/nuko.jpg" />
+            </a>
+          </p>
+        </td>
       </tr>
       <tr>
         <th>16:10 - 16:30 (20分)</th>
