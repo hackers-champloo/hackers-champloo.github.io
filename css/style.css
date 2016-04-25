@@ -12,6 +12,14 @@ h3 {
     border-bottom: 1px solid #ccc;
 }
 
+img.speaker-photo {
+    margin: 5px;
+    padding: 2px;
+    border: 1px solid #CCC;
+    border-radius: 50%;
+    width: 100px;
+}
+
 .container {
   margin-top: 30px;
 }
@@ -76,4 +84,30 @@ h3 {
     color:#FF9900;
     font-weight:bold;
     margin:-10px 0 10px 10px;
+}
+
+#schedule table tbody tr {
+    background-color: #FFF;
+    border: 1px solid #DDD;
+}
+#schedule table th {
+    text-align: center;
+    white-space:: nowrap;
+    border-right: 1px solid #DDD;
+    width: 200px;
+}
+#schedule table td {
+    text-align: center;
+    width: 600px;
+}
+#schedule p.track-title {
+    font-size: large;
+    margin: 2px;
+}
+#schedule p.track-description {
+    padding: 5px;
+    text-align: left;
+}
+#schedule table tr.track-break {
+    background-color: #F9F9F9;
 }
