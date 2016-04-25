@@ -42,6 +42,7 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
 
 - 参加費: 無料
 
+<p><a href="https://hackers-champloo.doorkeeper.jp/events/42325" class="medium button" target="_blank">カンファレンス申し込み！</a></p>
 
 ### 会場の注意点
 
