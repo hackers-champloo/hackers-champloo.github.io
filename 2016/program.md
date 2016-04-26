@@ -91,7 +91,7 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr>
         <th>10:40 - 11:00 (20分)</th>
-        <td><p class="track-title">合宿成果発表・ライトニングトーク Part 1</p>6本×3分</td>
+        <td><p class="track-title">合宿成果発表・ライトニングトーク Part 1</p>6分×3本</td>
       </tr>
       <tr>
         <th>11:00 - 11:50 (50分)</th>
@@ -128,7 +128,7 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr>
         <th>13:50 - 14:10 (20分)</th>
-        <td><p class="track-title">合宿成果発表・ライトニングトーク Part 2</p>6本×3分</td>
+        <td><p class="track-title">合宿成果発表・ライトニングトーク Part 2</p>6分×3本</td>
       </tr>
       <tr>
         <th>14:10 - 14:50 (40分)</th>
@@ -144,7 +144,7 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr>
         <th>14:50 - 15:10 (20分)</th>
-        <td><p class="track-title">合宿成果発表・ライトニングトーク Part 3</p>6本×3分</td>
+        <td><p class="track-title">合宿成果発表・ライトニングトーク Part 3</p>6分×3本</td>
       </tr>
       <tr class="track-break">
         <th>15:10 - 15:30 (20分)</th>
@@ -168,7 +168,7 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr>
         <th>16:10 - 16:30 (20分)</th>
-        <td><p class="track-title">合宿成果発表・ライトニングトーク Part 4</p>6本×3分</td>
+        <td><p class="track-title">合宿成果発表・ライトニングトーク Part 4</p>6分×3本</td>
       </tr>
       <tr>
         <th>16:30 - 17:10 (40分)</th>
