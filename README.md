@@ -23,6 +23,7 @@ Documentation
 LICENSE
 --------------------------------------------------------------------------------
 
-&copy; 2013 hackers-champloo.org.
+&copy; 2013 - 2016 hackers-champloo.org.
+
 This project is licensed under the MIT license.
 See LICENSE for details.
