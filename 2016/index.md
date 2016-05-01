@@ -1,6 +1,6 @@
 ---
 layout: camp/top
-sponsors:
+goldsponsors:
     - name: 株式会社ミノタケ
       url: http://mntk.info/
       logo: /img/2016/minotake_web300px.gif
@@ -10,6 +10,10 @@ sponsors:
     - name: 琉球インタラクティブ株式会社
       url: http://www.ryukyu-i.co.jp/
       logo: /img/2016/ri-logo.jpg
+    - name: 株式会社 タップ
+      url: https://www.tap-ic.co.jp/
+      logo: /img/2016/logo_tap_200.png
+sponsors:
     - name: AMIMOTO
       url: https://ja.amimoto-ami.com/
       logo: /img/2016/amimoto_brand_logo_w250.png
@@ -22,6 +26,7 @@ sponsors:
     - name: esa LLC
       url: https://esa.io/
       logo: /img/2016/esa-logo.png
+    - name: 有限会社エムジーウェーブ
 ---
 
 
