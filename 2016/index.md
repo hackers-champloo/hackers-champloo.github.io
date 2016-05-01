@@ -23,6 +23,9 @@ sponsors:
       url: https://esa.io/
       logo: /img/2016/esa-logo.png
     - name: 有限会社エムジーウェーブ
+    - name: 株式会社 タップ
+      url: https://www.tap-ic.co.jp/
+      logo: /img/2016/logo_tap_200.png
 ---
 
 
