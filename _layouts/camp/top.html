@@ -46,9 +46,13 @@
             <ul class="side-nav">
             {% for sponsor in page.sponsors %}
                 <li>
+                  {% if sponsor.logo %}
                     <a href="{{ sponsor.url }}" target="_blank">
-                        <img src="{{ sponsor.logo }}" title="{{ sponsor.name }}">
+                      <img src="{{ sponsor.logo }}" title="{{ sponsor.name }}">
                     </a>
+                  {% else %}
+                    {{ sponsor.name }}
+                  {% endif %}
                 </li>
             {% endfor %}
             </ul>
