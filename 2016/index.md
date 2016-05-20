@@ -57,7 +57,7 @@ supporters:
 
 ## イベント概要
 
-3泊4日の開発合宿の後、最終日に全体カンファレンスという構成になります。それぞれのイベント事にお申込が必要となります。詳しくはそれぞれの詳細をご確認ください。
+3泊4日の開発合宿の後、最終日に全体カンファレンスという構成になります。それぞれのイベント毎にお申込が必要となります。詳しくはそれぞれの詳細をご確認ください。
 
 ### [開発合宿詳細はこちら](/2016/camp.html)
 
@@ -70,7 +70,7 @@ supporters:
 
 ### [カンファレンス プログラム詳細はこちら](/2016/program.html)
 
-* 2016年6月25日（土）9:30会場
+* 2016年6月25日（土）9:30開場
 
 <a class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/42325">ハッカーズチャンプルー2016 カンファレンスの部</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 
