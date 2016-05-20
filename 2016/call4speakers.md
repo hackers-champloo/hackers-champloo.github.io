@@ -40,5 +40,4 @@ description: ハッカーズチャンプルー2016では、カンファレンス
 * 実行委員会にて選考させて頂き、応募者に直接ご連絡の上、当ホームページにて発表させていただきます。
 
 
-
-<p><a href="http://goo.gl/forms/VQpZTA5FHV" class="medium button" target="_blank">スピーカー申し込み！</a></p>
+**たくさんのご応募ありがとうございました！**
