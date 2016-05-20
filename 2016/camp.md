@@ -8,7 +8,10 @@ title: 開発合宿イベント概要
 
 <img src="/img/2015/10497446_833368266702301_2058758081536543300_o.jpg" align="right">
 
-<p id="entry-limit-camp">開発合宿の申し込み締め切りは 5/20（金）です。お早めにお申し込みください！</p>
+<p id="entry-limit-camp">
+開発合宿の申し込みは 5月20日（金）にて締め切らせて頂いております。<br />
+参加を希望の方はご自分でホテル宿泊を手配するか、<a href="https://docs.google.com/forms/d/1MGJ4bVv8hpyXeLjvcGzZDpl838ZGHPA_plLqX_BJSbA/viewform">こちら</a>から実行委員会にご相談ください。<br />
+</p>
 
 
 ### スケジュール
@@ -71,4 +74,3 @@ title: 開発合宿イベント概要
 * カンファレンスの開催場所は開発合宿場所とは異なります。移動手段については運営の方で検討、調整の上別途ご案内致します。
 
 * その他ご質問等ございましたら、[問合せフォーム](https://docs.google.com/forms/d/1MGJ4bVv8hpyXeLjvcGzZDpl838ZGHPA_plLqX_BJSbA/viewform)よりお問い合わせください。
-<p><a href="http://goo.gl/forms/sRfFqkM68l" class="medium button" target="_blank">開発合宿お申し込みはこちら！</a></p>
