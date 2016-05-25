@@ -111,3 +111,8 @@ img.speaker-photo {
 #schedule table tr.track-break {
     background-color: #F9F9F9;
 }
+#schedule ul li {
+    text-align: left;
+    padding-top: 10px;
+    margin-left: 20px;
+}
