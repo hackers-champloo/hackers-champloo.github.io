@@ -105,7 +105,14 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr>
         <th>10:40 - 11:00 (20分)</th>
-        <td><p class="track-title">合宿成果発表・ライトニングトーク Part 1</p>6分×3本</td>
+        <td>
+            <p class="track-title">合宿成果発表・ライトニングトーク Part 1</p>6分×3本<br />
+            <ul>
+              <li>岡本 秀高 （株式会社デジタルキューブ）<br />「AMIMOTOにおけるWordPressプラグイン依存関係の解決方法」</li>
+              <li>糸満 優樹、豊川 大悟 （ITカレッジ沖縄 学生）<br />「（調整中）」</li>
+              <li>@fullkawa （Open Design Games） <br />「そろそろ「強さ」以外にも目を向けよう」</li>
+            </ul>
+        </td>
       </tr>
       <tr>
         <th>11:00 - 11:50 (50分)</th>
@@ -142,7 +149,14 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr>
         <th>13:50 - 14:10 (20分)</th>
-        <td><p class="track-title">合宿成果発表・ライトニングトーク Part 2</p>6分×3本</td>
+        <td>
+            <p class="track-title">合宿成果発表・ライトニングトーク Part 2</p>6分×3本<br />
+            <ul>
+              <li>山田 涼雅 （アールスリーインスティテュート）<br />「合宿の成果(仮)」</li>
+              <li>刈川 陽平 （サイボウズ株式会社）<br />「（調整中）」</li>
+              <li>堀家 隆宏 （株式会社デジタルキューブ） <br />「サーバレスアーキテクチャでのユーザダッシュボード開発」</li>
+            </ul>
+        </td>
       </tr>
       <tr>
         <th>14:10 - 14:50 (40分)</th>
@@ -158,7 +172,14 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr>
         <th>14:50 - 15:10 (20分)</th>
-        <td><p class="track-title">合宿成果発表・ライトニングトーク Part 3</p>6分×3本</td>
+        <td>
+            <p class="track-title">合宿成果発表・ライトニングトーク Part 3</p>6分×3本<br />
+            <ul>
+              <li>@yasulab （ヤスラボ）<br />「Railsチュートリアルを支える技術」</li>
+              <li>以下調整中</li>
+            </ul>
+
+        </td>
       </tr>
       <tr class="track-break">
         <th>15:10 - 15:30 (20分)</th>
