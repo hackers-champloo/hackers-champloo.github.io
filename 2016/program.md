@@ -87,11 +87,32 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr>
         <th>10:00 - 10:40 (40分)</th>
-        <td><p class="track-title">セッション1 (調整中)</p></td>
+        <td>
+          <p class="track-title">「デザイン」の本質を見なおす</p>
+          <p class="track-speaker">
+            <a href="https://twitter.com/denari01" target="_blank">denari01</a> / <a href="http://fuller.co.jp/" target="_blank">FULLER株式会社</a>
+            <br/>
+            <a href="https://twitter.com/denari01" target="_blank">
+              <img class="speaker-photo" src="/img/2016/speakers/denari.jpg" />
+            </a>
+            </p>
+            <p class="track-description">
+            デザインという言葉を見つめなおすと、今のアプリ開発プロセスの流行・矛盾・常識について様々な事柄が見えてきます。
+本発表は、デザインという言葉を僕と同じ視点で見つめなおすことで自分のやっていることをあらためて見つめなおすというものです。
+また、本発表は世の中の常識や、海外の常識を伝えるものではありません。あくまで僕の出した一つの「答案」をもとに、聞いてくれる人の周囲を見直すキッカケにしてもらうものです。
+            </p>
+        </td>
       </tr>
       <tr>
         <th>10:40 - 11:00 (20分)</th>
-        <td><p class="track-title">合宿成果発表・ライトニングトーク Part 1</p>6分×3本</td>
+        <td>
+            <p class="track-title">合宿成果発表・ライトニングトーク Part 1</p>6分×3本<br />
+            <ul>
+              <li>岡本 秀高 （株式会社デジタルキューブ）<br />「AMIMOTOにおけるWordPressプラグイン依存関係の解決方法」</li>
+              <li>糸満 優樹、豊川 大悟 （ITカレッジ沖縄 学生）<br />「（調整中）」</li>
+              <li>@fullkawa （Open Design Games） <br />「そろそろ「強さ」以外にも目を向けよう」</li>
+            </ul>
+        </td>
       </tr>
       <tr>
         <th>11:00 - 11:50 (50分)</th>
@@ -128,7 +149,14 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr>
         <th>13:50 - 14:10 (20分)</th>
-        <td><p class="track-title">合宿成果発表・ライトニングトーク Part 2</p>6分×3本</td>
+        <td>
+            <p class="track-title">合宿成果発表・ライトニングトーク Part 2</p>6分×3本<br />
+            <ul>
+              <li>山田 涼雅 （アールスリーインスティテュート）<br />「合宿の成果(仮)」</li>
+              <li>刈川 陽平 （サイボウズ株式会社）<br />「（調整中）」</li>
+              <li>堀家 隆宏 （株式会社デジタルキューブ） <br />「サーバレスアーキテクチャでのユーザダッシュボード開発」</li>
+            </ul>
+        </td>
       </tr>
       <tr>
         <th>14:10 - 14:50 (40分)</th>
@@ -144,7 +172,14 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr>
         <th>14:50 - 15:10 (20分)</th>
-        <td><p class="track-title">合宿成果発表・ライトニングトーク Part 3</p>6分×3本</td>
+        <td>
+            <p class="track-title">合宿成果発表・ライトニングトーク Part 3</p>6分×3本<br />
+            <ul>
+              <li>@yasulab （ヤスラボ）<br />「Railsチュートリアルを支える技術」</li>
+              <li>以下調整中</li>
+            </ul>
+
+        </td>
       </tr>
       <tr class="track-break">
         <th>15:10 - 15:30 (20分)</th>
@@ -172,7 +207,26 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr>
         <th>16:30 - 17:10 (40分)</th>
-        <td><p class="track-title">セッション5 (調整中)</p></td>
+        <td>
+          <p class="track-title">モンスターストライクを支える負荷分散手法</p>
+          <p class="track-speaker">
+            <a href="https://hiroki.jp/" target="_blank">大塚 弘記</a> / <a href="http://xflag.com/" target="_blank">株式会社ミクシィ XFLAGスタジオ</a>
+            <br/>
+            <a href="https://hiroki.jp/" target="_blank">
+              <img class="speaker-photo" src="/img/2016/speakers/hiroki.png" />
+            </a>
+            </p>
+            <p class="track-description">
+            本セッションでは、スマートフォンアプリゲームの「モンスターストライク」でおこなわれているサーバサイドの負荷分散手法について説明します。<br /><br />
+        それに加えて、大規模運用時に発生する問題や障害へのアプローチについて紹介します。<br /><br />
+
+- 負荷分散を適切におこなうためのパフォーマンスモニタリングシステムの構築<br />
+- 複数データベースへ展開していくスケールアウトの手法と手順<br />
+- 大容量(2.5TBを越える)のキャッシュを支える手法<br /><br />
+
+それぞれの内容にフォーカスして、具体的な手法と発生する問題に対するアプローチを解説します。
+            </p>
+        </td>
       </tr>
       <tr>
         <th>17:10 -</th>
