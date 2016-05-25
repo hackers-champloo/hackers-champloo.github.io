@@ -87,7 +87,21 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr>
         <th>10:00 - 10:40 (40分)</th>
-        <td><p class="track-title">セッション1 (調整中)</p></td>
+        <td>
+          <p class="track-title">「デザイン」の本質を見なおす</p>
+          <p class="track-speaker">
+            <a href="https://twitter.com/denari01" target="_blank">denari01</a> / <a href="http://fuller.co.jp/" target="_blank">FULLER株式会社</a>
+            <br/>
+            <a href="https://twitter.com/denari01" target="_blank">
+              <img class="speaker-photo" src="/img/2016/speakers/denari.jpg" />
+            </a>
+            </p>
+            <p class="track-description">
+            デザインという言葉を見つめなおすと、今のアプリ開発プロセスの流行・矛盾・常識について様々な事柄が見えてきます。
+本発表は、デザインという言葉を僕と同じ視点で見つめなおすことで自分のやっていることをあらためて見つめなおすというものです。
+また、本発表は世の中の常識や、海外の常識を伝えるものではありません。あくまで僕の出した一つの「答案」をもとに、聞いてくれる人の周囲を見直すキッカケにしてもらうものです。
+            </p>
+        </td>
       </tr>
       <tr>
         <th>10:40 - 11:00 (20分)</th>
@@ -172,7 +186,26 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       </tr>
       <tr>
         <th>16:30 - 17:10 (40分)</th>
-        <td><p class="track-title">セッション5 (調整中)</p></td>
+        <td>
+          <p class="track-title">モンスターストライクを支える負荷分散手法</p>
+          <p class="track-speaker">
+            <a href="https://hiroki.jp/" target="_blank">大塚 弘記</a> / <a href="http://xflag.com/" target="_blank">株式会社ミクシィ XFLAGスタジオ</a>
+            <br/>
+            <a href="https://hiroki.jp/" target="_blank">
+              <img class="speaker-photo" src="/img/2016/speakers/hiroki.png" />
+            </a>
+            </p>
+            <p class="track-description">
+            本セッションでは、スマートフォンアプリゲームの「モンスターストライク」でおこなわれているサーバサイドの負荷分散手法について説明します。<br /><br />
+        それに加えて、大規模運用時に発生する問題や障害へのアプローチについて紹介します。<br /><br />
+
+- 負荷分散を適切におこなうためのパフォーマンスモニタリングシステムの構築<br />
+- 複数データベースへ展開していくスケールアウトの手法と手順<br />
+- 大容量(2.5TBを越える)のキャッシュを支える手法<br /><br />
+
+それぞれの内容にフォーカスして、具体的な手法と発生する問題に対するアプローチを解説します。
+            </p>
+        </td>
       </tr>
       <tr>
         <th>17:10 -</th>
