@@ -209,7 +209,7 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
             <ul>
               <li>藤井 洋太郎 (Sansan株式会社)<br />「名刺アプリEightの、紙の名刺をなくす技術」</li>
               <li>岩村 琢<br />「ぼくがかんがえたさいきょうの超高速開発〜Oracle APEX実践報告〜」</li>
-              <li>Yutaka_Kinjyo<br />「エンジニアの命は何のために燃えるのか(仮)」</li>
+              <li><a href="https://twitter.com/Yutaka_Kinjyo" target="_blank">金城 裕</a><br />「エンジニアの命は何のために燃えるのか(仮)」</li>
             </ul>
         </td>
       </tr>
