@@ -9,6 +9,7 @@ title: 実行委員会 ボランティアスタッフ
 ハッカーズチャンプルー2016実行委員会および当日ボランティアスタッフの方々
 
 * Akiyoshi Tomita
+* Hidetaka Arakaki
 * Kazuki Murahama
 * Kazuma Muramatsu
 * kimihito
