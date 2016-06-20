@@ -257,6 +257,6 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
 
 - 会場 : Line(ライン) [http://r.gnavi.co.jp/3563kh6p0000/](http://r.gnavi.co.jp/3563kh6p0000/)
 
-- 参加費 : 3千円前後（学生割引ありの予定です！）
+- 参加費 : 3千円前後（学生は1000円です！）
 
 <p><a href="https://hackers-champloo.doorkeeper.jp/events/42458" class="medium button" target="_blank">懇親会申し込み！</a></p>
