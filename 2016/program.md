@@ -205,7 +205,7 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
       <tr>
         <th>16:10 - 16:30 (20分)</th>
         <td>
-            <p class="track-title">合宿成果発表・ライトニングトーク Part 4</p>6分×3本<br />
+            <p class="track-title">合宿成果発表・ライトニングトーク Part 4</p>6分×2本<br />
             <ul>
               <li>藤井 洋太郎 (Sansan株式会社)<br />「名刺アプリEightの、紙の名刺をなくす技術」</li>
               <li>岩村 琢<br />「ぼくがかんがえたさいきょうの超高速開発〜Oracle APEX実践報告〜」</li>
