@@ -44,8 +44,9 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
 
 - 参加費: 無料
 
+<!--
 <p><a href="https://hackers-champloo.doorkeeper.jp/events/42325" class="medium button" target="_blank">カンファレンス申し込み！</a></p>
-
+-->
 
 <i class="fa fa-bullhorn"></i> 会場の注意点
 --------------------------------------------------------------------------------
@@ -246,8 +247,9 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
   </table>
 </div>
 
+<!--
 <p><a href="https://hackers-champloo.doorkeeper.jp/events/42325" class="medium button" target="_blank">カンファレンス申し込み！</a></p>
-
+-->
 
 <i class="fa fa-beer"></i> 懇親会
 --------------------------------------------------------------------------------
@@ -258,4 +260,6 @@ description: 2016年6月25日(土) 9:50 開始・ＫＢＣ学園 専修学校 �
 
 - 参加費 : 3500円（学生は1000円です！）
 
+<!--
 <p><a href="https://hackers-champloo.doorkeeper.jp/events/42458" class="medium button" target="_blank">懇親会申し込み！</a></p>
+-->
