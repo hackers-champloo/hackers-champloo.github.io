@@ -24,10 +24,13 @@ img.speaker-photo {
   margin-top: 30px;
 }
 
-/* Cover */
+/*
+ * Cover
+ * https://www.pakutaso.com/20131158315post-3469.html
+ */
 #cover {
     height: 500px;
-    background-image: url(/img/2015/10981081_833368103368984_5511218503026796313_o.jpg);
+    background-image: url(/img/cover.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -36,7 +39,7 @@ img.speaker-photo {
     color: #FFFFFF;
 }
 #cover h1 {
-    padding-top: 100px;
+    padding-top: 150px;
     font-size: 300%;
     color: #FFFFFF;
 }
