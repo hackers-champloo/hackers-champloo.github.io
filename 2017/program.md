@@ -2,7 +2,7 @@
 home: 2017
 layout: camp/layout
 title: カンファレンスの部 プログラム
-description: 2016年6月24日(土) 9:50 開始・ＫＢＣ学園 専修学校 国際電子ビジネス専門学校
+description: 2017年6月24日(土) ・ＫＢＣ学園 専修学校 国際電子ビジネス専門学校
 ---
 
 <p><a href="https://github.com/hackers-champloo/cfp2017/" class="alert button" target="_blank">現在登壇者公募中です！</a></p>
