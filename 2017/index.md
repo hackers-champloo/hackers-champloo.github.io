@@ -2,8 +2,8 @@
 layout: camp/top
 goldsponsors:
 sponsors:
-    - name: サポーター募集中！
-      url: http://hackers-champloo.org/2017/
+    - name: スポンサー募集中！
+      url: http://hackers-champloo.org/2017/sponsors.html
       logo: /img/hclogo_box140.png
 supporters:
 ---
