@@ -47,9 +47,7 @@ description: 2017年6月24日(土) ・ＫＢＣ学園 専修学校 国際電子�
 
 - 日時 : 2017年6月24日（土） 17:30（開場）〜
 
-- 会場 : Line(ライン) [http://r.gnavi.co.jp/3563kh6p0000/](http://r.gnavi.co.jp/3563kh6p0000/)
-
-- 参加費 : 3500円予定（学生補助にて1000円の予定）
+- 会場 : 調整中
 
 <!--
 <p><a href="https://hackers-champloo.doorkeeper.jp/events/42458" class="medium button" target="_blank">懇親会申し込み！</a></p>
