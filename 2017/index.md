@@ -1,6 +1,8 @@
 ---
 layout: camp/top
 goldsponsors:
+    - name: 株式会社ミノタケ
+      logo: /img/2017/minotake_web300px.gif
 sponsors:
     - name: スポンサー募集中！
       url: http://hackers-champloo.org/2017/sponsors.html
