@@ -3,10 +3,13 @@ layout: camp/top
 goldsponsors:
     - name: 株式会社ミノタケ
       logo: /img/2017/minotake_web300px.gif
-sponsors:
-    - name: スポンサー募集中！
-      url: http://hackers-champloo.org/2017/sponsors.html
-      logo: /img/hclogo_box140.png
+    - name: アールスリーインスティテュート
+      url: https://www.r3it.com/
+      logo: /img/2017/R3_logo_w200.png
+mediasponsors:
+    - name: さくらのナレッジ
+      url: http://knowledge.sakura.ad.jp/
+      logo: /img/2017/sakura.png
 supporters:
 ---
 
