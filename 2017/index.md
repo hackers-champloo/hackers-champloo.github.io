@@ -12,6 +12,9 @@ goldsponsors:
     - name: 株式会社コードタクト
       url: http://codetakt.com/
       logo: /img/2017/logo_codetakt.png
+    - name: JOB ANTENNA(ジョブアンテナ)
+      url: https://www.jobantenna.jp/
+      logo: /img/2017/JAlogo.jpg
 mediasponsors:
     - name: さくらのナレッジ
       url: http://knowledge.sakura.ad.jp/
