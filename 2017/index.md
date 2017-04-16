@@ -9,6 +9,9 @@ goldsponsors:
     - name: 株式会社 タップ
       url: https://www.tap-ic.co.jp/
       logo: /img/2017/logo_tap_200.png
+    - name: 株式会社コードタクト
+      url: http://codetakt.com/
+      logo: /img/2017/logo_codetakt.png
 mediasponsors:
     - name: さくらのナレッジ
       url: http://knowledge.sakura.ad.jp/
