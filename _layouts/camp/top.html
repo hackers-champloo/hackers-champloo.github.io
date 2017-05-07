@@ -79,6 +79,25 @@
         </div>
         {% endif %}
 
+        {% if page.studentsponsors %}
+        <div id="sponsors" class="panel large-4 columns text-center">
+            <h4>学生支援スポンサー</h4>
+            <ul class="side-nav">
+            {% for sponsor in page.studentsponsors %}
+                <li>
+                  {% if sponsor.logo %}
+                    <a href="{{ sponsor.url }}" target="_blank">
+                      <img src="{{ sponsor.logo }}" title="{{ sponsor.name }}">
+                    </a>
+                  {% else %}
+                    {{ sponsor.name }}
+                  {% endif %}
+                </li>
+            {% endfor %}
+            </ul>
+        </div>
+        {% endif %}
+
         {% if page.mediasponsors %}
         <div id="sponsors" class="panel large-4 columns text-center">
             <h4>メディアスポンサー</h4>

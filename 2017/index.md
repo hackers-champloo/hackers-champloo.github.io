@@ -15,6 +15,10 @@ goldsponsors:
     - name: JOB ANTENNA(ジョブアンテナ)
       url: https://www.jobantenna.jp/
       logo: /img/2017/JAlogo.jpg
+studentsponsors:
+  - name: Okinawa.rb
+    url: http://ruby.okinawa/
+    logo: http://ruby.okinawa/img/okinawarb-logo-rect.png
 mediasponsors:
     - name: さくらのナレッジ
       url: http://knowledge.sakura.ad.jp/
