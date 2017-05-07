@@ -146,7 +146,7 @@ Ruby on Railsをメインに新規事業、スタートアップへの開発の�
 サイトには、約6,000件の求人情報と5,000社以上の企業情報を常時掲載。自分に合った求人を必ず見つけることができます。
 
 -----
-![](/img/2017/okinawarb.png) Okinawa.rb
+![](/img/2017/okinawarb.png) Okinawa.rb [http://ruby.okinawa/](http://ruby.okinawa/)
 
 **[学生支援スポンサー]**
 
