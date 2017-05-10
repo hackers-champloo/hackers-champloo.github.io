@@ -7,8 +7,8 @@ description: 今年はコンドミニアム1棟貸し切ります！
 
 <p><img src="/img/2017/marina-bay-mihama.jpg" width="400" align="right" /></p>
 
-<p id="entry-limit-camp">開発合宿の申し込み締め切りは 5月10日（水）です。<br>
-お早めにお申し込みください！</p>
+<p id="entry-limit-camp">開発合宿の申し込みは締め切りました。<br>
+宿泊無しで参加ご希望の方は、<a href="https://docs.google.com/forms/d/1MGJ4bVv8hpyXeLjvcGzZDpl838ZGHPA_plLqX_BJSbA/viewform">お問い合わせ</a>ください！</p>
 
 ## 開発合宿は北谷（ちゃたん！）
 
@@ -48,7 +48,6 @@ description: 今年はコンドミニアム1棟貸し切ります！
 
 **※24日(土)のカンファレンス後の懇親会に参加し、宿泊する予定の方は那覇市内に宿泊場所を各自確保して頂く必要があります。**
 
-<p><a href="https://goo.gl/forms/9xkrLfvh7KjDSlt92" class="medium alert button" target="_blank">開発合宿お申し込みはこちら！</a></p>
 
 ### 会場
 
@@ -104,6 +103,8 @@ description: 今年はコンドミニアム1棟貸し切ります！
 * 申込およびキャンセル締め切りは開催日の1.5ヶ月前になります。（実行委員会より最終確認の連絡をさせて頂きます。）
 * カンファレンスの開催場所は開発合宿場所とは異なります。移動手段については運営の方で検討・調整の上別途ご案内致します。
 
-* その他ご質問等ございましたら、Slackの#Campチャネルか[問合せフォーム](https://docs.google.com/forms/d/1MGJ4bVv8hpyXeLjvcGzZDpl838ZGHPA_plLqX_BJSbA/viewform)よりお問い合わせください。
+* その他ご質問等ございましたら、Slackの#2017-campチャネルか[問合せフォーム](https://docs.google.com/forms/d/1MGJ4bVv8hpyXeLjvcGzZDpl838ZGHPA_plLqX_BJSbA/viewform)よりお問い合わせください。
 
+<!--
 <p><a href="https://goo.gl/forms/9xkrLfvh7KjDSlt92" class="medium alert button" target="_blank">開発合宿お申し込みはこちら！</a></p>
+-->
