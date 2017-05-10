@@ -40,9 +40,10 @@
         <div class="large-8 columns">
             {{ content }}
         </div>
+        <div class="panel large-4 columns text-center">
 
         {% if page.goldsponsors %}
-        <div id="sponsors" class="panel large-4 columns text-center">
+        <div id="sponsors">
             <h4>ゴールドスポンサー</h4>
             <ul class="side-nav">
             {% for sponsor in page.goldsponsors %}
@@ -61,7 +62,7 @@
         {% endif %}
 
         {% if page.sponsors %}
-        <div id="sponsors" class="panel large-4 columns text-center">
+        <div id="sponsors">
             <h4>スポンサー</h4>
             <ul class="side-nav">
             {% for sponsor in page.sponsors %}
@@ -80,7 +81,7 @@
         {% endif %}
 
         {% if page.studentsponsors %}
-        <div id="sponsors" class="panel large-4 columns text-center">
+        <div id="sponsors">
             <h4>学生支援スポンサー</h4>
             <ul class="side-nav">
             {% for sponsor in page.studentsponsors %}
@@ -99,7 +100,7 @@
         {% endif %}
 
         {% if page.mediasponsors %}
-        <div id="sponsors" class="panel large-4 columns text-center">
+        <div id="sponsors">
             <h4>メディアスポンサー</h4>
             <ul class="side-nav">
             {% for sponsor in page.mediasponsors %}
@@ -118,7 +119,7 @@
         {% endif %}
 
         {% if page.supporters %}
-        <div id="supporters" class="panel large-4 columns text-center">
+        <div id="sponsors">
             <h4>後援</h4>
             <ul class="side-nav">
             {% for supporter in page.supporters %}
@@ -129,6 +130,7 @@
             </ul>
         </div>
         {% endif %}
+        </div>
     </div>
 
     <div class="container row hide-for-small">
