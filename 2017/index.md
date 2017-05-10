@@ -15,6 +15,9 @@ goldsponsors:
     - name: JOB ANTENNA(ジョブアンテナ)
       url: https://www.jobantenna.jp/
       logo: /img/2017/JAlogo.jpg
+    - name: esa LLC
+      url: https://esa.io/
+      logo: /img/2017/esa-logo.png
 sponsors:
   - name: 株式会社セクションナイン
     url: https://sec9.co.jp/
