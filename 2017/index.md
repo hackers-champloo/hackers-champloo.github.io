@@ -22,6 +22,9 @@ sponsors:
   - name: 株式会社セクションナイン
     url: https://sec9.co.jp/
     logo: /img/2017/sec9.png
+  - name: Sansan株式会社
+    url: https://jp.corp-sansan.com/
+    logo: /img/2017/logo_sansan.gif
 studentsponsors:
   - name: Okinawa.rb
     url: http://ruby.okinawa/
