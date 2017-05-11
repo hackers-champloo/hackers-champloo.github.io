@@ -28,7 +28,10 @@ sponsors:
 studentsponsors:
   - name: Okinawa.rb
     url: http://ruby.okinawa/
-    logo: http://ruby.okinawa/img/okinawarb-logo-rect.png
+    logo: /img/2017/okinawarb.png
+  - name: 専門学校ITカレッジ沖縄
+    url: http://www.it-college.ac.jp/
+    logo: /img/2017/170511IT_logo.png
 mediasponsors:
     - name: さくらのナレッジ
       url: http://knowledge.sakura.ad.jp/
