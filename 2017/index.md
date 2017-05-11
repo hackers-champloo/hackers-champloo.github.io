@@ -19,6 +19,9 @@ goldsponsors:
       url: https://esa.io/
       logo: /img/2017/esa-logo.png
 sponsors:
+  - name: 学校法人ＫＢＣ学園　国際電子ビジネス専門学校
+    url: http://www.kbc.ac.jp/
+    logo: /img/2017/kbc.jpg
   - name: 株式会社セクションナイン
     url: https://sec9.co.jp/
     logo: /img/2017/sec9.png
