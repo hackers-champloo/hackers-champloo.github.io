@@ -61,21 +61,6 @@ supporters:
 
 [開発合宿の詳細](camp.html)はこちら。
 
-
-
-### カンファレンスプログラム決定！
-
-公募頂きましたプロポーザルを実行委員会にて選考させて頂き、[こちらのプロポーザル](https://www.facebook.com/hackerschamploo/posts/1837751309818489)を採択させて頂きました。
-
-プログラムは現在調整中です。掲載までしばらくお待ち下さい！
-
-
-
-
-
-
------
-
 # イベント概要
 
 3泊4日の開発合宿の後、最終日に全体カンファレンスという構成になります。それぞれのイベント毎にお申込が必要となります。詳しくはそれぞれの詳細をご確認ください。
@@ -84,7 +69,18 @@ supporters:
 * 開発合宿会場　マリーナベイ美浜
 * カンファレンス日時　2017年6月24日（土）9時半開場
 * カンファレンス会場　学校法人 ＫＢＣ学園 専修学校 国際電子ビジネス専門学校
-* 公式サイト　http://hackers-champloo.org/
+* [カンファレンスプログラム](program.html)
+
+# イベント参加申込
+
+カンファレンスお申込みと、懇親会お申込みが別々ですのでご注意ください。
+
+<a data-width="500" class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/60985">ハッカーズチャンプルー2017 カンファレンスの部</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+
+<a data-width="500" class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/60986">ハッカーズチャンプルー2017 カンファレンス懇親会</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+
+
+-----
 
 # [運営ボランティアスタッフを募集中](/2017/staff.html)
 
