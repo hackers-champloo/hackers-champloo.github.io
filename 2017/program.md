@@ -200,7 +200,7 @@ description: 2017年6月24日(土) ・ＫＢＣ学園 専修学校 国際電子�
 
 カンファレンス会場から歩いて10分かかりません！
 
-- 参加費 : 飲み放題3500円（学生が出ますので千円です）
+- 参加費 : 飲み放題3500円（学生は補助が出ますので千円です）
 
 
 <p><a href="https://hackers-champloo.doorkeeper.jp/events/60986" class="medium button" target="_blank">懇親会申し込み！</a></p>
