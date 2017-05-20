@@ -15,14 +15,26 @@ goldsponsors:
     - name: JOB ANTENNA(ジョブアンテナ)
       url: https://www.jobantenna.jp/
       logo: /img/2017/JAlogo.jpg
+    - name: esa LLC
+      url: https://esa.io/
+      logo: /img/2017/esa-logo.png
 sponsors:
+  - name: 学校法人ＫＢＣ学園　国際電子ビジネス専門学校
+    url: http://www.kbc.ac.jp/
+    logo: /img/2017/kbc.jpg
   - name: 株式会社セクションナイン
     url: https://sec9.co.jp/
     logo: /img/2017/sec9.png
+  - name: Sansan株式会社
+    url: https://jp.corp-sansan.com/
+    logo: /img/2017/logo_sansan.gif
 studentsponsors:
   - name: Okinawa.rb
     url: http://ruby.okinawa/
-    logo: http://ruby.okinawa/img/okinawarb-logo-rect.png
+    logo: /img/2017/okinawarb.png
+  - name: 専門学校ITカレッジ沖縄
+    url: http://www.it-college.ac.jp/
+    logo: /img/2017/170511IT_logo.png
 mediasponsors:
     - name: さくらのナレッジ
       url: http://knowledge.sakura.ad.jp/
@@ -51,15 +63,12 @@ supporters:
 
 
 
-### カンファレンスは登壇者公募します！
+### カンファレンスプログラム決定！
 
-今年のハッカーズチャンプルーはGitHub上にて登壇者を公募いたします。 **採択された場合、希望者には渡航費を補助いたします！**
+公募頂きましたプロポーザルを実行委員会にて選考させて頂き、[こちらのプロポーザル](https://www.facebook.com/hackerschamploo/posts/1837751309818489)を採択させて頂きました。
 
-通常のセッションとLT（ライトニングトーク）の2種類があり、LTは主に開発合宿参加者のかたのトークがメインになりますが、LTでの応募も可能です。
+プログラムは現在調整中です。掲載までしばらくお待ち下さい！
 
-今年も熱いセッションのご応募、お待ちしております！
-
-<p><a href="https://github.com/hackers-champloo/cfp2017/" class="alert button" target="_blank">カンファレンス登壇のお申込ページはこちら！</a></p>
 
 
 
