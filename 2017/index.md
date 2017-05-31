@@ -28,6 +28,9 @@ sponsors:
   - name: Sansan株式会社
     url: https://jp.corp-sansan.com/
     logo: /img/2017/logo_sansan.gif
+  - name: 株式会社ネオラボ
+    url: https://neo-lab.co.jp/
+    logo: /img/2017/neolab.png
 studentsponsors:
   - name: Okinawa.rb
     url: http://ruby.okinawa/
