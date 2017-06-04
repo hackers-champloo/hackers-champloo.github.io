@@ -1,30 +1,34 @@
 ---
 home: 2017
 layout: camp/layout
-title: 実行委員会 ボランティアスタッフ 募集中
+title: 実行委員会 ボランティアスタッフ
 ---
 
-# ボランティアスタッフを募集しています
+### ハッカーズチャンプルーはボランティアに支えられ運営されています
 
-ハッカーズチャンプルーは、実行委員会の有志が手作りで作り上げるエンジニアのためのイベントです。是非一緒にイベントを盛り上げてください！
+ハッカーズチャンプルー2017実行委員会および当日ボランティアスタッフの方々
 
-## 応募内容
+* Akiyoshi Tomita
+* hanachin
+* Hayato Yamauchi
+* kimihito
+* Kazuki Murahama
+* Kei Kamikawa
+* Kinjo,Atsushi
+* Kodai
+* Masaaki Saito
+* Rikko
+* Shuichi Tamayose
+* Shusaku FUKUMINE
+* Tomohiro TAIRA
+* Toru Miyahara
+* YONESU WATARU
+* Yonashiro Yuu
+* Yoshiaki Oshiro
+* Yotaro Fujii
 
-実行委員会には、以下のような仕事があります。イベントの数ヶ月前からイベント終了後まで様々な仕事があり、これを各自個人の空き時間で処理して行きます。
+ボランティアの皆様のご協力なしに、このイベントの運営は成り立ちません。
 
-* イベント企画 / イベント全体の中の様々な企画を立案、実施していきます
-* メディア対応 / Webサイト運営から写真撮影・ソーシャルメディアなどの対外的情報発信をサポート
-* 開発合宿支援 / 合宿会場や参加者の取りまとめやサポート
-* カンファレンス支援 / カンファレンス会場の設営から受付・会場整理まで当日の運営をサポート
-* 懇親会支援 / 会場整理や当日の運営をサポート
+本当にありがとうございます。そしてスタッフ一同楽しんでください！
 
-この他に、当日のみお手伝いをいただくボランティアスタッフもあります。
-
-
-## ミーティングについて
-
-ミーティングやタスク管理はほぼすべてオンラインで行われます。SlackやGoogle docsなどの取扱に慣れている必要があります。
-
-## お申込み
-
-[当日ボランティアのお申込みはこちら](https://docs.google.com/forms/d/e/1FAIpQLScZhHFQRSmL7sJ00rnR6FCXVarmSge2fAW2ls1bf7GnPJrQ9Q/viewform?usp=sf_link)
+2017年6月4日 実行委員長 西島 幸一郎
