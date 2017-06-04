@@ -15,7 +15,7 @@ title: 実行委員会 ボランティアスタッフ
 * Kazuki Murahama
 * Kei Kamikawa
 * Kinjo,Atsushi
-* Kodai
+* Kodai Kinjo
 * Masaaki Saito
 * Rikko
 * Shuichi Tamayose
