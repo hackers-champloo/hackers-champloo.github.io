@@ -76,6 +76,11 @@ description: 2017年6月24日(土) ・ＫＢＣ学園 専修学校 国際電子�
         <th>10:50 - 11:10 (20分)</th>
         <td>
             <p class="track-title">合宿成果発表・ライトニングトーク Part 1</p>6分×3本<br />
+            <ul>
+              <li><a href="https://github.com/hackers-champloo/cfp2017/issues/17">JavaScript一切無しで作るお絵かきアプリ</a> @tompng</li>
+              <li><a href="https://github.com/hackers-champloo/cfp2017/issues/16">沖縄にも、世界にも 〜 オープンソースが支える子ども向けITコミュニティ</a> @yasulab</li>
+              <li><a href="https://github.com/hackers-champloo/cfp2017/issues/7">5分で分かるRaspberry Piでハイレゾオーディオ再生</a> @tmiyahar</li>
+            </ul>
         </td>
       </tr>
       <tr>
@@ -121,6 +126,11 @@ description: 2017年6月24日(土) ・ＫＢＣ学園 専修学校 国際電子�
         <th>14:10 - 14:30 (20分)</th>
         <td>
             <p class="track-title">合宿成果発表・ライトニングトーク Part 2</p>6分×3本<br />
+            <ul>
+              <li><a href="https://github.com/hackers-champloo/cfp2017/issues/13">ハッカーズチャンプルーでのLTのやり方、そしてLTをすることによるその効果</a> @cloneko</li>
+              <li><a href="https://github.com/hackers-champloo/cfp2017/issues/15">GeekhouseOkinawaをRebuildします</a> @saboyutaka</li>
+              <li><a href="https://github.com/hackers-champloo/cfp2017/issues/8">Rekognitionを自社サービスに組み込んでみた</a> @miyaz</li>
+            </ul>
         </td>
       </tr>
       <tr>
@@ -150,6 +160,11 @@ description: 2017年6月24日(土) ・ＫＢＣ学園 専修学校 国際電子�
         <th>15:50 - 16:10 (20分)</th>
         <td>
             <p class="track-title">合宿成果発表・ライトニングトーク Part 3</p>6分×3本<br />
+            <ul>
+              <li><a href="https://github.com/hackers-champloo/cfp2017/issues/1">名刺アプリEightのサーバーレスアーキテクチャーへの挑戦</a> @yotaro-fujii</li>
+              <li><a href="https://github.com/hackers-champloo/cfp2017/issues/9">ついにやります!! YAPC::Okinawa!!</a> @AnaTofuZ</li>
+              <li><a href="https://github.com/hackers-champloo/cfp2017/issues/21">文系大学生たちが初めてのハッカーズチャンプルーでISUCONをしたらこうなった</a> @masayoshi-tokumoto</li>
+            </ul>
         </td>
       </tr>
       <tr>
@@ -178,6 +193,11 @@ description: 2017年6月24日(土) ・ＫＢＣ学園 専修学校 国際電子�
         <th>16:50 - 17:10 (20分)</th>
         <td>
             <p class="track-title">合宿成果発表・ライトニングトーク Part 4</p>6分×3本<br />
+            <ul>
+              <li><a href="https://github.com/hackers-champloo/cfp2017/issues/22">愛着を持てるガジェットを目指して・・・(日常に疲れた現代人へ贈る、Murmuring deodorant)</a> @	chocolaolantan</li>
+              <li>調整中</li>
+              <li>調整中</li>
+            </ul>
         </td>
       </tr>
       <tr>
