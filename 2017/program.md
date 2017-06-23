@@ -194,9 +194,9 @@ description: 2017年6月24日(土) ・ＫＢＣ学園 専修学校 国際電子�
         <td>
             <p class="track-title">合宿成果発表・ライトニングトーク Part 4</p>6分×3本<br />
             <ul>
-              <li><a href="https://github.com/hackers-champloo/cfp2017/issues/22">愛着を持てるガジェットを目指して・・・(日常に疲れた現代人へ贈る、Murmuring deodorant)</a> @	chocolaolantan</li>
-              <li>調整中</li>
-              <li>調整中</li>
+              <li><a href="https://github.com/hackers-champloo/cfp2017/issues/22">愛着を持てるガジェットを目指して・・・(日常に疲れた現代人へ贈る、Murmuring deodorant)</a> @chocolaolantan</li>
+              <li><a href="https://github.com/hackers-champloo/cfp2017/issues/23">大阪からきて開発してみた(仮)</a> @hyamauchi</li>
+              <li><a href="https://github.com/hackers-champloo/cfp2017/issues/24">もう一度死んだ話</a> @kimihito</li>
             </ul>
         </td>
       </tr>
