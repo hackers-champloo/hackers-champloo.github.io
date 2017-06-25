@@ -21,7 +21,6 @@ description: 2017年6月24日(土) ・ＫＢＣ学園 専修学校 国際電子�
 
 - **参加者の皆様は会場の駐車場は利用できませんので、モノレールなど各種公共交通機関でお越しください。**
 
-<p><a href="https://hackers-champloo.doorkeeper.jp/events/60985" class="medium button" target="_blank">カンファレンス申し込み！</a></p>
 
 <i class="fa fa-comments"></i> 昨年の様子
 --------------------------------------------------------------------------------
@@ -222,5 +221,3 @@ description: 2017年6月24日(土) ・ＫＢＣ学園 専修学校 国際電子�
 
 - 参加費 : 飲み放題3500円（学生は補助が出ますので千円です）
 
-
-<p><a href="https://hackers-champloo.doorkeeper.jp/events/60986" class="medium button" target="_blank">懇親会申し込み！</a></p>

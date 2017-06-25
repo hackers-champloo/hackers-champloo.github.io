@@ -49,38 +49,19 @@ supporters:
 ![ハッカーズチャンプルー](/img/logo/banner.png)
 
 
-### ハッカーズチャンプルーはエンジニアのためのお祭りです
+### ハッカーズチャンプルー2017は全日程を終了しました！
 
-2017も『開発合宿』＋『カンファレンス』で盛り上がりましょう！
+ご参加いただいた皆様、来沖してくださったゲストの皆様、ボランティアスタッフとして動いてくれた皆様、ありがとうございました。
 
+また来年出会えることを願ってます！
 
-## 開発合宿は北谷（ちゃたん）！
+### 各種SNS情報
 
-今年の開発合宿は、沖縄の中でも特にアメリカンな雰囲気が色濃い北谷（ちゃたん）にある、ラグジュアリーなコンドミニアムを一棟貸し切りました！
+* [ハッシュタグまとめ](https://togetter.com/li/1123496)
+* [Twitterハッシュタグ #hcmpl](https://twitter.com/search?f=tweets&vertical=default&q=%23hcmpl&src=typd)
+* [Facebookページ](https://www.facebook.com/hackerschamploo) （「いいね！」してもらえると次回開催情報がお届けされますので是非！）
+* 公式カメラマンチームによる写真を共有している[Facebookグループ](https://www.facebook.com/groups/hackerschamploo/) （Facebookアカウントをお持ちの方は、どなたでもご参加頂くことが出来ます。）
 
-**先着15名様限定 + 学生支援5名まで宿泊無料です！**
-
-普段の業務を離れ、また逆に集中して仕事をすることも可能です。ぜひご参加ください！
-
-[開発合宿の詳細](camp.html)はこちら。
-
-# イベント概要
-
-3泊4日の開発合宿の後、最終日に全体カンファレンスという構成になります。それぞれのイベント毎にお申込が必要となります。詳しくはそれぞれの詳細をご確認ください。
-
-* 開発合宿期間 2017年6月21日（水）チェックイン〜24日（土）チェックアウトの3泊4日
-* 開発合宿会場　マリーナベイ美浜
-* カンファレンス日時　2017年6月24日（土）9時半開場
-* カンファレンス会場　学校法人 ＫＢＣ学園 専修学校 国際電子ビジネス専門学校
-* [カンファレンスプログラム](program.html)
-
-# イベント参加申込
-
-カンファレンスお申込みと、懇親会お申込みが別々ですのでご注意ください。
-
-<a data-width="500" class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/60985">ハッカーズチャンプルー2017 カンファレンスの部</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
-
-<a data-width="500" class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/60986">ハッカーズチャンプルー2017 カンファレンス懇親会</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 
 
 -----
