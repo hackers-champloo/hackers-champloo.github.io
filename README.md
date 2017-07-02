@@ -5,7 +5,7 @@ hackers-champloo.org
 Requirements
 --------------------------------------------------------------------------------
 
-- Ruby 1.9.3 or lator
+- Ruby 1.9.3 or later
 - Bundler
 - Jekyll
 
