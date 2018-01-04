@@ -16,7 +16,7 @@ description: ハッカーズチャンプルー実行委員会は、沖縄県内�
 ---------- | ------------------------------------------------------------------
 実行委員長 | 西島 幸一郎 [@k_nishijima](https://twitter.com/k_nishijima)
 副委員長   | 冨田 明良 [@sleepycat_zzz](https://twitter.com/sleepycat_zzz)
-副委員長   | 金城 廣太 [@_aokabin](https://twitter.com/_aokabin)
+副委員長   | 金城 廣太 [@d_ishitaka](https://twitter.com/d_ishitaka)
 
 
 ### 協力ユーザグループ
