@@ -4,6 +4,8 @@ goldsponsors:
     - name: アールスリーインスティテュート
       url: https://www.r3it.com/
       logo: /img/2018/r3logo_w200.png
+    - name: 株式会社ミノタケ
+      logo: /img/2018/minotake_web300px.gif
 sponsors:
 studentsponsors:
 mediasponsors:
