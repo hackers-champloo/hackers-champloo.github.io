@@ -1,13 +1,13 @@
 ---
 layout: camp/top
 goldsponsors:
+    - name: アールスリーインスティテュート
+      url: https://www.r3it.com/
+      logo: /img/2018/r3logo_w200.png
 sponsors:
 studentsponsors:
 mediasponsors:
 supporters:
-    - name: サポーター募集中！
-      url: http://hackers-champloo.org/2017/
-      logo: /img/hclogo_box140.png
 ---
 
 
