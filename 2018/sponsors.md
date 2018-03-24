@@ -77,3 +77,13 @@ title: スポンサー募集
 Ruby on Railsをメインに新規事業、スタートアップへの開発の手伝いをしています。
 
 -----
+
+![](/img/2018/yasslab.png) YassLab 株式会社 [https://yasslab.jp/](https://yasslab.jp/)
+
+**[ゴールドスポンサー]**
+
+沖縄と東京を拠点にしてRuby/Railsの開発支援、技術書籍制作、継続的翻訳/組版システムの開発事業を行なっています。
+
+RailsチュートリアルやRailsガイド、また、CoderDojo Japan の公式サイト (Rails) を開発・運営しています。
+
+-----
