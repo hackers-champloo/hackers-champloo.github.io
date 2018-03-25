@@ -78,7 +78,7 @@ Ruby on Railsをメインに新規事業、スタートアップへの開発の�
 
 -----
 
-![](/img/2018/yasslab.png) YassLab 株式会社 [https://yasslab.jp/](https://yasslab.jp/)
+![](/img/2018/yasslab_rect_copy.png) YassLab 株式会社 [https://yasslab.jp/](https://yasslab.jp/)
 
 **[ゴールドスポンサー]**
 
