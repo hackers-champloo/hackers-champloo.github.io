@@ -10,6 +10,9 @@ goldsponsors:
     - name: 株式会社 SEEC
       url: https://se-ec.co.jp/
       logo: /img/2018/seec-logo.jpg
+    - name: esa LLC
+      url: https://esa.io/
+      logo: /img/2018/esa-logo.png
 sponsors:
     - name: 株式会社ミノタケ
       logo: /img/2018/minotake_web300px.gif
