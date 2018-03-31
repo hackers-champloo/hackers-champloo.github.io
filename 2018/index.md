@@ -7,6 +7,9 @@ goldsponsors:
     - name: YassLab 株式会社
       url: https://yasslab.jp/
       logo: /img/2018/yasslab_square.png
+    - name: 株式会社 SEEC
+      url: https://se-ec.co.jp/
+      logo: /img/2018/seec-logo.jpg
 sponsors:
     - name: 株式会社ミノタケ
       logo: /img/2018/minotake_web300px.gif

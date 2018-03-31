@@ -87,3 +87,11 @@ Ruby on Railsをメインに新規事業、スタートアップへの開発の�
 RailsチュートリアルやRailsガイド、また、CoderDojo Japan の公式サイト (Rails) を開発・運営しています。
 
 -----
+
+![](/img/2018/seec-logo.jpg) 株式会社 SEEC [https://se-ec.co.jp/](https://se-ec.co.jp/)
+
+**[ゴールドスポンサー]**
+
+SEECでは社名に込めた思い（Surprise、Enjoy、Evolve、Company）と同様に常に会社と社員が事業に対して驚きを感じ、また新しい事業で周囲を驚かせることを喜び・楽しみに感じながら進化していくことが新しい「何か」を生み出す力になると信じています。
+
+-----
