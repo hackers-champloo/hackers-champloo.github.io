@@ -13,6 +13,9 @@ goldsponsors:
     - name: esa LLC
       url: https://esa.io/
       logo: /img/2018/esa-logo.png
+    - name: 琉球インタラクティブ株式会社
+      url: http://www.ryukyu-i.co.jp/
+      logo: /img/2018/ri-logo.jpg
 sponsors:
     - name: 株式会社ミノタケ
       logo: /img/2018/minotake_web300px.gif
