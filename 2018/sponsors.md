@@ -110,7 +110,7 @@ esa.io は楽しく情報を育てることのできるドキュメント共有�
 
 -----
 
-![](/img/2018/ri-logo.jpg) 琉球インタラクティブ株式会社 [http://www.ryukyu-i.co.jp/)
+![](/img/2018/ri-logo.jpg) 琉球インタラクティブ株式会社 [http://www.ryukyu-i.co.jp/](http://www.ryukyu-i.co.jp/)
 
 **[ゴールドスポンサー]**
 
