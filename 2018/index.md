@@ -7,6 +7,12 @@ goldsponsors:
     - name: YassLab 株式会社
       url: https://yasslab.jp/
       logo: /img/2018/yasslab_square.png
+    - name: 株式会社 SEEC
+      url: https://se-ec.co.jp/
+      logo: /img/2018/seec-logo.jpg
+    - name: esa LLC
+      url: https://esa.io/
+      logo: /img/2018/esa-logo.png
     - name: 琉球インタラクティブ株式会社
       url: http://www.ryukyu-i.co.jp/
       logo: /img/2018/ri-logo.jpg
