@@ -19,6 +19,9 @@ goldsponsors:
     - name: 株式会社ドリーム・アーツ
       url: https://www.dreamarts.co.jp/
       logo: /img/2018/dreamarts-logo.jpg
+    - name: 株式会社メルカリ
+      url: https://about.mercari.com/
+      logo: /img/2018/mercari-logo.png
 sponsors:
     - name: 株式会社ミノタケ
       logo: /img/2018/minotake_web300px.gif
