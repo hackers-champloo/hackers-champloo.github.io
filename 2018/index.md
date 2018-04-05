@@ -16,6 +16,9 @@ goldsponsors:
     - name: 琉球インタラクティブ株式会社
       url: http://www.ryukyu-i.co.jp/
       logo: /img/2018/ri-logo.jpg
+    - name: 株式会社ドリーム・アーツ
+      url: https://www.dreamarts.co.jp/
+      logo: /img/2018/dreamarts-logo.jpg
 sponsors:
     - name: 株式会社ミノタケ
       logo: /img/2018/minotake_web300px.gif
