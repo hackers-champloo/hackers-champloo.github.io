@@ -25,6 +25,8 @@ goldsponsors:
 sponsors:
     - name: 株式会社ミノタケ
       logo: /img/2018/minotake_web300px.gif
+    - name: 株式会社エイチーム
+      logo: /img/2018/ateam-logo.png
 studentsponsors:
 mediasponsors:
 supporters:
