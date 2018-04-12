@@ -29,6 +29,9 @@ sponsors:
       logo: /img/2018/ateam-logo.png
 studentsponsors:
 mediasponsors:
+    - name: さくらのナレッジ
+      url: http://knowledge.sakura.ad.jp/
+      logo: /img/2018/sakura.png
 supporters:
 ---
 
