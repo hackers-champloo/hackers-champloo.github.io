@@ -27,6 +27,8 @@ sponsors:
       logo: /img/2018/minotake_web300px.gif
     - name: 株式会社エイチーム
       logo: /img/2018/ateam-logo.png
+    - name: 株式会社シーエー・アドバンス
+      logo: /img/2018/CAAD_LOGO_fix.png
 studentsponsors:
 mediasponsors:
     - name: さくらのナレッジ
