@@ -138,19 +138,6 @@ esa.io は楽しく情報を育てることのできるドキュメント共有�
 
 -----
 
-![](/img/2018/churadata-logo.png) ちゅらデータ株式会社 [https://about.mercari.com/](https://churadata.okinawa/)
-
-**[ゴールドスポンサー]**
-
-ちゅらデータ株式会社は、データ分析と機械学習で沖縄を圧倒的に盛り上げていく新進気鋭ベンチャーです！
-
-ちゅらデータでは誰でも参加可能な機械学習コミュニティ「ちゅら.ai」を運営しており、定期的にイベントを開催したり、毎週金曜日に宜野湾市にあるちゅらデータオフィスで呑んでいたりします。
-
-興味のある方はぜひ以下のリンクから ちゅら.ai Slack にご参加ください！
-https://churadata.connpass.com/ 
-
------
-
 ![](/img/2018/ateam-logo.png) 株式会社エイチーム [http://www.a-tm.co.jp/](http://www.a-tm.co.jp/)
 
 　エイチームは、名古屋に本社をおく、総合ＩＴベンチャー企業。インターネットを使った様々なサービスを展開しています。
@@ -181,6 +168,19 @@ https://churadata.connpass.com/
 
 サイバーエージェントグループでの開発やセキュリティの業務に興味を持たれた方はお気軽に弊社エンジニアにお声がけください。または下記URLよりご連絡ください。  
 [https://www.ca-adv.co.jp/contact-form/](https://www.ca-adv.co.jp/contact-form/)
+
+-----
+
+![](/img/2018/churadata-logo.png) ちゅらデータ株式会社 [https://churadata.okinawa/](https://churadata.okinawa/)
+
+**[ゴールドスポンサー]**
+
+ちゅらデータ株式会社は、データ分析と機械学習で沖縄を圧倒的に盛り上げていく新進気鋭ベンチャーです！
+
+ちゅらデータでは誰でも参加可能な機械学習コミュニティ「ちゅら.ai」を運営しており、定期的にイベントを開催したり、毎週金曜日に宜野湾市にあるちゅらデータオフィスで呑んでいたりします。
+
+興味のある方はぜひ以下のリンクから ちゅら.ai Slack にご参加ください！  
+[https://churadata.connpass.com/](https://churadata.connpass.com/)
 
 -----
 
