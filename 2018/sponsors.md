@@ -1,6 +1,6 @@
 ---
 home: 2018
-layout: camp/layout
+layout: nocamp/layout
 title: スポンサー募集
 ---
 
