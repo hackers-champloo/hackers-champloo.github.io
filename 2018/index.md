@@ -54,12 +54,13 @@ supporters:
 
 今年は前夜祭＋カンファレンスというフォーマットになります。前夜祭の詳細については決まり次第ご連絡します。
 
-## カンファレンス
+## カンファレンス [プログラム詳細](./program.html)
 
 * 日時　2018年6月30日（土曜日） 9時半開場 10時開演
 * カンファレンス会場　沖縄コンベンションセンター 会議場A1
 * 公式サイト　[http://hackers-champloo.org/2018/](http://hackers-champloo.org/2018/)
 
+<a class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/74338">ハッカーズチャンプルー2018 カンファレンスの部</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 
 <i class="fa fa-comments"></i> 昨年の様子
 
@@ -71,6 +72,19 @@ supporters:
   * [沖縄のITエンジニアの熱量をお届け！ハッカーズチャンプルー2017レポート 〜開発合宿編〜
   ](https://knowledge.sakura.ad.jp/9770/)
   * [沖縄のITエンジニアの熱量をお届け！ハッカーズチャンプルー2017レポート 〜カンファレンス編〜](https://knowledge.sakura.ad.jp/9821/)
+
+<i class="fa fa-beer"></i> 懇親会
+--------------------------------------------------------------------------------
+
+- 日時 : 2018年6月30日（土曜日） 17:30開場 / 18:00開始〜
+
+- 会場 : [宜野湾マリーナレストラン&バル フィッシュテイル](https://tabelog.com/okinawa/A4703/A470404/47012968/)
+
+カンファレンス会場から歩いて10分かかりません！
+
+- 参加費 : 3000円程度で調整中（学生補助が出ます）
+
+<a class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/74339">ハッカーズチャンプルー2018 懇親会</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 
 --------------------------------------------------------------------------------
 
