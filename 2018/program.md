@@ -63,7 +63,7 @@ description: 2018年6月30日（土曜日） 9時半開場 沖縄コンベンシ
       <tr>
         <th>10:50 - 11:10 (20分)</th>
         <td>
-            <p class="track-title">合宿成果発表・ライトニングトーク Part 1</p>6分×3本<br />
+            <p class="track-title">ライトニングトーク Part 1</p>6分×3本<br />
         </td>
       </tr>
       <tr>
