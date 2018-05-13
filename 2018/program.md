@@ -155,16 +155,15 @@ description: 2018年6月30日（土曜日） 9時半開場 沖縄コンベンシ
         </td>
       </tr>
       <tr>
-        <th>16:50 - 17:10 (20分)</th>
+        <th>16:50 - 17:00 (10分)</th>
         <td>
-            <p class="track-title">ライトニングトーク Part 4</p>6分×3本<br />
+          <p class="track-title">クロージング</p>実行委員会<br />
         </td>
       </tr>
       <tr>
-        <th>17:10 -</th>
+        <th>17:30</th>
         <td>
-          <p class="track-title">クロージング</p>
-          <p class="track-speaker">実行委員会</p>
+          <p class="track-title">完全撤収完了</p>
         </td>
       </tr>
     </tbody>
