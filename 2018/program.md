@@ -90,7 +90,7 @@ description: 2018年6月30日（土曜日） 9時半開場 沖縄コンベンシ
       <tr>
         <th>13:30 - 14:10 (40分)</th>
         <td>
-          <p class="track-title">(TBD)</p>
+          <p class="track-title">Goとコンテナで作るWebアプリケーションベンチマーカー</p>
           <p class="track-speaker">
             <p><a href="https://sfujiwara.hatenablog.com/" target="_blank">藤原 俊一郎</a> / 面白法人カヤック</p>
             <a href="https://sfujiwara.hatenablog.com/" target="_blank">
@@ -98,7 +98,8 @@ description: 2018年6月30日（土曜日） 9時半開場 沖縄コンベンシ
             </a>
           </p>
           <p class="track-description">
-          (TBD)
+          Go 言語と AWS のコンテナ実行環境 Amazon ECS を使って、Webアプリケーションやゲームサーバに対してHTTP/WebSocketで負荷をかけるベンチマークツールの開発手法についてお話しします。
+          ISUCON のベンチマーカーの気持ちが分かるかも知れません。
           </p>
         </td>
       </tr>
