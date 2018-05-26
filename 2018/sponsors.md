@@ -150,7 +150,7 @@ esa.io は楽しく情報を育てることのできるドキュメント共有�
 
 -----
 
-![](/img/2018/codebase-logo.jpg) CODE BASE powered by proto solution [http://www.protosolution.co.jp/codebase/](http://www.protosolution.co.jp/codebase/)
+![](/img/2018/codebase-logo.png) CODE BASE powered by proto solution [http://www.protosolution.co.jp/codebase/](http://www.protosolution.co.jp/codebase/)
 
 **[ゴールドスポンサー]**
 
