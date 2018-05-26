@@ -150,3 +150,17 @@ esa.io は楽しく情報を育てることのできるドキュメント共有�
 
 -----
 
+![](/img/2018/codebase-logo.jpg) CODE BASE powered by proto solution [http://www.protosolution.co.jp/codebase/](http://www.protosolution.co.jp/codebase/)
+
+**[ゴールドスポンサー]**
+
+「宜野湾西海岸を、ITビーチへ。」
+
+CODE BASEは上記をコンセプトとして、株式会社プロトソリューションが運営するラボスペースです。
+これからITスキルを身につけたい方や、すでにエンジニアやクリエイターとして活動されている方が集う場所を目指し、様々な勉強会やイベントを開催しています。
+
+最新のイベント情報は以下のリンクからご確認ください。
+[https://codebase.connpass.com/](https://codebase.connpass.com/)
+
+-----
+
