@@ -25,6 +25,9 @@ goldsponsors:
     - name: ちゅらデータ株式会社
       url: https://churadata.okinawa/
       logo: /img/2018/churadata-logo.png
+    - name: CYDAS
+      url: http://www.cydas.com/
+      logo: /img/2018/cydas-logo.png
 sponsors:
     - name: 株式会社ミノタケ
       logo: /img/2018/minotake_web300px.gif
