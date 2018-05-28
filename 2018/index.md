@@ -30,7 +30,7 @@ goldsponsors:
       logo: /img/2018/cydas-logo.png
     - name: CODE BASE powered by proto solution
       url: http://www.protosolution.co.jp/codebase/
-      logo: /img/2018/codebase-logo.png
+      logo: /img/2018/codebase-logo.jpg
 
 sponsors:
     - name: 株式会社ミノタケ
