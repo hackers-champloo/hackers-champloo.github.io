@@ -112,7 +112,7 @@ description: 2018年6月30日（土曜日） 9時半開場 沖縄コンベンシ
       <tr>
         <th>14:30 - 15:10 (40分)</th>
         <td>
-          <p class="track-title">(TBD)</p>
+          <p class="track-title">弱気なエンジニアの生存戦略</p>
           <p class="track-speaker">
             <p><a href="https://motemen.hatenablog.com/" target="_blank">大坪 弘尚</a> / 株式会社はてな</p>
             <a href="https://motemen.hatenablog.com/" target="_blank">
@@ -120,7 +120,7 @@ description: 2018年6月30日（土曜日） 9時半開場 沖縄コンベンシ
             </a>
           </p>
           <p class="track-description">
-          (TBD)
+          自宅でひとりプログラミングをしていた人間がインターネット、Perl、CPAN、GitHub などに触れ、どのように世界を拡げ、エンジニアとしての修行を積んでいったかをご紹介します。技術的に込み入った話にはなりません。
           </p>
         </td>
       </tr>
