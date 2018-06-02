@@ -47,12 +47,12 @@ description: 2018年6月30日（土曜日） 9時半開場 沖縄コンベンシ
       <tr>
         <th>10:10 - 10:50 (40分)</th>
         <td>
-          <p class="track-title">沖縄に来たし、沖縄からesaをデプロイするぞ！</p>
+          <p class="track-title">esaのデザインの話（仮）</p>
           <p class="track-speaker">
-            <a href="https://twitter.com/ppworks" target="_blank">越川 直人（@ppworks）
+            <a href="https://twitter.com/ken_c_lo" target="_blank">赤塚 妙子（@ken_c_lo）
 </a> / esa LLC<br/>
-            <a href="https://twitter.com/ppworks" target="_blank">
-              <img class="speaker-photo" src="/img/2018/speakers/ppworks.jpg" />
+            <a href="https://twitter.com/ken_c_lo" target="_blank">
+              <img class="speaker-photo" src="/img/2018/speakers/ken_c_lo.jpg" />
             </a>
             </p>
             <p class="track-description">
