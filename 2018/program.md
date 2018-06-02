@@ -64,6 +64,11 @@ description: 2018年6月30日（土曜日） 9時半開場 沖縄コンベンシ
         <th>10:50 - 11:10 (20分)</th>
         <td>
             <p class="track-title">ライトニングトーク Part 1</p>6分×3本<br />
+            <ul>
+              <li>未定 | 古波倉 正隆</li>
+              <li>ラクラク運用で開催したカンファレンスが好評だった話 | 安川 要平 (@yasulab) / YassLab 株式会社 代表取締役 / 一般社団法人 CoderDojo Japan 代表理事</li>
+              <li>最短の手数で開発現場のベロシティを高める方法 | 吉田 真吾</li>
+            </ul>
         </td>
       </tr>
       <tr>
@@ -107,6 +112,11 @@ description: 2018年6月30日（土曜日） 9時半開場 沖縄コンベンシ
         <th>14:10 - 14:30 (20分)</th>
         <td>
             <p class="track-title">ライトニングトーク Part 2</p>6分×3本<br />
+            <ul>
+              <li>学生フリーランスをする良さ悪さ | @d_ishitaka</li>
+              <li>Okinawa.pmと3年目のPerl入学式(仮) | AnaTofuZ</li>
+              <li>３分ハッキング | てっぷ</li>
+            </ul>
         </td>
       </tr>
       <tr>
@@ -137,6 +147,11 @@ description: 2018年6月30日（土曜日） 9時半開場 沖縄コンベンシ
         <th>15:50 - 16:10 (20分)</th>
         <td>
             <p class="track-title">ライトニングトーク Part 3</p>6分×3本<br />
+            <ul>
+              <li>hyperapp(ultradom)を改造してLibraryを作った話 | atomita</li>
+              <li>(TBD)</li>
+              <li>(TBD)</li>
+            </ul>
         </td>
       </tr>
       <tr>
