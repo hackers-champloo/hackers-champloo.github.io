@@ -157,7 +157,7 @@ description: 2018年6月30日（土曜日） 9時半開場 沖縄コンベンシ
       <tr>
         <th>16:10 - 16:50 (40分)</th>
         <td>
-          <p class="track-title">実装を知ると100倍かわいく見えるようになる VTuberの仕組みの話</p>
+          <p class="track-title">VTuberの仕組みの話</p>
           <p class="track-speaker">
             <a href="https://twitter.com/takashijona/" target="_blank">常名 隆司</a> / ユニティ・テクノロジーズ・ジャパン合同会社
             <br/>
