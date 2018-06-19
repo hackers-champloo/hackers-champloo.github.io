@@ -149,8 +149,8 @@ description: 2018年6月30日（土曜日） 9時半開場 沖縄コンベンシ
             <p class="track-title">ライトニングトーク Part 3</p>6分×3本<br />
             <ul>
               <li>hyperapp(ultradom)を改造してLibraryを作った話 | atomita</li>
-              <li>(TBD)</li>
-              <li>(TBD)</li>
+              <li>80年代ゲーム機の技術をFPGAに実装してみた | mgwsuzuki</li>
+              <li>(TBD) | saboyutaka</li>
             </ul>
         </td>
       </tr>
