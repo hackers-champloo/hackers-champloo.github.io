@@ -51,49 +51,18 @@ supporters:
 ![ハッカーズチャンプルー](/img/logo/banner.png)
 
 
-### ハッカーズチャンプルーはエンジニアのためのお祭りです
+### ハッカーズチャンプルー2018は全日程を終了しました！
 
-6回目になる今回の開催では初心に立ち返り、沖縄県内の各ITコミュニティが集まりそれぞれが掲げる理念や、沖縄から沖縄県内外に向けて広く最先端の技術動向を発信するための場所として機能することを目指します！
+ご参加いただいた皆様、来沖してくださったゲストの皆様、ボランティアスタッフとして動いてくれた皆様、ありがとうございました。
 
------
+また来年出会えることを願ってます！
 
-# イベント概要
+### 各種SNS情報
 
-今年は前夜祭＋カンファレンスというフォーマットになります。前夜祭の詳細については決まり次第ご連絡します。
+* [ハッシュタグまとめ](https://togetter.com/li/1242180)
+* [Twitterハッシュタグ #hcmpl](https://twitter.com/search?f=tweets&vertical=default&q=%23hcmpl&src=typd)
+* [Facebookページ](https://www.facebook.com/hackerschamploo) （「いいね！」してもらえると次回開催情報がお届けされますので是非！）
 
-## カンファレンス [プログラム詳細](./program.html)
-
-* 日時　2018年6月30日（土曜日） 9時半開場 10時開演
-* カンファレンス会場　沖縄コンベンションセンター 会議場A1
-* 公式サイト　[http://hackers-champloo.org/2018/](http://hackers-champloo.org/2018/)
-
-<a class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/74338">ハッカーズチャンプルー2018 カンファレンスの部</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
-
-<i class="fa fa-comments"></i> 昨年の様子
-
-ハッカーズチャンプルーがどのようなイベントか知りたい方は昨年の様子をご覧ください。
-
-* [ハッシュタグまとめ](https://togetter.com/li/1123496)
-* [Facebookページ](https://www.facebook.com/hackerschamploo) 
-* さくらのナレッジ様による開催レポート
-  * [沖縄のITエンジニアの熱量をお届け！ハッカーズチャンプルー2017レポート 〜開発合宿編〜
-  ](https://knowledge.sakura.ad.jp/9770/)
-  * [沖縄のITエンジニアの熱量をお届け！ハッカーズチャンプルー2017レポート 〜カンファレンス編〜](https://knowledge.sakura.ad.jp/9821/)
-
-<i class="fa fa-beer"></i> 懇親会
---------------------------------------------------------------------------------
-
-- 日時 : 2018年6月30日（土曜日） 17:30開場 / 18:00開始〜
-
-- 会場 : [宜野湾マリーナレストラン&バル フィッシュテイル](https://tabelog.com/okinawa/A4703/A470404/47012968/)
-
-カンファレンス会場から歩いて10分かかりません！
-
-- 参加費 : 3000円程度で調整中（学生補助が出ます）
-
-<a class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/74339">ハッカーズチャンプルー2018 懇親会</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
-
---------------------------------------------------------------------------------
 
 ### 主催
 
