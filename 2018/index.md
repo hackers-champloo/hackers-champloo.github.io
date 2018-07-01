@@ -59,7 +59,7 @@ supporters:
 
 ### 各種SNS情報
 
-* [ハッシュタグまとめ](https://togetter.com/li/1242180)
+* [ハッシュタグまとめ](https://togetter.com/li/1242446)
 * [Twitterハッシュタグ #hcmpl](https://twitter.com/search?f=tweets&vertical=default&q=%23hcmpl&src=typd)
 * [Facebookページ](https://www.facebook.com/hackerschamploo) （「いいね！」してもらえると次回開催情報がお届けされますので是非！）
 
