@@ -62,6 +62,8 @@ supporters:
 * [ハッシュタグまとめ](https://togetter.com/li/1242446)
 * [Twitterハッシュタグ #hcmpl](https://twitter.com/search?f=tweets&vertical=default&q=%23hcmpl&src=typd)
 * [Facebookページ](https://www.facebook.com/hackerschamploo) （「いいね！」してもらえると次回開催情報がお届けされますので是非！）
+* さくらのナレッジ様による開催レポート
+  * [Clojure、Go、Unity……ハッカーズチャンプルー2018 #hcmpl はとっても「ちゃんぷるー」だった！](https://knowledge.sakura.ad.jp/16891/)
 
 
 ### 主催
