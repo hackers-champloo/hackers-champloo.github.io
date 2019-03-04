@@ -1,10 +1,15 @@
 ---
 layout: nocamp/top
 goldsponsors:
+    - name: YassLab 株式会社
+      url: http://yasslab.jp/
+      logo: /img/2019/yasslab-logo-text.png
+    - name: アールスリーインスティテュート
+      url: https://www.r3it.com/
+      logo: /img/2019/r3logo_w200.png
 sponsors:
-    - name: サポーター募集中！
-      url: http://hackers-champloo.org/2019/sponsors/
-      logo: /img/hclogo_box140.png
+    - name: 株式会社ミノタケ
+      logo: /img/2019/minotake_web300px.gif
 studentsponsors:
 mediasponsors:
 supporters:
