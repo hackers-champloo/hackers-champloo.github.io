@@ -7,6 +7,9 @@ goldsponsors:
     - name: アールスリーインスティテュート
       url: https://www.r3it.com/
       logo: /img/2019/r3logo_w200.png
+    - name: esa LLC
+      url: https://esa.io/
+      logo: /img/2019/esa-logo.png
 sponsors:
     - name: 株式会社ミノタケ
       logo: /img/2019/minotake_web300px.gif
