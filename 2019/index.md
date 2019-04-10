@@ -13,6 +13,9 @@ goldsponsors:
     - name: 琉球インタラクティブ株式会社
       url: http://www.ryukyu-i.co.jp/
       logo: /img/2019/ri-logo.jpg
+    - name: 株式会社サイダス
+      url: https://www.cydas.com/
+      logo: /img/2019/cydaslogo.png
 sponsors:
     - name: 株式会社ミノタケ
       logo: /img/2019/minotake_web300px.gif
