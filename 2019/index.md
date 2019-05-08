@@ -19,6 +19,9 @@ goldsponsors:
     - name: 株式会社シーエー・アドバンス
       url: https://www.ca-adv.co.jp/
       logo: /img/2019/CAAD_LOGO_fix.png
+    - name: 株式会社Payke
+      url: https://payke.co.jp
+      logo: /img/2019/paykelogo.png
 sponsors:
     - name: 株式会社ミノタケ
       logo: /img/2019/minotake_web300px.gif
