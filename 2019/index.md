@@ -43,8 +43,10 @@ supporters:
 今年も前夜祭＋カンファレンスを開催する予定です。
 
  * 日時　2019年6月29日（土曜日）
-* カンファレンス会場　琉球大学 工学部（予定）
+* カンファレンス会場　琉球大学 人文社会学部 大講義室（215） 
 * 公式サイト　http://hackers-champloo.org/2019/
+
+<a class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/91533">ハッカーズチャンプルー2019 カンファレンスの部</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
 
 
 ### 主催
