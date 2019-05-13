@@ -86,6 +86,17 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
   </table>
 </div>
 
+--------------------------------------------------------------------------------
+
+<i class="fa fa-list-alt"></i> LT募集
+
+- 持ち時間6分(登壇者入れ替え含む）のLTを募集します!!
+    - 申込者多数の場合は抽選となります
+    - 場合によっては前夜祭でのLTをお願いする場合もあります
+- LTスピーカーの皆さんもチケットは必要ですので、別途DoorKeeperの方からお申し込みください
+- [お申し込みはこちら!!](https://forms.gle/rqLRESFva1zsEBc37)
+
+
 -----
 
 <a class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/91533">ハッカーズチャンプルー2019 カンファレンスの部</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
