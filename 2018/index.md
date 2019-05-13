@@ -14,7 +14,7 @@ goldsponsors:
       url: https://esa.io/
       logo: /img/2018/esa-logo.png
     - name: 琉球インタラクティブ株式会社
-      url: http://www.ryukyu-i.co.jp/
+      url: https://www.ryukyu-i.co.jp/
       logo: /img/2018/ri-logo.jpg
     - name: 株式会社ドリーム・アーツ
       url: https://www.dreamarts.co.jp/
