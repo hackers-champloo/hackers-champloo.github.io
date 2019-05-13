@@ -77,7 +77,7 @@ title: スポンサー
 
 -----
 
-![](/img/logo_ryukyuInteractive.png) 琉球インタラクティブ株式会社 http://www.ryukyu-i.co.jp/
+![](/img/logo_ryukyuInteractive.png) 琉球インタラクティブ株式会社 https://www.ryukyu-i.co.jp/
 
 
 琉球インタラクティブは沖縄発のインターネットベンチャーです。

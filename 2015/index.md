@@ -5,7 +5,7 @@ sponsors:
       url: https://www.r3it.com/
       logo: /img/2015/R3_logo_200x217.png
     - name: 琉球インタラクティブ株式会社
-      url: http://www.ryukyu-i.co.jp/
+      url: https://www.ryukyu-i.co.jp/
       logo: /img/2016/ri-logo.jpg
     - name: GitHub, Inc.
       url: https://www.github.com/

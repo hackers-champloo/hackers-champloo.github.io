@@ -11,7 +11,7 @@ goldsponsors:
       url: https://esa.io/
       logo: /img/2019/esa-logo.png
     - name: 琉球インタラクティブ株式会社
-      url: http://www.ryukyu-i.co.jp/
+      url: https://www.ryukyu-i.co.jp/
       logo: /img/2019/ri-logo.jpg
     - name: 株式会社サイダス
       url: https://www.cydas.com/
