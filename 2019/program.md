@@ -81,6 +81,19 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
             </p>
         </td>
       </tr>
+      <tr>
+        <td>
+          <p class="track-title">TBD</p>
+          <p class="track-speaker">
+            <a href="http://gongo.pw/" target="_blank">Wataru MIYAGUNI (@gongoZ)</a> / 株式会社SmartHR<br/>
+            <a href="http://gongo.pw/" target="_blank">
+              <img class="speaker-photo" src="/img/2019/speakers/gongo.png" />
+            </a>
+            </p>
+            <p class="track-description">
+            </p>
+        </td>
+      </tr>
 
     </tbody>
   </table>
