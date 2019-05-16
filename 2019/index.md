@@ -22,6 +22,9 @@ goldsponsors:
     - name: 株式会社Payke
       url: https://payke.co.jp
       logo: /img/2019/paykelogo.png
+    - name: KDDI株式会社
+      url: https://www.kddi.com/
+      logo: /img/2019/kddi.png
 sponsors:
     - name: 株式会社ミノタケ
       logo: /img/2019/minotake_web300px.gif
