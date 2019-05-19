@@ -25,6 +25,9 @@ goldsponsors:
     - name: KDDI株式会社
       url: https://www.kddi.com/
       logo: /img/2019/kddi.png
+    - name: CODEBASE
+      url: https://www.protosolution.co.jp/codebase/
+      logo: /img/2019/codebase.png
 sponsors:
     - name: 株式会社ミノタケ
       logo: /img/2019/minotake_web300px.gif
