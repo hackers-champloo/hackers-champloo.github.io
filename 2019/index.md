@@ -16,6 +16,9 @@ goldsponsors:
     - name: 株式会社サイダス
       url: https://www.cydas.com/
       logo: /img/2019/cydaslogo.png
+    - name: 株式会社メルカリ
+      url: https://about.mercari.com/
+      logo: /img/2019/mercari-logo.png
     - name: 株式会社シーエー・アドバンス
       url: https://www.ca-adv.co.jp/
       logo: /img/2019/CAAD_LOGO_fix.png
@@ -28,9 +31,6 @@ goldsponsors:
     - name: CODEBASE
       url: https://www.protosolution.co.jp/codebase/
       logo: /img/2019/codebase.png
-    - name: 株式会社メルカリ
-      url: https://about.mercari.com/
-      logo: /img/2019/mercari-logo.png
 sponsors:
     - name: 株式会社ミノタケ
       logo: /img/2019/minotake_web300px.gif
