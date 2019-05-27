@@ -20,14 +20,31 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
 
 --------------------------------------------------------------------------------
 
-<i class="fa fa-list-alt"></i> ゲスト紹介
-
-（プログラム詳細は調整中です）
+<i class="fa fa-list-alt"></i> カンファレンスの部 プログラム
+--------------------------------------------------------------------------------
 
 <div id="schedule">
   <table>
+    <thead>
+      <tr>
+        <th>時間</th>
+        <th>トラック</th>
+      </tr>
+    </thead>
     <tbody>
       <tr>
+        <th>9:30 -</th>
+        <td><p class="track-title">開場・受付開始</p></td>
+      </tr>
+      <tr>
+        <th>10:00 (5分)</th>
+        <td>
+          <p class="track-title">開会宣言・スポンサーの紹介</p>
+          <p class="track-speaker">実行委員会</p>
+        </td>
+      </tr>
+      <tr>
+        <th>10:10 - 10:50 (40分)</th>
         <td>
           <p class="track-title">TBD</p>
           <p class="track-speaker">
@@ -41,6 +58,18 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
         </td>
       </tr>
       <tr>
+        <th>10:50 - 11:10 (20分)</th>
+        <td>
+            <p class="track-title">ライトニングトーク Part 1</p>6分×3本<br />
+            <ul>
+              <li>りゅう | JavaScriptで黒魔術</li>
+              <li>@jewel_x12 | （たぶん）ぎのわん勉強会の紹介</li>
+              <li>まさ（@Masah201707）/ みんなのウェディング | 未定</li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>11:10 - 11:50 (40分)</th>
         <td>
           <p class="track-title">現代のコンピュータにおける自作OS事情</p>
           <p class="track-speaker">
@@ -54,7 +83,12 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
             </p>
         </td>
       </tr>
+      <tr class="track-break">
+        <th>12:00 - 13:30 (90分)</th>
+        <td><p class="track-title"><i class="fa fa-cutlery"></i> ランチブレイク | 12:30 - スポンサーセッション</p></td>
+      </tr>
       <tr>
+        <th>13:30 - 14:10 (40分)</th>
         <td>
           <p class="track-title">好きなことをやり続けるということ</p>
           <p class="track-speaker">
@@ -68,6 +102,18 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
         </td>
       </tr>
       <tr>
+        <th>14:10 - 14:30 (20分)</th>
+        <td>
+            <p class="track-title">ライトニングトーク Part 2</p>6分×3本<br />
+            <ul>
+              <li>岩村 琢 | アジャイルコーチとスクラムマスターの宴に参加してきた話</li>
+              <li>安川 要平 | Remote Work in Action</li>
+              <li>安里 悠矢 (@328__) | 脆弱性診断員の日常（仮）</li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>14:30 - 15:10 (40分)</th>
         <td>
           <p class="track-title">サイドプロジェクトが利益を生むビジネスになるまでの苦労と長い道のり</p>
           <p class="track-speaker">
@@ -81,7 +127,28 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
             </p>
         </td>
       </tr>
+      <tr class="track-break">
+        <th>15:10 - 15:30 (20分)</th>
+        <td>
+          <p class="track-title"><i class="fa fa-coffee"></i> おやつの時間</p>
+          <p class="track-speaker">
+          登壇者や運営スタッフとゆっくり交流できるチャンスです！
+          </p>
+        </td>
+      </tr>
       <tr>
+        <th>15:30 - 15:50 (20分)</th>
+        <td>
+            <p class="track-title">ライトニングトーク Part 3</p>6分×3本<br />
+            <ul>
+              <li>八雲アナグラ | Re; make perl1.0</li>
+              <li>@pirox | 未定</li>
+              <li>codehex | 未定</li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>15:50 - 16:30 (40分)</th>
         <td>
           <p class="track-title">TBD</p>
           <p class="track-speaker">
@@ -94,21 +161,33 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
             </p>
         </td>
       </tr>
+      <tr>
+        <th>16:30 - 16:50 (20分)</th>
+        <td>
+            <p class="track-title">ライトニングトーク Part 4</p>6分×3本<br />
+            <ul>
+              <li>Napori | これがVtuberエンジニアなんだよなぁ</li>
+              <li>miyaz697 | ラズパイは〇〇（仮）</li>
+              <li>tompng | 未定</li>
+            </ul>
+        </td>
+      </tr>
+      <tr>
+        <th>16:50 - 17:00 (10分)</th>
+        <td>
+          <p class="track-title">クロージング</p>実行委員会<br />
+        </td>
+      </tr>
+      <tr>
+        <th>17:30</th>
+        <td>
+          <p class="track-title">完全撤収完了</p>
+        </td>
+      </tr>
 
     </tbody>
   </table>
 </div>
-
---------------------------------------------------------------------------------
-
-<i class="fa fa-list-alt"></i> LT募集
-
-- 持ち時間6分(登壇者入れ替え含む）のLTを募集します!!
-    - 申込者多数の場合は抽選となります
-    - 場合によっては前夜祭でのLTをお願いする場合もあります
-- LTスピーカーの皆さんもチケットは必要ですので、別途DoorKeeperの方からお申し込みください
-- [お申し込みはこちら!!](https://forms.gle/rqLRESFva1zsEBc37)
-
 
 -----
 
