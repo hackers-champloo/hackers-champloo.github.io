@@ -26,4 +26,11 @@ title: 実行委員会 ボランティアスタッフ
 
 ## お申込み
 
-[当日ボランティアのお申込みはこちら](https://docs.google.com/forms/d/e/1FAIpQLSeExTG2U-nGKpyAj_4dt0ueHUHz8J6k-6X7VFZVs92_js30KQ/viewform)
+当日ボランティアスタッフは6/29のカンファレンスおよび懇親会の準備や運営をお手伝い頂くスタッフです。
+
+*  主なタスクは、受付業務、進行業務、会場設営・撤収などです。
+*  以下の特典があります。
+   * スタッフ専用デザインのTシャツ
+* 金銭的な報酬はありません。
+
+[当日ボランティアスタッフのお申込みはこちら](https://docs.google.com/forms/d/e/1FAIpQLSeExTG2U-nGKpyAj_4dt0ueHUHz8J6k-6X7VFZVs92_js30KQ/viewform)
