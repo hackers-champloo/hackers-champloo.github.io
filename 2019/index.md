@@ -40,6 +40,11 @@ sponsors:
 studentsponsors:
 mediasponsors:
 supporters:
+designsupporters:
+    - name: D#(ディーハッシュ)
+      url: https://twitter.com/dhash_okinawa
+      logo: /img/2019/D_hash_logo.jpg
+      designer: Tシャツデザイン：外山トム
 ---
 
 
