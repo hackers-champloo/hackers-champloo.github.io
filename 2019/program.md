@@ -64,7 +64,7 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
             <ul>
               <li>りゅう | JavaScriptで黒魔術</li>
               <li>@jewel_x12 | （たぶん）ぎのわん勉強会の紹介</li>
-              <li>まさ（@Masah201707）/ みんなのウェディング | 未定</li>
+              <li>まさ（@Masah201707）/ みんなのウェディング | Stimulus × Jest × Direct Upload × Image Fluxで カオスなJS環境と画像アップロード機能を改善しつつユーザーの投稿率を上げた話</li>
             </ul>
         </td>
       </tr>
