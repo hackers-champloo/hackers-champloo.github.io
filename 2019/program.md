@@ -46,7 +46,7 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
       <tr>
         <th>10:10 - 10:50 (40分)</th>
         <td>
-          <p class="track-title">TBD</p>
+          <p class="track-title">開発者向けの基盤をつくる</p>
           <p class="track-speaker">
             <a href="https://deeeet.com/" target="_blank">Taichi Nakashima (@deeeet)</a> / Mercari, Inc<br/>
             <a href="https://deeeet.com/" target="_blank">
@@ -54,6 +54,7 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
             </a>
             </p>
             <p class="track-description">
+            これまで社内の開発者向けの基盤の構築に関わってきました．前職ではPaaSを現職のMercariではMicroservicesのための基盤を作っています．Developer Productivityを高め，開発者がより良いサービスをお客様に届けることを助けるためにこれまでやってきたこと，そこから得られた学び，今後の展望を具体的な技術スタックやトレンドを交えて紹介します．
             </p>
         </td>
       </tr>
