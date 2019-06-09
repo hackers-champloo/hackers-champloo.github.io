@@ -151,7 +151,7 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
       <tr>
         <th>15:50 - 16:30 (40分)</th>
         <td>
-          <p class="track-title">TBD</p>
+          <p class="track-title">What can Emacs be?</p>
           <p class="track-speaker">
             <a href="http://gongo.pw/" target="_blank">Wataru MIYAGUNI (@gongoZ)</a> / 株式会社SmartHR<br/>
             <a href="http://gongo.pw/" target="_blank">
@@ -159,6 +159,7 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
             </a>
             </p>
             <p class="track-description">
+            エディタの一つである Emacs は、その拡張性の高さから本来の用途であるテキスト編集の枠を超え、様々な世界に進出しています。このセッションでは「Emacs ができること」を軸に、拙作 Emacs Lisp を交えながら「Emacs がエディタ以外に何になれるのか」の一例を紹介していきます。
             </p>
         </td>
       </tr>
