@@ -149,3 +149,9 @@ CODE BASEでは、「宜野湾西海岸を、ITビーチに！」をVisionsに�
 **[デザイン協力]**
 
 Tシャツデザイン：外山トム
+
+-----
+
+![](/img/2019/furunosystems.jpg) 株式会社フルノシステムズ [http://www.furunosystems.co.jp/](http://www.furunosystems.co.jp/)
+
+**[WIFIサポーター]**
