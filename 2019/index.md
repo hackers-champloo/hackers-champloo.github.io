@@ -45,6 +45,10 @@ designsupporters:
       url: https://twitter.com/dhash_okinawa
       logo: /img/2019/D_hash_logo.jpg
       designer: Tシャツデザイン：外山トム
+wifisupporter:
+    - name: 株式会社フルノシステムズ
+      url: http://www.furunosystems.co.jp/
+      logo: /img/2019/furunosystems.jpg
 ---
 
 
