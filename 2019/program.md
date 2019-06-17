@@ -170,7 +170,7 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
             <ul>
               <li>Napori | これがVtuberエンジニアなんだよなぁ</li>
               <li>miyaz697 | ラズパイは〇〇（仮）</li>
-              <li>tompng | 未定</li>
+              <li>tompng | 意味不明プログラミングの世界</li>
             </ul>
         </td>
       </tr>
