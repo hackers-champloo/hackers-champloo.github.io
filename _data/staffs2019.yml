@@ -1,6 +1,6 @@
-- name: 
-  link: 
-  image: 
+- name: Koo
+  link: https://twitter.com/fuckoo0
+  image: https://pbs.twimg.com/profile_images/1127092052271947777/0uj81O6B_400x400.jpg
   text: 
   kind: コア
 
@@ -58,10 +58,10 @@
   text: 
   kind: コア
 
-- name: 
-  link: 
-  image: 
-  text: 
+- name: とーばるゆー
+  link: https://twitter.com/toubarumba
+  image: https://pbs.twimg.com/profile_images/945687671409590273/Bx8j_neB_400x400.jpg
+  text: Perl 好き！IT以外にも色んなイベントやってます。
   kind: コア
 
 - name: riono
@@ -159,3 +159,4 @@
   image: https://pbs.twimg.com/profile_images/2206703597/myprofile_400x400.jpg
   text: 
   kind: ボランティア
+
