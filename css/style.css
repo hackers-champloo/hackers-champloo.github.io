@@ -141,10 +141,10 @@ img.speaker-photo {
 }
 .staffs li {
     display: inline-block;
-    max-width: 180px;
     padding: 15px;
     text-align: center;
     vertical-align: top;
+    width: 180px;
 }
 .staffs img {
     border-radius: 50%;
