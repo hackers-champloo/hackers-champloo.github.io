@@ -4,6 +4,8 @@ layout: camp/layout
 title: 実行委員会 ボランティアスタッフ
 ---
 
+{% unless site.data.staffs2019 %}
+
 # ボランティアスタッフを募集しています
 
  ハッカーズチャンプルーは、実行委員会の有志が手作りで作り上げるエンジニアのためのイベントです。是非一緒にイベントを盛り上げてください！
@@ -34,3 +36,78 @@ title: 実行委員会 ボランティアスタッフ
 * 金銭的な報酬はありません。
 
 [当日ボランティアスタッフのお申込みはこちら](https://docs.google.com/forms/d/e/1FAIpQLSeExTG2U-nGKpyAj_4dt0ueHUHz8J6k-6X7VFZVs92_js30KQ/viewform)
+
+
+{% else %}
+
+# ハッカーズチャンプルーはボランティアに支えられ運営されています
+
+## ハッカーズチャンプルー2019 実行委員会 コアメンバー
+
+<ul class="staffs">
+
+{% for staff in site.data.staffs2019 %}
+  {% if staff.kind == 'コア' and staff.name %}
+    {% if staff.link %}
+      <li>
+        <a href="{{ staff.link }}" target="_blank" rel="noopener">
+          {% if staff.image %}<img src="{{ staff.image }}" alt="{{ staff.name }}"><br>{% endif %}
+          {{ staff.name }}
+        </a>
+        {% if staff.text %}
+          <p>{{ staff.text }}</p>
+        {% endif %}
+      </li>
+    {% else %}
+      <li>
+        <span>{% if staff.image %}<img src="{{ staff.image }}" alt="{{ staff.name }}"><br>{% endif %}{{ staff.name }}</span>
+        {% if staff.text %}
+          <p>{{ staff.text }}</p>
+        {% endif %}
+      </li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+</ul>
+
+
+## ハッカーズチャンプルー2019 当日ボランティアスタッフ
+
+<ul class="staffs">
+
+{% for staff in site.data.staffs2019 %}
+  {% if staff.kind == 'ボランティア' and staff.name %}
+    {% if staff.link %}
+      <li>
+        <a href="{{ staff.link }}" target="_blank" rel="noopener">
+          {% if staff.image %}<img src="{{ staff.image }}" alt="{{ staff.name }}"><br>{% endif %}
+          {{ staff.name }}
+        </a>
+        {% if staff.text %}
+          <p>{{ staff.text }}</p>
+        {% endif %}
+      </li>
+    {% else %}
+      <li>
+        <span>{% if staff.image %}<img src="{{ staff.image }}" alt="{{ staff.name }}"><br>{% endif %}{{ staff.name }}</span>
+        {% if staff.text %}
+          <p>{{ staff.text }}</p>
+        {% endif %}
+      </li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+</ul>
+
+
+--------------------------------------------------------------------------------
+
+ボランティアの皆様のご協力なしに、このイベントの運営は成り立ちません。
+
+本当にありがとうございます。そしてスタッフ一同楽しんでください！
+
+2019年6月18日 実行委員長 西島 幸一郎
+
+{% endunless %}

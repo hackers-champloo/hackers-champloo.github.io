@@ -119,3 +119,35 @@ img.speaker-photo {
     padding-top: 10px;
     margin-left: 20px;
 }
+
+.staffs {
+    columns: auto 1;
+    list-style: none;
+}
+@media (min-width: 320px) {
+    .staffs {
+        column-count: 2;
+    }
+}
+@media (min-width: 576px) {
+    .staffs {
+        column-count: 3;
+    }
+}
+@media (min-width: 768px) {
+    .staffs {
+        column-count: 4;
+    }
+}
+.staffs li {
+    display: inline-block;
+    padding: 15px;
+    text-align: center;
+    vertical-align: top;
+    width: 180px;
+}
+.staffs img {
+    border-radius: 50%;
+    height: 100px;
+    width: 100px;
+}
