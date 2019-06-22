@@ -129,7 +129,7 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
         </td>
       </tr>
       <tr class="track-break">
-        <th>15:10 - 15:30 (20分)</th>
+        <th>15:10 - 15:40 (30分)</th>
         <td>
           <p class="track-title"><i class="fa fa-coffee"></i> おやつの時間</p>
           <p class="track-speaker">
@@ -138,7 +138,7 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
         </td>
       </tr>
       <tr>
-        <th>15:30 - 15:50 (20分)</th>
+        <th>15:40 - 16:00 (20分)</th>
         <td>
             <p class="track-title">ライトニングトーク Part 3</p>6分×3本<br />
             <ul>
@@ -149,7 +149,7 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
         </td>
       </tr>
       <tr>
-        <th>15:50 - 16:30 (40分)</th>
+        <th>16:00 - 16:40 (40分)</th>
         <td>
           <p class="track-title">What can Emacs be?</p>
           <p class="track-speaker">
@@ -164,7 +164,7 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
         </td>
       </tr>
       <tr>
-        <th>16:30 - 16:50 (20分)</th>
+        <th>16:40 - 17:00 (20分)</th>
         <td>
             <p class="track-title">ライトニングトーク Part 4</p>6分×3本<br />
             <ul>
@@ -175,7 +175,7 @@ description: 2019年6月29日（土曜日） 9時半開場 琉球大学法文学
         </td>
       </tr>
       <tr>
-        <th>16:50 - 17:00 (10分)</th>
+        <th>17:00 - 17:10 (10分)</th>
         <td>
           <p class="track-title">クロージング</p>実行委員会<br />
         </td>
