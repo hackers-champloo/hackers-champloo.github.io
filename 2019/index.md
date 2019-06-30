@@ -55,20 +55,16 @@ wifisupporter:
 ![ハッカーズチャンプルー](/img/logo/banner.png)
 
 
-### ハッカーズチャンプルーはエンジニアのためのお祭りです
+### ハッカーズチャンプルー2018は全日程を終了しました！
+ご参加いただいた皆様、来沖してくださったゲストの皆様、ボランティアスタッフとして動いてくれた皆様、ありがとうございました。
 
-7回目になる今回の開催は、パワーアップして原点に戻り、琉球大学様の会場をお借りして開催の予定です。沖縄のアツいITエンジニアたちのパッションを沖縄県内外に向けて広く発信するとともに、最先端の技術動向をキャッチアップ＆ディスカッションするための場所として機能することを目指します！
+また来年出会えることを願ってます！
 
-# イベント概要
+### 各種SNS情報
 
-今年も前夜祭＋カンファレンスを開催する予定です。
-
- * 日時　2019年6月29日（土曜日）
-* カンファレンス会場　琉球大学 人文社会学部 大講義室（215） 
-* 公式サイト　http://hackers-champloo.org/2019/
-
-<a class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/91533">ハッカーズチャンプルー2019 カンファレンスの部</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
-
+* [ハッシュタグまとめ](https://t.co/cLYF3REDpn)
+* [Twitterハッシュタグ](https://twitter.com/search?q=%23hcmpl&src=typed_query&f=live) #hcmpl
+* [Facebookページ](https://www.facebook.com/hackerschamploo/) （「いいね！」してもらえると次回開催情報がお届けされますので是非！）
 
 ### 主催
 
