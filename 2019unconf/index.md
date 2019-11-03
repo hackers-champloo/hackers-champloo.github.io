@@ -12,24 +12,20 @@ facilitysponsor:
 
 # ハッカーズチャンプルーアンカンファレンス2019
 
-## = みんなで作るカンファレンスです！
+## = みんなで作るカンファレンス！
 
-ハッカーズチャンプルーに参加して、「自分も喋って見ようかな？」と少しでも思ったあなたに朗報です。自分の知ってること・作ったもの・思っていることを共有して、登壇者デビューしましょう♪
+ハッカーズチャンプルーアンカンファレンス2019は、全日程を終了しました！
+ご参加いただいた皆様、来沖してくださったゲストの皆様、ボランティアスタッフとして動いてくれた皆様、ありがとうございました。
 
-『プログラムはどうなるの？』『アンカンファレンスってなに？』『全員喋らないといけないの？』などなどの疑問質問は、以下よりご確認ください！
+また次回、お会い出来ることを願ってます！
 
 * [プログラムと言う名のイベント解説](/2019unconf/program.html)
 
----
+### 各種SNS情報
 
-# イベント開催概要
-
-* 日時　2019年11月2日（土曜日） 12時半開場 : 13時開始
-* カンファレンス会場提供　[株式会社SEEC](https://se-ec.co.jp/) 沖縄営業所
-* 会場住所　[沖縄県那覇市泉崎1-20-6](https://goo.gl/maps/vYGLM6b75b4rhYjX8) 那覇ビジネスセンター7F
-* 公式サイト　http://hackers-champloo.org/2019unconf/
-
-<a class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/96707">ハッカーズチャンプルーアンカンファレンス2019</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+* [ハッシュタグまとめ](https://togetter.com/li/1425386)
+* [Twitterハッシュタグ](https://twitter.com/search?q=%23hcmpl&src=typed_query&f=live) #hcmpl
+* [Facebookページ](https://www.facebook.com/hackerschamploo/) （「いいね！」してもらえると次回開催情報がお届けされますので是非！）
 
 ### 主催
 
