@@ -3,7 +3,7 @@ layout: nocamp/top
 goldsponsors:
 sponsors:
     - name: スポンサーをご検討中の皆様へ
-      url: http://hackers-champloo.org/2023/sponsors/
+      url: http://hackers-champloo.org/2023/sponsors.html
       logo: /img/hclogo_box140.png
 studentsponsors:
 mediasponsors:
