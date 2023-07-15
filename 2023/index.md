@@ -2,6 +2,9 @@
 layout: nocamp/top
 goldsponsors:
 sponsors:
+    - name: スポンサーをご検討中の皆様へ
+      url: http://hackers-champloo.org/2023/sponsors/
+      logo: /img/hclogo_box140.png
 studentsponsors:
 mediasponsors:
 supporters:
@@ -13,18 +16,19 @@ wifisupporter:
 ![ハッカーズチャンプルー](/img/logo/banner.png)
 
 
-## Hackers Champloo is BACK!
+# Hackers Champloo is BACK!
 
 4年ぶりに沖縄ITエンジニアのためのお祭り、ハッカーズチャンプルーが帰ってきます！
 
-## Call for papers
+# Call for papers
 
 今回は久しぶりのリブートになりますので、イベントがなかった間に皆さんが心の内に秘めていた技術トークを開放して欲しいと思っています！
 
 最先端の技術トークから、自分しか興味ないくらい狭いトークまで、幅広いトークを是非ご応募ください！
 
-## [応募はこちら](https://fortee.jp/hackers-champloo2023/speaker/proposal/cfp)から！
+# [応募はこちら](https://fortee.jp/hackers-champloo2023/speaker/proposal/cfp)から！
 
+--------------------------------------------------------------------------------
 
 # イベント概要
 
