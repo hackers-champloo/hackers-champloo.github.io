@@ -21,23 +21,33 @@ evepartysupporters:
 
 4年ぶりに沖縄ITエンジニアのためのお祭り、ハッカーズチャンプルーが帰ってきます！
 
-# Call for papers
-
-今回は久しぶりのリブートになりますので、イベントがなかった間に皆さんが心の内に秘めていた技術トークを開放して欲しいと思っています！
-
-最先端の技術トークから、自分しか興味ないくらい狭いトークまで、幅広いトークを是非ご応募ください！
-
-# ご応募ありがとうございました。[採択結果はこちらです](https://fortee.jp/hackers-champloo2023/proposal/accepted)！
+# CFPご応募ありがとうございました。[採択結果はこちらです](https://fortee.jp/hackers-champloo2023/proposal/accepted)！
 
 --------------------------------------------------------------------------------
 
 # イベント概要
+
+（それぞれのイベントに個別のお申し込みが必要ですのでご注意ください）
 
 * イベント開催日: 2023/10/07(土)
 * 場所: [沖縄県教職員共済会館 八汐荘](http://www.okikyousai.jp/top/yasiosou/yasiosou.html)
   * 住所: [那覇市松尾1丁目6番1号](https://goo.gl/maps/yUMMcPvdBgdmygmg6)
   * 駐車場アリ(70台)、イベント参加者は無料
 
+<a class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/163183">ハッカーズチャンプルー2023 カンファレンスの部</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+
+# さくらの夕べ × ハッカーズチャンプルー2023前夜祭 in Okinawa
+
+前夜祭もあります！！
+
+* イベント開催日: 2023/10/06(金)
+* [お申し込みはこちら！](https://sakura-eve-hcmpl2023.peatix.com)
+
+# もちろん懇親会も！
+
+<a class="doorkeeper-registration-widget" href="https://hackers-champloo.doorkeeper.jp/events/163189">ハッカーズチャンプルー2023 懇親会</a><script src="https://widgets.doorkeeper.jp/w/widget.js"></script>
+
+----
 
 ### 主催
 
