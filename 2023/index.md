@@ -2,14 +2,15 @@
 layout: nocamp/top
 goldsponsors:
 sponsors:
-    - name: スポンサーをご検討中の皆様へ
-      url: http://hackers-champloo.org/2023/sponsors.html
-      logo: /img/hclogo_box140.png
 studentsponsors:
 mediasponsors:
 supporters:
 designsupporters:
 wifisupporter:
+evepartysupporters:
+    - name: さくらインターネット株式会社
+      url: https://www.sakura.ad.jp/
+      logo: /img/2023/sakura-1-1-basic-rgb-whiteback-250px.png
 ---
 
 
