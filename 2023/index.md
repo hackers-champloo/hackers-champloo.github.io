@@ -41,10 +41,10 @@ evepartysupporters:
 
 前夜祭もあります！！
 
+## [お申し込みはこちら！](https://sakura-eve-hcmpl2023.peatix.com)
+
 * イベント開催日: 2023/10/06(金) 18:30 - 21:30
 * 参加費：無料！
-
-## [お申し込みはこちら！](https://sakura-eve-hcmpl2023.peatix.com)
 
 # もちろん懇親会も！
 
