@@ -39,6 +39,8 @@ evepartysupporters:
 
 # さくらの夕べ × ハッカーズチャンプルー2023前夜祭 in Okinawa
 
+<a href="https://sakura-eve-hcmpl2023.peatix.com" target="_blank"><img src="/img/2023/sakura-innobase-sns_1200x630.png" width="100%"></a>
+
 前夜祭もあります！！
 
 ## [お申し込みはこちら！](https://sakura-eve-hcmpl2023.peatix.com)
