@@ -229,7 +229,7 @@ NewSQLに置き換えることでデータベース運用がどのように変�
         <td>
           <p class="track-title">コードで季節を表現しよう</p>
           <p class="track-speaker">
-            <a href="https://twitter.com/tompng" target="_blank">コードで季節を表現しよう</a><br/>
+            <a href="https://twitter.com/tompng" target="_blank">ぺん！</a><br/>
             <a href="https://twitter.com/tompng" target="_blank">
               <img class="speaker-photo" src="https://fortee.jp/files/hackers-champloo2023/speaker/3a73397e-4717-46eb-9f2d-f3f23f12b4d9.png" />
             </a>
