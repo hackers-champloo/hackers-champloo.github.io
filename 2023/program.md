@@ -70,7 +70,7 @@ description: 2023年10月07日（土曜日） 9時半開場 沖縄県教職員�
             <ul>
               <li><a href="https://twitter.com/ca_adv_yuya" target="_blank">kinjo3</a> | VSCode Tunnel で ECS Fargateのコンテナに接続してみた</li>
               <li><a href="https://twitter.com/KKimura_0725" target="_blank">KKimura</a> | Argo CD をフル活用した k8s エコシステム管理</li>
-              <li>TBD</li>
+              <li><a href="https://twitter.com/jollyjoester" target="_blank">jollyjoester</a> | エンジニアが直接会う場の価値について</li>
             </ul>
         </td>
       </tr>
@@ -205,7 +205,7 @@ NewSQLに置き換えることでデータベース運用がどのように変�
             <ul>
               <li><a href="https://fortee.jp/hackers-champloo2023/proposal/a8271580-a785-4a9b-85cd-7b11065230f4" target="_blank">toubaru</a> | 脆弱性診断員の実態について</li>
               <li><a href="https://twitter.com/cloneko" target="_blank">Yonashiro Yuu</a> | 子育て on the Cloud</li>
-              <li>TBD</li>
+              <li>さぼ@春秋 | 会社を実装する</li>
             </ul>
         </td>
       </tr>
