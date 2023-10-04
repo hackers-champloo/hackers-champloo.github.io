@@ -1,36 +1,36 @@
 - name: aipa
-  link: 
-  image: 
-  text: 
+  link: https://twitter.com/aipacommander
+  image: https://pbs.twimg.com/profile_images/1064531737412218880/aWYKVtTP_400x400.jpg
+  text: ハッカーズチャンプルー：闇のコードを紡ぐ者たちが、秘密のデータ海を航海し、未知の技術の海域を制覇せんと集う、究極のサイバーバトルの舞台。
   kind: コア
 
 - name: atomita
-  link: 
-  image: 
+  link: https://github.com/atomita
+  image: https://github.com/atomita.png
   text: 
   kind: コア
 
 - name: fumi_042
-  link: 
-  image: 
+  link: https://twitter.com/fumi_042
+  image: https://pbs.twimg.com/profile_images/1425113077612122115/cOR_06rz_400x400.jpg
   text: 
   kind: コア
 
 - name: H_Uema
-  link: 
-  image: 
+  link: https://x.com/H_Uema?t=HhG6Rk463UPr33p07M0cmw&s=09
+  image: https://static.wixstatic.com/media/aca44f_95dd989970f047ebba708d4e41ce0d36~mv2.png/v1/crop/x_0,y_159,w_719,h_595/fill/w_403,h_334,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Picture2%20-%20Hitoshi%20Uema.png
   text: 
   kind: コア
 
 - name: issei
   link: 
-  image: 
+  image: /img/logo/box61.png
   text: 
   kind: コア
 
 - name: itomura
   link: 
-  image: 
+  image: /img/logo/box61.png
   text: 
   kind: コア
 
@@ -42,43 +42,42 @@
 
 - name: konoha
   link: 
-  image: 
+  image: /img/logo/box61.png
   text: 
   kind: コア
 
 - name: masakyst
-  link: 
-  image: 
+  link: https://twitter.com/masakyst
+  image: https://pbs.twimg.com/profile_images/1606470873682436096/2CLr0WRx_400x400.jpg
   text: 
   kind: コア
 
 - name: r_nakamine
   link: 
-  image: 
+  image: /img/logo/box61.png
   text: 
   kind: コア
 
 - name: y_chiba
   link: 
-  image: 
+  image: /img/logo/box61.png
   text: 
   kind: コア
 
 - name: いずみ
-  link: 
-  image: 
-  text: 
+  link: https://twitter.com/Kizumi_CB
+  image: https://pbs.twimg.com/profile_images/1678282534755647488/hhvrov4U_400x400.jpg
+  text: 右も左もわからないけど、楽しめればそれでよし！
   kind: コア
 
 - name: きいたけ
   link: 
-  image: 
+  image: /img/logo/box61.png
   text: 
   kind: コア
 
-- name: Yu Tobaru
-  link: 
-  image: 
+- name: 桃原優
+  link: https://twitter.com/utorval
+  image: https://pbs.twimg.com/media/DOmV-TTW4AA0aU4.jpg
   text: 
   kind: コア
-
