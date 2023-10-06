@@ -96,7 +96,7 @@ description: 2023年10月07日（土曜日） 9時半開場 沖縄県教職員�
             <ul>
               <li><a href="https://twitter.com/shumach217" target="_blank">@shumach217</a> | 初めての(Androidでの)Lチカ</li>
               <li><a href="https://twitter.com/iLP_isse" target="_blank">issei</a> | [チャンプルー料理] Laravel+Inertia ~ReactとVueとSveltをそえて~</li>
-              <li><a href="https://twitter.com/aipacommander" target="_blank">aipa</a> | Z級映画を作ったので公開する</li>
+              <li><a href="https://twitter.com/kanbo0605" target="_blank">カンボ@沖縄</a> | 誰でも簡単に始められるBDD(ビーチ駆動開発)のススメ</li>
             </ul>
         </td>
       </tr>
