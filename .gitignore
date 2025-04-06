@@ -2,6 +2,7 @@
 .bundle
 vendor
 Gemfile.lock
+.DS_Store
 
 # Jekyll
 _site
@@ -9,3 +10,5 @@ _site
 
 ### Emacs ###
 *~
+\#*\#
+.\#*
