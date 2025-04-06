@@ -1,5 +1,5 @@
 ---
-home: 2023
+home: 2025
 layout: nocamp/layout
 title: カンファレンスの部 プログラム
 description: 2025年8月2日（土曜日）
