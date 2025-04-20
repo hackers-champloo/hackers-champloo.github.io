@@ -1,0 +1,11 @@
+version: "3"
+services:
+    site:
+        image: starefossen/github-pages:latest
+        environment:
+            - GITHUB_GEM_VERSION=228
+            - JSON_GEM_VERSION=2.2.0
+        volumes:
+            - ./:/usr/src/app
+        ports:
+            - 4000:4000
