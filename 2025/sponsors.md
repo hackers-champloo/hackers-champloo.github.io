@@ -28,13 +28,6 @@ title: スポンサー紹介
 
 -----
 
-![](/img/2025/sponsors/cb-cloud.webp) CBcloud株式会社 [https://cb-cloud.com](https://cb-cloud.com)
-
-**[前夜祭スポンサー]**
-
-
------
-
 ![](/img/2025/sponsors/logo_CyberAgent_02_Wh_RGB.png) 株式会社サイバーエージェント [https://www.cyberagent.co.jp](https://www.cyberagent.co.jp)
 
 **[ゴールドスポンサー]**
@@ -54,6 +47,20 @@ title: スポンサー紹介
 社内業務支援系のWebアプリ開発やWebアプリケーション脆弱性診断を行うエンジニアが在籍しており、グループ会社向けに各サービスを展開しています。  
 サイバーエージェントグループでの開発やセキュリティの業務に興味を持たれた方はお気軽に弊社エンジニアにお声がけ頂くか下記URLよりご連絡ください。  
 [https://www.ca-adv.co.jp/contact-form/](https://www.ca-adv.co.jp/contact-form/)
+
+-----
+
+![](/img/2025/sponsors/cb-cloud.webp) CBcloud株式会社 [https://cb-cloud.com](https://cb-cloud.com)
+
+**[前夜祭スポンサー]**
+
+
+-----
+
+![](/img/2025/sponsors/jinjer.png) jinjer株式会社 [https://jinjer.co.jp/](https://jinjer.co.jp/)
+
+**[ゴールドスポンサー]**
+
 
 -----
 
