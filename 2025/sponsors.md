@@ -22,6 +22,12 @@ title: スポンサー紹介
 
 -----
 
+株式会社Alpaca.Lab [https://alpacalab.jp/](https://alpacalab.jp/)
+
+
+
+-----
+
 ![](/img/2025/sponsors/cb-cloud.webp) CBcloud株式会社 [https://cb-cloud.com](https://cb-cloud.com)
 
 **[前夜祭スポンサー]**
