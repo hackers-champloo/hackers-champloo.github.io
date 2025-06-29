@@ -22,14 +22,14 @@ title: スポンサー紹介
 
 -----
 
-![](/img/2025/cb-cloud.webp) CBcloud株式会社 [https://cb-cloud.com](https://cb-cloud.com)
+![](/img/2025/sponsors/cb-cloud.webp) CBcloud株式会社 [https://cb-cloud.com](https://cb-cloud.com)
 
 **[前夜祭スポンサー]**
 
 
 -----
 
-![](/img/2025/logo_CyberAgent_02_Wh_RGB.png) 株式会社サイバーエージェント [https://www.cyberagent.co.jp](https://www.cyberagent.co.jp)
+![](/img/2025/sponsors/logo_CyberAgent_02_Wh_RGB.png) 株式会社サイバーエージェント [https://www.cyberagent.co.jp](https://www.cyberagent.co.jp)
 
 **[ゴールドスポンサー]**
 
@@ -38,7 +38,7 @@ title: スポンサー紹介
 -----
 
 
-![](/img/2025/CAAD_LOGO_fix.png) 株式会社シーエー・アドバンス [https://www.ca-adv.co.jp/](https://www.ca-adv.co.jp/)
+![](/img/2025/sponsors/CAAD_LOGO_fix.png) 株式会社シーエー・アドバンス [https://www.ca-adv.co.jp/](https://www.ca-adv.co.jp/)
 
 **[ゴールドスポンサー]**
 
@@ -51,7 +51,7 @@ title: スポンサー紹介
 
 -----
 
-![](/img/2025/churadata_logo_.png) ちゅらデータ株式会社 [https://churadata.okinawa](https://churadata.okinawa)
+![](/img/2025/sponsors/churadata_logo_.png) ちゅらデータ株式会社 [https://churadata.okinawa](https://churadata.okinawa)
 
 **[ゴールドスポンサー]**
 
