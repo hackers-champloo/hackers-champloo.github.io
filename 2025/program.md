@@ -26,7 +26,6 @@ description: 2025年8月2日（土曜日）
   <table>
     <tbody>
       <tr>
-        <th></th>
         <td>
           <p class="track-title">更なる大規模イベントに向けた ABEMA アーキテクチャの遍歴</p>
           <p class="track-speaker">
@@ -45,7 +44,6 @@ description: 2025年8月2日（土曜日）
       </tr>
 
       <tr>
-        <th></th>
         <td>
           <p class="track-title">開発と管理の視点でサイバーエージェントの最新AI利活用状況を紹介！</p>
           <p class="track-speaker">
@@ -65,7 +63,6 @@ description: 2025年8月2日（土曜日）
       </tr>
 
       <tr>
-        <th></th>
         <td>
           <p class="track-title">ジンジャー(jinjer)サービスを支える沖縄の開発拠点について</p>
           <p class="track-speaker">
@@ -82,7 +79,6 @@ description: 2025年8月2日（土曜日）
       </tr>
 
       <tr>
-        <th></th>
         <td>
           <p class="track-title">一人目エンジニアからCTOまで、倒産で学んだリアルな話（仮）</p>
           <p class="track-speaker">
