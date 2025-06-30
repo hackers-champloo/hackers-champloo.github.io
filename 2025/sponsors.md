@@ -22,9 +22,12 @@ title: スポンサー紹介
 
 -----
 
-株式会社Alpaca.Lab [https://alpacalab.jp/](https://alpacalab.jp/)
+![ALPACA.LAB](img/2025/sponsors/alpaca.lab_logo_d.png) 株式会社Alpaca.Lab [https://alpacalab.jp/](https://alpacalab.jp/)
 
+「課題先進県の沖縄から課題解決のスタンダードを」
 
+美しい海、空、自然。温暖な気候。しかし、その恵まれた環境とは対照的に数え切れない課題を抱えている「課題先進県」でもあります。だからこそ、沖縄で実現できた課題解決策は、他の土地でもできるんじゃないか？
+そんな発想から、私たちアルパカラボは「産学連携」をキーワードにテクノロジーと人との繋がりで課題解決の手段を模索し課題解決の輪を広げていきます。
 
 -----
 
