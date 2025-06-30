@@ -50,7 +50,7 @@ title: スポンサー紹介
 
 -----
 
-![](/img/2025/sponsors/cb-cloud.webp) CBcloud株式会社 [https://cb-cloud.com](https://cb-cloud.com)
+![](/img/2025/sponsors/cb-cloud.png) CBcloud株式会社 [https://cb-cloud.com](https://cb-cloud.com)
 
 **[前夜祭スポンサー]**
 
