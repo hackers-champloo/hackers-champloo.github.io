@@ -64,22 +64,6 @@ description: 2025年8月2日（土曜日）
 
       <tr>
         <td>
-          <p class="track-title">ジンジャー(jinjer)サービスを支える沖縄の開発拠点について</p>
-          <p class="track-speaker">
-            <a href="https://jinjer.co.jp/" target="_blank">山城 博幸</a> / jinjer株式会社<br/>
-            <a href="https://jinjer.co.jp/" target="_blank">
-              <img class="speaker-photo" src="/img/2025/speakers/jinjer_yamashiro_hiroyuki.jpg" />
-            </a>
-            </p>
-            <p class="track-description">
-            <b>[スポンサーセッション]</b><br>
-            サービス開始から9年目を迎え、現在も拡大成長中のクラウド型人事労務システム「ジンジャー」(jinjer)を、立ち上げ期から支え続けている沖縄開発拠点の技術基盤や組織文化などについて紹介します。
-            </p>
-        </td>
-      </tr>
-
-      <tr>
-        <td>
           <p class="track-title">一人目エンジニアからCTOまで、倒産で学んだリアルな話（仮）</p>
           <p class="track-speaker">
             <a href="https://x.com/kizu19911020" target="_blank">神谷 築</a> / 株式会社 Mobile Order Lab<br/>
