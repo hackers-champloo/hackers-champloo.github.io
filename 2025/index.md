@@ -53,9 +53,8 @@ evepartysupporters:
 
 [https://hackers-champloo.connpass.com/event/361069/](https://hackers-champloo.connpass.com/event/361069/)
 
-- 会場: [浦添市産業振興センター・結の街 3階大研修室](https://www.urasoe-sangyocenter.jp/facility/3f.html)
+- 会場: [みぃーかじ　浦添店](https://www.hotpepper.jp/strJ001008194/food/)
 - 参加費: 4500円予定、学生無料枠あり
-- 駐車場あり
 
 ## 皆様とお会いできることを楽しみにしております‼️
 
