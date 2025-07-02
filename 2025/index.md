@@ -1,13 +1,25 @@
 ---
 layout: nocamp/top
 goldsponsors:
+    - name: アールスリーインスティテュート
+      url: https://www.r3it.com/
+      logo: /img/2025/sponsors/r3.png
+    - name: ちゅらデータ株式会社
+      url: https://churadata.okinawa
+      logo: /img/2025/sponsors/churadata_logo_.png
 sponsors:
+    - name: 株式会社Alpaca.Lab
+      url: https://alpacalab.jp/
+      logo: /img/2025/sponsors/alpaca.lab_logo_d.png
 studentsponsors:
 mediasponsors:
 supporters:
 designsupporters:
 wifisupporter:
 evepartysupporters:
+    - name: CBcloud株式会社
+      url: https://cb-cloud.com
+      logo: /img/2025/sponsors/cb-cloud.png
 ---
 
 
