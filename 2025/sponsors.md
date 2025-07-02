@@ -22,7 +22,7 @@ title: スポンサー紹介
 
 -----
 
-![ALPACA.LAB](img/2025/sponsors/alpaca.lab_logo_d.png) 株式会社Alpaca.Lab [https://alpacalab.jp/](https://alpacalab.jp/)
+![ALPACA.LAB](/img/2025/sponsors/alpaca.lab_logo_d.png) 株式会社Alpaca.Lab [https://alpacalab.jp/](https://alpacalab.jp/)
 
 「課題先進県の沖縄から課題解決のスタンダードを」
 
