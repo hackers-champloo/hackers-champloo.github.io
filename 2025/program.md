@@ -227,7 +227,7 @@ description: 2025年8月2日（土曜日）
       </tr>
       <tr class="track-break">
         <th>15:12 - (10分)</th>
-        <td><p class="track-title"><i class="fa fa-cutlery"></i> ひとやすみ もしくはトイレダッシュの時間</p></td>
+        <td><p class="track-title"><i class="fa fa-coffee"></i> ひとやすみ もしくはトイレダッシュの時間</p></td>
       </tr>
       <tr>
         <th>15:22 - 15:38 (16分)</th>
