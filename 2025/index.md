@@ -40,12 +40,6 @@ evepartysupporters:
 
 （それぞれのイベントに個別のお申し込みが必要ですのでご注意ください）
 
-## トーク公募
-
-[https://hackers-champloo.connpass.com/event/360896/](https://hackers-champloo.connpass.com/event/360896/)
-
-皆様の熱いトークのご応募お待ちしております！
-
 
 ## 前夜祭 2025年8月1日（金曜日）19時から
 
