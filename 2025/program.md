@@ -283,7 +283,6 @@ description: 2025年8月2日（土曜日）
             </p>
         </td>
       </tr>
-
       <tr>
         <th>16:57 - 17:10 (10分)</th>
         <td>
@@ -302,7 +301,6 @@ description: 2025年8月2日（土曜日）
           <p class="track-title">完全撤収</p>
         </td>
       </tr>
-
     </tbody>
   </table>
 </div>
