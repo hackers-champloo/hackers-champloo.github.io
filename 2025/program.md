@@ -1,7 +1,7 @@
 ---
 home: 2025
 layout: nocamp/layout
-title: カンファレンスの部 プログラム・スピーカー紹介
+title: カンファレンスの部 プログラム
 description: 2025年8月2日（土曜日）
 ---
 
@@ -15,11 +15,13 @@ description: 2025年8月2日（土曜日）
 
 - 会場名: [浦添市産業振興センター・結の街 3階大研修室](https://www.urasoe-sangyocenter.jp/facility/3f.html)
 - 参加費: 無料
+- [イベント参加申し込みはこちら](https://hackers-champloo.connpass.com/event/360947/)
+- [懇親会のお申し込みはこちら](https://hackers-champloo.connpass.com/event/361069/)
 
 
 --------------------------------------------------------------------------------
 
-<i class="fa fa-list-alt"></i> カンファレンスの部 スピーカー
+<i class="fa fa-list-alt"></i> カンファレンスの部 プログラム
 --------------------------------------------------------------------------------
 
 <div id="schedule">

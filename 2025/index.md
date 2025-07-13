@@ -55,6 +55,8 @@ evepartysupporters:
 
 ## カンファレンス本編 2025年8月2日（土曜日）9時半開場
 
+### [本編のタイムテーブル公開しました！](/2025/program.html)
+
 [https://hackers-champloo.connpass.com/event/360947/](https://hackers-champloo.connpass.com/event/360947/)
 
 - 会場: [浦添市産業振興センター・結の街 3階大研修室](https://www.urasoe-sangyocenter.jp/facility/3f.html)
