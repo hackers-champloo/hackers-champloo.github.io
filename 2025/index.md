@@ -4,6 +4,9 @@ goldsponsors:
     - name: アールスリーインスティテュート
       url: https://www.r3it.com/
       logo: /img/2025/sponsors/r3.png
+    - name: jinjer株式会社
+      url: https://jinjer.co.jp/
+      logo: /img/2025/sponsors/jinjer.png
     - name: ちゅらデータ株式会社
       url: https://churadata.okinawa
       logo: /img/2025/sponsors/churadata_logo_.png
