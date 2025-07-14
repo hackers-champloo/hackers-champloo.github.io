@@ -108,7 +108,7 @@ description: 2025年8月2日（土曜日）
       <tr>
         <th>11:33 - 11:43 (10分)</th>
         <td>
-          <p class="track-title">生成AIにできない「ビジネス」の作り方（仮）</p>
+          <p class="track-title">生成AIにできない「ビジネス」の作り方</p>
           <p class="track-speaker">
             <a href="https://www.r3it.com" target="_blank">金春 利幸</a> / アールスリーインスティテュート<br/>
             <a href="https://www.r3it.com" target="_blank">
@@ -239,7 +239,10 @@ description: 2025年8月2日（土曜日）
             <ul>
               <li>@aipacommander | Viteを高速化する<br>
               Viteは、JavaScript開発者なら一度は目にしたことがあるであろうビルドツールです。本LTでは、パフォーマンスチューニングの話ではなく、Viteを取り巻くツールチェインの強化という観点から、ぼくらフロントエンドエンジニアの開発をさらに高速化するためのツールを紹介します。また、簡単なデモを通じてその効果を実感してもらいます！（宣言）</li>
-              <li>下地 （CAアドバンス） | タイトル未定</li>
+              <li>下地 和輝 （株式会社シーエー・アドバンス ODX） | ノーコードツールの社内推進で累計5000時間/月の削減に成功した話<br>
+              ノーコードツールの活用でどうやって大幅な削減時間に成功したのか、その取り組みについて解説します！<br>
+              <img class="speaker-photo" src="/img/2025/speakers/T01650-.png" />
+              </li>
             </ul>
         </td>
       </tr>
