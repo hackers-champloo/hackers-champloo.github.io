@@ -4,6 +4,12 @@ goldsponsors:
     - name: アールスリーインスティテュート
       url: https://www.r3it.com/
       logo: /img/2025/sponsors/r3.png
+    - name: 株式会社サイバーエージェント
+      url: https://www.cyberagent.co.jp/
+      logo: /img/2025/sponsors/logo_CyberAgent_02_RGB.png
+    - name: 株式会社シーエー・アドバンス
+      url: https://www.ca-adv.co.jp/
+      logo: /img/2025/sponsors/CAAD_LOGO_fix.png
     - name: jinjer株式会社
       url: https://jinjer.co.jp/
       logo: /img/2025/sponsors/jinjer.png
