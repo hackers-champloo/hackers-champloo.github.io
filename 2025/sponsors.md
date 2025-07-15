@@ -55,6 +55,28 @@ gusukuシリーズというノーコードSaaSで、みんなの業務改善を�
 
 -----
 
+![](/img/2025/sponsors/logo_CyberAgent_02_RGB.png) 株式会社サイバーエージェント [https://www.cyberagent.co.jp](https://www.cyberagent.co.jp)
+
+**[ゴールドスポンサー]**
+
+
+
+-----
+
+
+![](/img/2025/sponsors/CAAD_LOGO_fix.png) 株式会社シーエー・アドバンス [https://www.ca-adv.co.jp/](https://www.ca-adv.co.jp/)
+
+**[ゴールドスポンサー]**
+
+「沖縄のインターネット産業の未来を創る」
+
+株式会社シーエー・アドバンスは、サイバーエージェントグループの一員として、沖縄でメディア・ゲーム・インターネット広告等に関わる事業を展開しています。  
+社内業務支援系のWebアプリ開発やWebアプリケーション脆弱性診断を行うエンジニアが在籍しており、グループ会社向けに各サービスを展開しています。  
+サイバーエージェントグループでの開発やセキュリティの業務に興味を持たれた方はお気軽に弊社エンジニアにお声がけ頂くか下記URLよりご連絡ください。  
+[https://www.ca-adv.co.jp/contact-form/](https://www.ca-adv.co.jp/contact-form/)
+
+-----
+
 **[デザイン協力]**
 
 Tシャツデザイン：まきんちょ
