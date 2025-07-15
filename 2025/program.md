@@ -146,12 +146,15 @@ description: 2025年8月2日（土曜日）
       <tr>
         <th>13:26 - 10:36 (10分)</th>
         <td>
-          <p class="track-title">タイトル未定</p>
+          <p class="track-title">“考えるだけで動く”を信じて、MQTTに送った脳波の話</p>
           <p class="track-speaker">
-            ちゅらデータ株式会社<br/>
+            chukei / ちゅらデータ株式会社<br/>
+              <img class="speaker-photo" src="/img/2025/speakers/70129567.jpeg" />
             </p>
             <p class="track-description">
             <b>[スポンサーセッション]</b><br>
+            趣味でPiEEG‑16で取得したデータから、α波・β波のバンドパワーをリアルタイムに解析し、MQTT経由の制御信号をM5Stamp Flyに送る構成を試作しています。<br>
+            当日は、脳波をトリガーにデバイスを動かす仕組みの設計・実装について発表致します!
             </p>
         </td>
       </tr>
