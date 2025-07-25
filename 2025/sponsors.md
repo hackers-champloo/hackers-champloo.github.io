@@ -86,6 +86,19 @@ gusukuシリーズというノーコードSaaSで、みんなの業務改善を�
 
 -----
 
+![](/img/2025/sponsors/protosolution.jpg) 株式会社プロトソリューション [https://protosolution.co.jp/](https://www.protosolution.co.jp/?utm_source=champloo&utm_medium=bnr&utm_campaign=hackers-champloo2025)
+
+**[ゴールドスポンサー]**
+
+「KANDOU COMPANY（感動カンパニー）」
+
+私たちは、自社サービス開発で培った知見とWebメディア・システム構築の技術力を活かし、AI推進にも注力。
+企業の事業開発やビジネス支援に加え、MaaS事業やSaaS開発も取り組んでいます。
+またIT部門では、「宜野湾西海岸を、ITビーチに」というビジョンを掲げ、沖縄からITを盛り上げるべく挑戦を続けています。
+「人間力」で感動を創造する強い企業として、沖縄からITの未来を切り拓きます。
+
+-----
+
 **[デザイン協力]**
 
 Tシャツデザイン：まきんちょ
