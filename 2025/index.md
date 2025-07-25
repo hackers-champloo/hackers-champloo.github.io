@@ -16,6 +16,9 @@ goldsponsors:
     - name: ちゅらデータ株式会社
       url: https://churadata.okinawa
       logo: /img/2025/sponsors/churadata_logo_.png
+    - name: 株式会社プロトソリューション
+      url: https://www.protosolution.co.jp/?utm_source=champloo&utm_medium=bnr&utm_campaign=hackers-champloo2025
+      logo: /img/2025/sponsors/protosolution.jpg
 sponsors:
     - name: 株式会社Alpaca.Lab
       url: https://alpacalab.jp/
