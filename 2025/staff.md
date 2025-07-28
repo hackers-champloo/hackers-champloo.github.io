@@ -38,6 +38,38 @@ title: 実行委員会 ボランティアスタッフ
 
 </ul>
 
+{% assign staffs_on_the_day = site.data.staffs2025 | where:'kind','当日' %}
+{% if staffs_on_the_day.last %}
+
+## ハッカーズチャンプルー2025 当日ボランティアスタッフ
+
+<ul class="staffs">
+
+{% for staff in staffs_on_the_day %}
+  {% if staff.name %}
+    {% if staff.link %}
+      <li>
+        <a href="{{ staff.link }}" target="_blank" rel="noopener">
+          {% if staff.image %}<img src="{{ staff.image }}" alt="{{ staff.name }}"><br>{% endif %}
+          {{ staff.name }}
+        </a>
+        {% if staff.text %}
+          <p>{{ staff.text }}</p>
+        {% endif %}
+      </li>
+    {% else %}
+      <li>
+        <span>{% if staff.image %}<img src="{{ staff.image }}" alt="{{ staff.name }}"><br>{% endif %}{{ staff.name }}</span>
+        {% if staff.text %}
+          <p>{{ staff.text }}</p>
+        {% endif %}
+      </li>
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+</ul>
+{% endif %}
 
 
 --------------------------------------------------------------------------------
