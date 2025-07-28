@@ -34,7 +34,51 @@
   text: 
   kind: コア
 - name: syogi
-  link: https://www.facebook.com/sanehiko.yogi
-  image: https://scontent-itm1-1.xx.fbcdn.net/v/t39.30808-1/465677785_10226105352157027_3271397546272606829_n.jpg?stp=dst-jpg_s480x480_tt6&_nc_cat=103&ccb=1-7&_nc_sid=e99d92&_nc_ohc=RuSyPMOQ8dIQ7kNvwFbhA_Q&_nc_oc=Adlfoq_quabIjHx91m1HYGfgD5ptbca0ZVNkd0f4DRQQSZAtVyB7Db3iPprVa0mq6D8OM5luMYf-B8iw_kpjCESf&_nc_zt=24&_nc_ht=scontent-itm1-1.xx&_nc_gid=40gEziWmR6sjhRl1cPpm0Q&oh=00_AfTw3UrxfRQuZQD_f51ujYMC50BbCU1pJHG8ibheL9m7oQ&oe=6875A837
+  link: https://public-yogi-images-bucket.s3.us-east-1.amazonaws.com/syogi.jpg
   text: 
   kind: コア
+- name: Riku
+  link: https://x.com/Riku__Miyagi
+  image: https://pbs.twimg.com/profile_images/1797593281704202240/oKRnHBF2_400x400.jpg
+  text: 
+  kind: 当日
+- name: takada
+  link: 
+  image: https://media.connpass.com/thumbs/df/b0/dfb03b732084b11d112024375ea3d93b.png
+  text: 
+  kind: 当日
+- name: 金城太一
+  link: 
+  image: https://media.connpass.com/thumbs/68/eb/68eb2c25d05fec5920917ecbe68e38a2.png
+  text: 枕に顔を押し付けて宇宙を見る エンジニアみたいなことをしている <a href='https://tida-intern.com/company' target='_blank' rel='noopener'>https://tida-intern.com/company</a>
+  kind: 当日
+- name: chi-ba
+  link: 
+  image: https://media.connpass.com/thumbs/44/06/44064fb183a3d2bfe8db8310fa164d75.png
+  text: 
+  kind: 当日
+- name: sa___shi
+  link: 
+  image: /img/logo/box61.png
+  text: 
+  kind: 当日
+- name: ぱるふぇ / Kaneku Saki
+  link: 
+  image: https://media.connpass.com/thumbs/a2/db/a2db96576b6b99f69dc92f443c5836be.png
+  text: 
+  kind: 当日
+- name: horseradish_ie
+  link: 
+  image: https://media.connpass.com/thumbs/1e/7d/1e7dbe5e88191d3d28ab1f7070e3f1b0.png
+  text: 琉大 ie y22
+  kind: 当日
+- name: jollyjoester
+  link: 
+  image: https://media.connpass.com/thumbs/13/e3/13e38d7a2fd0a5b1cfdf747cf8a9adac.png
+  text: jollyjoester（じょりーじょーすたー）です。 Swift/Kotlin愛好会やってます。
+  kind: 当日
+- name: Shimabukuro Ishizu
+  link: 
+  image: https://media.connpass.com/thumbs/44/da/44da7bacf83f6ae345389bf47fa2a626.png
+  text: 
+  kind: 当日
