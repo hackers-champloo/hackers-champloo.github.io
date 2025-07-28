@@ -194,7 +194,10 @@ description: 2025年8月2日（土曜日）
         <td>
           <p class="track-title">ジンジャー(jinjer)サービスを支える沖縄の開発拠点について</p>
           <p class="track-speaker">
-            山城 博幸 / jinjer株式会社 プロダクト開発部<br/>
+            <a href="https://www.facebook.com/hiroyuki.yamashiro.3" target="_blank">山城 博幸</a> / jinjer株式会社 プロダクト開発部<br/>
+            <a href="https://www.facebook.com/hiroyuki.yamashiro.3" target="_blank">
+              <img class="speaker-photo" src="/img/2025/speakers/jinjer_yamashiro_hiroyuki.jpg" />
+            </a>
             </p>
             <p class="track-description">
             <b>[スポンサーセッション]</b><br>
