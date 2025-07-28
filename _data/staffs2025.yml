@@ -34,7 +34,8 @@
   text: 
   kind: コア
 - name: syogi
-  link: https://public-yogi-images-bucket.s3.us-east-1.amazonaws.com/syogi.jpg
+  link: 
+  image: https://public-yogi-images-bucket.s3.us-east-1.amazonaws.com/syogi.jpg
   text: 
   kind: コア
 - name: Riku
