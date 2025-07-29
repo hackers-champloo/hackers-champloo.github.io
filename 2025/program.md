@@ -144,7 +144,7 @@ description: 2025年8月2日（土曜日）
         </td>
       </tr>
       <tr>
-        <th>13:26 - 10:36 (10分)</th>
+        <th>13:26 - 13:36 (10分)</th>
         <td>
           <p class="track-title">“考えるだけで動く”を信じて、MQTTに送った脳波の話</p>
           <p class="track-speaker">
