@@ -44,7 +44,7 @@ description: 2026年10月12日（月曜日・スポーツの日）
       <tr>
         <th>10:04 - 10:29 (25分)</th>
         <td>
-          <p class="track-title">「一覧画面とその一覧データのエクスポート機能作って」という単純な要求を実現するために求められる様々な設計判断</p>
+          <p class="track-title">「一覧画面とその一覧データのエクスポート機能作って」<br>という単純な要求を実現するために求められる様々な設計判断</p>
           <p class="track-speaker">
             Arakaki-Yuji<br/>
               <img class="speaker-photo" src="https://avatars.githubusercontent.com/u/1689744?v=4" />
@@ -143,7 +143,7 @@ MySQL 動かしたいんだけどいい感じに動かす手段は無いもの�
       <tr>
         <th>13:50 - 14:15 (25分)</th>
         <td>
-          <p class="track-title">仕事と関係ない話をするだけでチームが変わった話 ―リモートチームと「物語」のレバレッジポイント―</p>
+          <p class="track-title">仕事と関係ない話をするだけでチームが変わった話<br> ―リモートチームと「物語」のレバレッジポイント―</p>
           <p class="track-speaker">
               <a href="https://x.com/takusamar" target="_blank">岩村 琢</a><br/>
               <img class="speaker-photo" src="/img/2026/speakers/takusamar.jpg" />
@@ -172,7 +172,7 @@ MySQL 動かしたいんだけどいい感じに動かす手段は無いもの�
         <td>
           <p class="track-title">Xcodeでプロトタイピング(仮)</p>
           <p class="track-speaker">
-            Apple Worldwide Developer Relations, Technlogy Evangelist<br/>
+            Apple Worldwide Developer Relations<br/>
           </p>
           <p class="track-description">
           TBD
@@ -260,7 +260,7 @@ MySQL 動かしたいんだけどいい感じに動かす手段は無いもの�
         <td>
           <p class="track-title">ライトニングトーク Part 6</p>8分×2本<br />
           <ul>
-            <li>TBD</li>
+            <li>atsushikinjo | 一度死んだはなし</li>
           </ul>
         </td>
       </tr>
