@@ -20,15 +20,12 @@ evepartysupporters:
 
 ## Save the Date / 2026年10月12日🏖️
 
-浦添市てだこホール 市民交流室にて開催すべく準備中です。乞うご期待！
+<a href="program.html">プログラム公開</a>しました！
 
 
-# Call for Papers LTはまだ受付中です！
+# Call for Papers LTがあと数枠あります！
 
-ハッカーズチャンプルー2026では、皆様のライトニングトーク（7分）の登壇をお待ちしております。
-日頃溜まった知識や経験・意外と誰にも見せていない成果などなど、沖縄エンジニア界隈に向けて発信してみませんか？
-
-詳細は以下のGitHubプロジェクトにてご確認ください。
+以下のGitHubプロジェクトから、お申し込みお待ちしております！
 
 [https://github.com/hackers-champloo/cfp2026/](https://github.com/hackers-champloo/cfp2026/)
 
