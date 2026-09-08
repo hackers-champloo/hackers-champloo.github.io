@@ -1,9 +1,16 @@
 ---
 layout: nocamp/top
 goldsponsors:
+    - name: クオリサイトテクノロジーズ株式会社
+      url: https://www.qualysite.co.jp/
+      logo: /img/2026/sponsors/qst_logo2.png
+    - name: アールスリーインスティテュート
+      url: https://www.r3it.com/
+      logo: /img/2026/sponsors/r3.png
+    - name: jinjer株式会社
+      url: https://jinjer.co.jp/
+      logo: /img/2026/sponsors/jinjer.png
 sponsors:
-    - name: 近日公開
-      url: https://hackers-champloo.org/2026/sponsors.html
 studentsponsors:
 mediasponsors:
 supporters:
