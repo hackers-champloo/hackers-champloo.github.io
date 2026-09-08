@@ -1,16 +1,34 @@
 ---
 home: 2026
 layout: nocamp/layout
-title: スポンサー募集
+title: スポンサー紹介
 ---
 
-# スポンサー募集について
+各社様のご支援により、本イベントは開催することができます。
 
-<img src="/img/2015/10497446_833368266702301_2058758081536543300_o.jpg" align="right">
+多数のご支援、ありがとうございます！
 
-ハッカーズチャンプルー実行委員会では、会場費などの運営費を確保するために、スポンサーを募る予定です。
-詳細は決まり次第公開いたします。
+-----
+
+![](/img/2026/sponsors/qst_logo2.png) クオリサイトテクノロジーズ株式会社 [https://www.qualysite.co.jp/](https://www.qualysite.co.jp/)
+
+**[ゴールドスポンサー]**
 
 
-ご興味のある団体様は、是非[お問い合わせ](https://docs.google.com/forms/d/1MGJ4bVv8hpyXeLjvcGzZDpl838ZGHPA_plLqX_BJSbA/viewform)下さい。
+-----
+
+![](/img/2026/sponsors/r3.png) アールスリーインスティテュート [https://www.r3it.com/](https://www.r3it.com/)
+
+**[ゴールドスポンサー]**
+
+アールスリーインスティテュートは大阪の会社ですが、沖縄とは長いご縁があります。
+gusukuシリーズというノーコードSaaSで、みんなの業務改善をもっと身近にすることを目指して活動中。
+琉球ゴールデンキングスのトップパートナーとしても、沖縄の未来づくりをご一緒しています。
+ハッカーズチャンプルーでの出会いを楽しみにしています！
+
+-----
+
+![](/img/2026/sponsors/jinjer.png) jinjer株式会社 [https://jinjer.co.jp](https://jinjer.co.jp)
+
+**[ゴールドスポンサー]**
 
