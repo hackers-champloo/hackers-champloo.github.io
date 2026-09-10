@@ -90,7 +90,7 @@ description: 2026年10月12日（月曜日・スポーツの日）
           <p class="track-title">AI時代のPRレビューにどう向き合うか？</p>
           <p class="track-speaker">
             丸山 海理  / 株式会社サンエー<br/>
-              <img class="speaker-photo" src="/img/2025/speakers/chura-awashima.jpg" />
+              <img class="speaker-photo" src="/img/2026/speakers/km055662.png" />
           </p>
           <p class="track-description">
             生成AIでPRが量産される一方、レビューは追いつかない。差分は読めても「なぜこの変更なのか」の意図が分からないからです。コードの正しさはAIに任せられる時代、人間のレビューは「意図の把握」に重心を移せるはず——そう考えて、git push 時にAIとの対話で変更意図をADR的に引き出しPR説明文へ反映し、さらに変更を「1枚の図」に可視化する仕組みを作り、社内で運用を始めました。<br>
