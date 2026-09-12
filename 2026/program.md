@@ -79,7 +79,7 @@ description: 2026年10月12日（月曜日・スポーツの日）
         <th>10:54 - 11:09 (15分)</th>
         <td>
           <p class="track-title">スポンサーセッション</p>
-          <p class="track-speaker">TBD</p>
+          <p class="track-speaker">jinjer株式会社</p>
           <p class="track-description">
           </p>
         </td>
