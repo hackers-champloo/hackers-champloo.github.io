@@ -59,7 +59,7 @@ description: 2026年10月12日（月曜日・スポーツの日）
       <tr>
         <th>10:30 - 10:54 (24分)</th>
         <td>
-          <p class="track-title">ライトニングトーク Part 1</p>8分×3本<br />
+          <p class="track-title">ライトニングトーク Part 1</p>7分×3本<br />
           <ul>
             <li>htakada1207 | 社会人学生の生存戦略：「LLM×音声合成」で構築する通勤時間の自動学習パイプライン<br>
             大学院や日々の業務に追われ、技術記事を読むためのインプット時間が消滅した状況で隙間時間である「通勤」を学習時間へと変換するためのシステムを構築した。
@@ -129,7 +129,7 @@ description: 2026年10月12日（月曜日・スポーツの日）
       <tr>
         <th>13:34 - 13:50 (16分)</th>
         <td>
-          <p class="track-title">ライトニングトーク Part 3</p>8分×2本<br />
+          <p class="track-title">ライトニングトーク Part 3</p>7分×2本<br />
           <ul>
             <li>yoshiakist | Markdown と CSS で縦書きの本を組んで、Kindle に出せる形まで持っていく<br>
             Web エンジニアが日常的に書いている Markdown と CSS だけで、縦書き・ルビ付きの日本語の本が組めるんです。しかも PDF（印刷用）と EPUB（Kindle ダイレクト・パブリッシングにそのまま出稿できる形式）の両方で出力できます。
@@ -180,24 +180,17 @@ MySQL 動かしたいんだけどいい感じに動かす手段は無いもの�
         </td>
       </tr>
       <tr>
-        <th>14:58 - 15:05 (7分)</th>
+        <th>14:58 - 15:21 (23分)</th>
         <td>
-          <p class="track-title">ライトニングトーク Part 4</p>
+          <p class="track-title">ライトニングトーク Part 4</p>7分×3本<br />
           <ul>
             <li>sosukeymda-gif | 高専行ってITコンテスト荒らしやってます<br>
             沖縄高専の3年生です。入学してからひたすらITコンテストに出続けてきました。<br>
 7分で、出したコンテスト・受賞結果・総賞金額を全部並べます。それだけです。<br>
 そのうえで、なぜ高専生がこんなにコンテストに出られるのか、その環境の話を最後に少しだけ。同世代でまだ一度も出たことがない人に「意外といけるな」と思って帰ってもらえたら成功です。</li>
+            <li>TBD</li>
+            <li>TBD</li>
           </ul>
-        </td>
-      </tr>
-      <tr>
-        <th>15:06 - 15:21 (15分)</th>
-        <td>
-          <p class="track-title">スポンサーセッション</p>
-          <p class="track-speaker">TBD</p>
-          <p class="track-description">
-          </p>
         </td>
       </tr>
       <tr>
@@ -218,23 +211,16 @@ AIを使えば動くものは一晩で作れます。ただ、そこから「人
         </td>
       </tr>
       <tr class="track-break">
-        <th>15:48 - 16:03 (15分)</th>
+        <th>15:48 - 16:08 (20分)</th>
         <td><p class="track-title"><i class="fa fa-coffee"></i> 小休憩</p></td>
       </tr>
       <tr>
-        <th>16:03 - 16:18 (15分)</th>
+        <th>16:08 - 16:35 (24分)</th>
         <td>
-          <p class="track-title">スポンサーセッション</p>
-          <p class="track-speaker">TBD</p>
-          <p class="track-description">
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <th>16:19 - 16:35 (16分)</th>
-        <td>
-          <p class="track-title">ライトニングトーク Part 5</p>8分×2本<br />
+          <p class="track-title">ライトニングトーク Part 5</p>7分×3本<br />
           <ul>
+            <li>TBD</li>
+            <li>TBD</li>
             <li>TBD</li>
           </ul>
         </td>
@@ -262,7 +248,7 @@ AIを使えば動くものは一晩で作れます。ただ、そこから「人
       <tr>
         <th>17:17 - 17:33 (16分)</th>
         <td>
-          <p class="track-title">ライトニングトーク Part 6</p>8分×2本<br />
+          <p class="track-title">ライトニングトーク Part 6</p>7分×2本<br />
           <ul>
             <li>atsushikinjo | 一度死んだはなし</li>
           </ul>
