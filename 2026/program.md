@@ -251,6 +251,7 @@ AIを使えば動くものは一晩で作れます。ただ、そこから「人
           <p class="track-title">ライトニングトーク Part 6</p>7分×2本<br />
           <ul>
             <li>atsushikinjo | 一度死んだはなし</li>
+            <li>TBD</li>
           </ul>
         </td>
       </tr>
