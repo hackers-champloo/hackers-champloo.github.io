@@ -170,12 +170,12 @@ MySQL 動かしたいんだけどいい感じに動かす手段は無いもの�
       <tr>
         <th>14:32 - 14:57 (25分)</th>
         <td>
-          <p class="track-title">Xcodeでプロトタイピング(仮)</p>
+          <p class="track-title">iPhone Duoに向けたアプリ開発</p>
           <p class="track-speaker">
             Apple Worldwide Developer Relations<br/>
           </p>
           <p class="track-description">
-          TBD
+          2026年10月23日に発売される折りたためるデザインのiPhone Duoに向けたアプリの準備方法をご紹介します。デバイスの特徴や、それを考慮したデザインの原則やパターン、マルチウインドウ・マルチディスプレイ体験を構築する手法について解説していきます。
           </p>
         </td>
       </tr>
