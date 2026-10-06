@@ -103,16 +103,7 @@ description: 2026年10月12日（月曜日・スポーツの日）
         <td><p class="track-title"><i class="fa fa-cutlery"></i> 休憩（ランチブレイク 1.5h）</p></td>
       </tr>
       <tr>
-        <th>13:00 - 13:07 (7分)</th>
-        <td>
-          <p class="track-title">ライトニングトーク Part 2</p>
-          <ul>
-            <li>TBD</li>
-          </ul>
-        </td>
-      </tr>
-      <tr>
-        <th>13:08 - 13:33 (25分)</th>
+        <th>13:00 - 13:25 (25分)</th>
         <td>
           <p class="track-title">実践！ SRE × AI ~ ABEMA における AIOps</p>
           <p class="track-speaker">
@@ -129,7 +120,7 @@ description: 2026年10月12日（月曜日・スポーツの日）
       <tr>
         <th>13:34 - 13:50 (16分)</th>
         <td>
-          <p class="track-title">ライトニングトーク Part 3</p>7分×2本<br />
+          <p class="track-title">ライトニングトーク Part 2</p>7分×2本<br />
           <ul>
             <li>yoshiakist | Markdown と CSS で縦書きの本を組んで、Kindle に出せる形まで持っていく<br>
             Web エンジニアが日常的に書いている Markdown と CSS だけで、縦書き・ルビ付きの日本語の本が組めるんです。しかも PDF（印刷用）と EPUB（Kindle ダイレクト・パブリッシングにそのまま出稿できる形式）の両方で出力できます。
@@ -161,9 +152,12 @@ MySQL 動かしたいんだけどいい感じに動かす手段は無いもの�
       <tr>
         <th>14:16 - 14:31 (15分)</th>
         <td>
-          <p class="track-title">スポンサーセッション</p>
-          <p class="track-speaker">TBD</p>
+          <p class="track-title">Claude CodeのOpenTelemetryを活用した観測基盤構築PoC</p>
+          <p class="track-speaker">クオリサイトテクノロジーズ株式会社</p>
           <p class="track-description">
+            <b>[スポンサーセッション]</b><br>
+            社内でClaude Codeを使い始めると、「実際どれくらい使われているのか」が気になってきます。Claude CodeにはOpenTelemetryで利用状況を出力する仕組みがあり、これを使えば利用状況を集められます。<br>
+            本セッションでは、Claude Codeの利用状況を社内で収集し、Snowflakeに蓄積して可視化するまでのPoCの取り組みを紹介します。データ基盤づくりで気を付けたことや、苦手な部分をAIに任せてみた話も交えてお話しします。 
           </p>
         </td>
       </tr>
@@ -179,10 +173,14 @@ MySQL 動かしたいんだけどいい感じに動かす手段は無いもの�
           </p>
         </td>
       </tr>
+      <tr class="track-break">
+        <th>14:57 - 15:20 (20分)</th>
+        <td><p class="track-title"><i class="fa fa-coffee"></i> 小休憩</p></td>
+      </tr>
       <tr>
-        <th>14:58 - 15:21 (23分)</th>
+        <th>15:20 - 15:36 (16分)</th>
         <td>
-          <p class="track-title">ライトニングトーク Part 4</p>7分×3本<br />
+          <p class="track-title">ライトニングトーク Part 3</p>7分×2本<br />
           <ul>
             <li>sosukeymda-gif | 高専行ってITコンテスト荒らしやってます<br>
             沖縄高専の3年生です。入学してからひたすらITコンテストに出続けてきました。<br>
@@ -194,18 +192,11 @@ MySQL 動かしたいんだけどいい感じに動かす手段は無いもの�
             本LTでは、複数のLLMを組み合わせる手法をいくつか紹介し、実際に「LLMチャンプルー」を作ってみます。<br>
             果たして、最強のAIは作れるのでしょうか？
             </li>
-            <li>Issei0804-ie | Captive Portalを使用したWi-Fi環境の構築(仮)<br>
-            公共施設で提供されているWi-Fiに接続すると何故か専用サイトにアクセスされ認証を求められた経験はあるかと思います。<br>
-            これはCaptive Portalと呼ばれる仕組みです。<br>
-            応用すると認証が完了するまでグローバルインターネットへのアクセスを遮断できます。<br>
-            しかしこれらは複雑な技術ではなく、Wi-Fi AP 付きのMiniPCとOSSを使用して構築することができます。<br>
-            このLTではCaptive Portalの説明と、セッション中にCaptive Portalのデモとして参加者がアクセスできるAPを生やします。
-            </li>
           </ul>
         </td>
       </tr>
       <tr>
-        <th>15:22 - 15:47 (25分)</th>
+        <th>15:36 - 16:01 (25分)</th>
         <td>
           <p class="track-title">AIで一晩で作ったものを、デザイナーの目で仕上げるまで</p>
           <p class="track-speaker">
@@ -221,21 +212,23 @@ AIを使えば動くものは一晩で作れます。ただ、そこから「人
           </p>
         </td>
       </tr>
-      <tr class="track-break">
-        <th>15:48 - 16:08 (20分)</th>
-        <td><p class="track-title"><i class="fa fa-coffee"></i> 小休憩</p></td>
-      </tr>
       <tr>
-        <th>16:08 - 16:35 (24分)</th>
+        <th>16:01 - 16:25 (24分)</th>
         <td>
-          <p class="track-title">ライトニングトーク Part 5</p>7分×3本<br />
+          <p class="track-title">ライトニングトーク Part 4</p>7分×3本<br />
           <ul>
             <li>aipacommander | でーじいまさらReactを学ぶ<br>
             VueとNuxtが好きです。Reactは経験がないわけではないですが、ガッツリやったことはありません。ただ、周りはReact使いが多い印象があります。立場上技術評価を求められた時にReactか〜〜〜（自信がない現れ）ってなることも少なくありません。<br>
             技術を学ぶ時に皆様は何を使うでしょうか。本でしょうか。とりあえず作るでしょうか。僕の場合はFWを読む・小さく作る。をおすすめしています。ただ、時間が中々取れないと結構しんどいと思います。僕はしんどいです。<br>
             そこでAIを使って、課題を作りサッと学べる今風な学びのプロセスを皆様に共有できたら。と思います。
             </li>
-            <li>TBD</li>
+            <li>Issei0804-ie | Captive Portalを使用したWi-Fi環境の構築(仮)<br>
+            公共施設で提供されているWi-Fiに接続すると何故か専用サイトにアクセスされ認証を求められた経験はあるかと思います。<br>
+            これはCaptive Portalと呼ばれる仕組みです。<br>
+            応用すると認証が完了するまでグローバルインターネットへのアクセスを遮断できます。<br>
+            しかしこれらは複雑な技術ではなく、Wi-Fi AP 付きのMiniPCとOSSを使用して構築することができます。<br>
+            このLTではCaptive Portalの説明と、セッション中にCaptive Portalのデモとして参加者がアクセスできるAPを生やします。
+            </li>
             <li>TBD</li>
           </ul>
         </td>
@@ -243,8 +236,11 @@ AIを使えば動くものは一晩で作れます。ただ、そこから「人
       <tr>
         <th>16:35 - 16:50 (15分)</th>
         <td>
-          <p class="track-title">スポンサーセッション</p>
-          <p class="track-speaker">TBD</p>
+          <p class="track-title">ハッカーズチャンプルーのつくりかた</p>
+          <p class="track-speaker"><a href="https://x.com/k_nishijima">k_nishijima</a> / アールスリーインスティテュート</p>
+          <p class="track-description">
+            ハッカーズチャンプルーのつくりかた、教えます。
+          </p>
         </td>
       </tr>
       <tr>
@@ -263,7 +259,7 @@ AIを使えば動くものは一晩で作れます。ただ、そこから「人
       <tr>
         <th>17:17 - 17:33 (16分)</th>
         <td>
-          <p class="track-title">ライトニングトーク Part 6</p>7分×2本<br />
+          <p class="track-title">ライトニングトーク Part 5</p>7分×2本<br />
           <ul>
             <li>atsushikinjo | 一度死んだはなし</li>
             <li>TBD</li>
