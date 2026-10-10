@@ -78,9 +78,17 @@ description: 2026年10月12日（月曜日・スポーツの日）
       <tr>
         <th>10:54 - 11:09 (15分)</th>
         <td>
-          <p class="track-title">スポンサーセッション</p>
-          <p class="track-speaker">jinjer株式会社</p>
+          <p class="track-title">人は「承認」するだけ ― AI SREボットで問い合わせ対応を自動化した話</p>
+          <p class="track-speaker">
+            宇根 良汰 / jinjer株式会社<br/>
+            <img class="speaker-photo" src="/img/2026/speakers/jinjer-une.png" />
+          </p>
           <p class="track-description">
+            <b>[スポンサーセッション]</b><br>
+            SRE には日々「エラーが出ました」「本番だけ動かない」「遅いと言われた」といった問い合わせが寄せられ、一次切り分けだけで多くの時間が溶けていました。<br>
+            そこで、Slack でメンションするだけで AWS 環境を調査してくれる AI SREボット「SRE KAN-NUSHI」を、Amazon Bedrock（Claude）と Strands Agents で開発し、社内に展開しました。<br>
+            本セッションでは、ReadOnly 権限・個人情報のマスク・コスト上限といった「境界は硬く」作る安全設計や、アラートの自動初動調査、対話でのチケット起票まで広がった運用の実際をご紹介します。<br>
+            さらに次のステップとして取り組んでいる、修正の PR 作成まで AI に任せ、人は「承認」に集中する仕組みの構想についてもお話しします。AI に任せる部分と人が判断する部分の線引きを考えている方の参考になればうれしいです。
           </p>
         </td>
       </tr>
