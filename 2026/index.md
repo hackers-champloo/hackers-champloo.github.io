@@ -25,26 +25,11 @@ evepartysupporters:
 
 # Hackers Champloo 2026
 
-## Save the Date / 2026年10月12日🏖️
+## ご参加いただいた皆様、ありがとうございました
 
-<a href="program.html">プログラム公開</a>しました。
+またいつか、お会いできることを楽しみにしております！！
 
-## イベント申し込みページもオープン‼️
-
-* まず前日10月11日の夜は[前夜祭](https://hackers-champloo.connpass.com/event/406431/)
-
-* [カンファレンス本編のお申し込みはこちら](https://hackers-champloo.connpass.com/event/406428/)
-
-* そして終わったら[その場で懇親会](https://hackers-champloo.connpass.com/event/406433/)です
-
-昨今頻発している「勉強会タダ飯パーソン」対策にて、社会人の皆様には少し費用をいただく予定ですが、内容はお釣りが来るレベルでご用意する予定ですので、ぜひお早めにお申し込みください！
-
-
-# Call for Papers LTがあと数枠あります！
-
-以下のGitHubプロジェクトから、お申し込みお待ちしております！
-
-[https://github.com/hackers-champloo/cfp2026/](https://github.com/hackers-champloo/cfp2026/)
+感想ブログなど書いてハッシュタグで共有していただければ、実行委員会一同嬉しく思います😊
 
 ----
 
