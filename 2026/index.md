@@ -29,6 +29,8 @@ evepartysupporters:
 
 またいつか、お会いできることを楽しみにしております！！
 
+## [Xのまとめ](https://posfie.com/@k_nishijima/p/KueLGBb)公開しました！
+
 感想ブログなど書いてハッシュタグで共有していただければ、実行委員会一同嬉しく思います😊
 
 ----
